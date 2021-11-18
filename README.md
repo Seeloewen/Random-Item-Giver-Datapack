@@ -1,4 +1,4 @@
-# Random-Item-Giver-Datapack
+# Random Item Giver Datapack
 
 With the Random Item Giver Datapack you can get a random item every x seconds. You can modify the time when you get an item and also which types of items you want to get!
 This datapack is an updated version of Phoenix SC's original version, so make sure to check him out here:
@@ -12,11 +12,14 @@ If you have any questions, check the FAQ or open a new issue. It usally doesn't 
 If you want faster support, better information about the updates and more I suggest you joining my Discord Server!
 https://discord.gg/pUGzCU2mk3
 
+The datapack can also be found on Planetminecraft!
+https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2
+
 ## FAQ
 
 **Q**: I want to use another version of the Datapack. Where can I find it?
 **A**: You can find other versions, like older versions or modified versions on the Mediafire download page
-
+https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
 
 **Q**: Can I upload a video in which I use this datapack?
 **A**: Yes, you can. You can also put a link to the datapack in the video description, that would be a great way to support me!
