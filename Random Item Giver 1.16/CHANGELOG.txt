@@ -1,0 +1,74 @@
+╔═══════╗ ╔═╗  ╔═╗ ╔══════╗ ╔══╗    ╔═╗ ╔═══════╗ ╔═══════╗ ╔═╗       ╔══════╗ ╔═══════╗
+║ ╔═════╝ ║ ║  ║ ║ ║ ╔══╗ ║ ║  ╚╗   ║ ║ ║ ╔═════╝ ║ ╔═════╝ ║ ║       ║ ╔══╗ ║ ║ ╔═════╝
+║ ║       ║ ╚══╝ ║ ║ ╚══╝ ║ ║ ╠╗╚╗  ║ ║ ║ ║       ║ ║       ║ ║       ║ ║  ║ ║ ║ ║
+║ ║       ║ ╔══╗ ║ ║ ╔══╗ ║ ║ ║╚╗╚╗ ║ ║ ║ ║ ╔═══╗ ║ ╚═════╗ ║ ║       ║ ║  ║ ║ ║ ║ ╔═══╗
+║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
+║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
+╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+
+Version 1.0.15 for Minecraft 1.16.5 (11.08.2021)
++ Added a message when you get an item (can be toggled)
+* Fixed the bug, that enchanted books didn't work
+
+Version 1.0.14 for Minecraft 1.16.5 (27.07.2021)
+* menus now only show up for the person who opens them
+
+Version 1.0.13 for Minecraft 1.16.5 (24.07.2021)
++ added item-settings menu
+* redesigned settings menu
+* menus now stay on the bottom of the chat when a setting is changed
+
+Version 1.0.12 for Minecraft 1.16.5 (28.06.2021)
++ settings now save
++ everyone gets a different item at the same time now in multiplayer
+
+Version 1.0.11 for Minecraft 1.16.5 (08.05.2021)
++ added Pause/Continue function
+
+Version 1.0.10 for Minecraft 1.16.5 (22.04.2021)
++ added settings
++ added "News" and "Credits" menu
++ added uninstall function
+* redesigned UI
+* lowered chance to get potions and enchanted books
+
+Version 1.0.9 for Minecraft 1.16.5 (05.03.2021)
++ added all suspicious soups with effects
+
+Version 1.0.8 for Minecraft 1.16.5 (18.02.2021)
++ added beehive
++ added bee nest
++ added honey block
++ added honeycomb block
++ added honey bottle
++ added honeycomb
++ added bee spawn egg
+
+Version 1.0.7 for Minecraft 1.16.5 (02.02.2021)
+* fixed a critical bug which caused you to sometimes get two items at once (found by MrRedeminator)
+
+Version 1.0.6 for Minecraft 1.16.5 (17.01.2021)
+! updated to 1.16.5
+
+Version 1.0.5 for Minecraft 1.16.4 (29.11.2020)
++ added all potions
++ added all enchanted Books
++ added all tipped arrows
+
+Version 1.0.4 for Minecraft 1.16.4 (03.11.2020)
+! updated to 1.16.4
+
+Version 1.0.3 for Minecraft 1.16.3 (10.09.2020)
++ added a help 'message' and 'about' message
+* changed the reload message
+! updated to 1.16.3
+
+Version 1.0.2 for Minecraft 1.16.2 (07.09.2020)
+* now optimized for Multiplayer, but everybody gets the same items.
+! This might be reworked in the future.
+
+Version 1.0.1 for Minecraft 1.16.2 (22.08.2020)
++ added message on reload
+
+Version 1.0.0 for Minecraft 1.16.2 (20.08.2020)
+! initial release of the datapack
