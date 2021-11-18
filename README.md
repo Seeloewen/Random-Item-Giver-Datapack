@@ -42,7 +42,7 @@ https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
 1.14: Not available
 1.15: Not available
 1.16: available, receives updates
-1.17: available, receives updates
+1.17: available, no longer receives updates
 1.18: beta available, receives updates
 
 Please note that I most likely won't backport the datapack to older versions as it utilises a lot of 1.16+ features and porting them into an older version is really time consuming and would need a lot of modifications.
