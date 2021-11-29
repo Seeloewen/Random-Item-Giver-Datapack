@@ -28,10 +28,10 @@ https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
 **A**: Yes, it is. Every x seconds every player on the server gets a random item.
 
 **Q**: What items are you able to get?
-**A**: Every single one in the game as of 1.18-rc3.
+**A**: Every single one in the game as of 1.18.
 
 **Q**: Does this work with the newest version of minecraft?
-**A**: Yes, it does! It is confirmed to work with up to 1.18-rc3 and possibly higher. I always try to keep it up to date.
+**A**: Yes, it does! It is confirmed to work with up to 1.18 and possibly higher. I always try to keep it up to date.
 
 **Q**: How do I change the time you get an item?
 **A**: You can change the time in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
@@ -43,6 +43,6 @@ https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
 1.15: Not available
 1.16: available, receives updates
 1.17: available, no longer receives updates
-1.18: beta available, receives updates
+1.18: available, receives updates
 
 Please note that I most likely won't backport the datapack to older versions as it utilises a lot of 1.16+ features and porting them into an older version is really time consuming and would need a lot of modifications.
