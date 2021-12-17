@@ -8,7 +8,7 @@ forceload add 0 0
 setblock 0 255 0 chest
 execute store result score rng_main item_timer run loot insert 0 255 0 loot randomitemgiver:rng_main
 
-#Give random item
+#Give 1 random item
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 7..1060 if score SpawnEggs Enabled matches 2 if score CommandBlocks Enabled matches 2 if score OtherItems Enabled matches 2 run execute as @a run loot give @s loot randomitemgiver:main
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 7..1060 if score SpawnEggs Enabled matches 1 if score CommandBlocks Enabled matches 1 if score OtherItems Enabled matches 1 run execute as @a run loot give @s loot randomitemgiver:main_without_creative-only
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 7..1060 if score SpawnEggs Enabled matches 2 if score CommandBlocks Enabled matches 1 if score OtherItems Enabled matches 1 run execute as @a run loot give @s loot randomitemgiver:special_vxx
@@ -23,6 +23,30 @@ execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItem
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 4 run execute as @a run loot give @s loot randomitemgiver:splash_potion
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 5 run execute as @a run loot give @s loot randomitemgiver:tipped_arrow
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score rng_main item_timer matches 6 run execute as @a run loot give @s loot randomitemgiver:suspicious_stew
+
+#Give 2 different items
+
+#Give 2 same items
+
+#Give 3 different items
+
+#Give 3 same items
+
+#Give 5 different items
+
+#Give 5 same items
+
+#Give 10 different items
+
+#Give 10 same items
+
+#Give 32 different items
+
+#Give 32 same items
+
+#Give full inventory of the same item
+
+#Give full inventory of different items
 
 #Post that you got an item (if enabled)
 execute if score give item_timer matches 0 if score RandomItemGiverPack GiveItems matches 2 if score ShowItemMessage Enabled matches 2 run tellraw @a ["",{"text":"[","color":"gray"},{"text":"Random Item Giver","bold":true,"color":"gold"},{"text":"]","color":"gray"},{"text":" You received a new item!","color":"green"}] 
