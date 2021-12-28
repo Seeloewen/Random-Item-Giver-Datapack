@@ -1,7 +1,7 @@
 #Check for time
 scoreboard objectives add ItemTimer dummy
 scoreboard players add give ItemTimer 1
-execute if score give ItemTimer >= give_item ItemTimer run scoreboard players set give ItemTimer 0
+execute if score give ItemTimer >= RandomItemGiver ItemTimer run scoreboard players set give ItemTimer 0
 
 #Generate random number
 setblock 0 255 0 chest

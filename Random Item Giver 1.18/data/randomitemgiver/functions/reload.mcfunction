@@ -19,8 +19,8 @@ execute unless score RandomItemGiver CommandBlocks matches 1..2 run scoreboard p
 execute unless score RandomItemGiver OtherItems matches 1..2 run scoreboard players set RandomItemGiver OtherItems 2
 execute unless score RandomItemGiver ItemTimer matches 1..999999999 run scoreboard players set RandomItemGiver ItemTimer 300
 execute unless score RandomItemGiver ShowItemMessage matches 1..2 run scoreboard players set RandomItemGiver ShowItemMessage 1
-execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard players set RandomItemGiver RandomItemType 2
-execute unless score RandomItemGiver ItemGiveAmount matches 1..7 run scoreboard players set RandomItemGiver RandomItemAmount 1
+execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard players set RandomItemGiver ItemGiveType 2
+execute unless score RandomItemGiver ItemGiveAmount matches 1..7 run scoreboard players set RandomItemGiver ItemGiveAmount 1
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
