@@ -4,6 +4,7 @@ scoreboard objectives remove GiveItems dummy
 scoreboard objectives remove SpawnEggs dummy
 scoreboard objectives remove CommandBlocks dummy
 scoreboard objectives remove OtherItems dummy
+scoreboard objectives remove ItemTimer dummy
 scoreboard objectives remove ShowItemMessage dummy
 scoreboard objectives remove ItemGiveType dummy
 scoreboard objectives remove ItemGiveAmount dummy
