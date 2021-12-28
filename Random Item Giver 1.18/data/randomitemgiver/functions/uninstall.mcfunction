@@ -1,13 +1,13 @@
 #Remove Scoreboard entrys
-scoreboard objectives remove Seconds dummy
-scoreboard objectives remove GiveItems dummy
-scoreboard objectives remove SpawnEggs dummy
-scoreboard objectives remove CommandBlocks dummy
-scoreboard objectives remove OtherItems dummy
-scoreboard objectives remove ItemTimer dummy
-scoreboard objectives remove ShowItemMessage dummy
-scoreboard objectives remove ItemGiveType dummy
-scoreboard objectives remove ItemGiveAmount dummy
+scoreboard objectives remove Seconds
+scoreboard objectives remove GiveItems
+scoreboard objectives remove SpawnEggs
+scoreboard objectives remove CommandBlocks
+scoreboard objectives remove OtherItems
+scoreboard objectives remove ItemTimer
+scoreboard objectives remove ShowItemMessage
+scoreboard objectives remove ItemGiveType
+scoreboard objectives remove ItemGiveAmount
 
 #Remove forceload for chunk at 0 0
 forceload remove 0 0
