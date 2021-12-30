@@ -10,11 +10,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:15,EffectDuration:160}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -24,11 +24,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:12,EffectDuration:80}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -38,11 +38,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:8,EffectDuration:120}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -52,11 +52,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:16,EffectDuration:100}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -66,11 +66,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:10,EffectDuration:160}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -80,11 +80,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:19,EffectDuration:240}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -94,11 +94,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:23,EffectDuration:7}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -108,11 +108,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:18,EffectDuration:180}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 },
                 {
@@ -122,11 +122,11 @@
                         {
                             "function": "set_nbt",
                             "tag": "{Effects:[{EffectId:20,EffectDuration:160}]}"
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": 2304
-            }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2304
+                        }
                     ]
                 }
             ]
