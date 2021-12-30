@@ -250,7 +250,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_strenght\"}"
+                            "tag": "{Potion:\"minecraft:strong_strength\"}"
                         }
                     ]
                 },
@@ -360,7 +360,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_strenght\"}"
+                            "tag": "{Potion:\"minecraft:long_strength\"}"
                         }
                     ]
                 },
