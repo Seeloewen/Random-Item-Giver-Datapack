@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players add give_item item_timer 200
-scoreboard players add Time Seconds 10
+scoreboard players add RandomItemGiver ItemTimer 200
+scoreboard players add RandomItemGiver Seconds 10
 
 #Show settings menu again
 function randomitemgiver:menus/settings

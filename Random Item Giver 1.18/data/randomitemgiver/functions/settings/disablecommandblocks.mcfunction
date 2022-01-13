@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players reset CommandBlocks
-scoreboard players set CommandBlocks Enabled 1
+scoreboard players reset RandomItemGiver CommandBlocks
+scoreboard players set RandomItemGiver CommandBlocks 1
 
 #Show settings menu again
 function randomitemgiver:menus/items
