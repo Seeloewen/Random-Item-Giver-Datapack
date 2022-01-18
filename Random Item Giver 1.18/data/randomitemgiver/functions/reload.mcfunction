@@ -7,6 +7,7 @@ scoreboard objectives add GiveItems dummy
 scoreboard objectives add SpawnEggs dummy
 scoreboard objectives add CommandBlocks dummy
 scoreboard objectives add OtherItems dummy
+scoreboard objectives add ItemTimer dummy
 scoreboard objectives add ShowItemMessage dummy
 scoreboard objectives add ItemGiveType dummy
 scoreboard objectives add ItemGiveAmount dummy
