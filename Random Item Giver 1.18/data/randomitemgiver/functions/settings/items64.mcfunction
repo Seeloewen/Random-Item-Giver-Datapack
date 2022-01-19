@@ -6,4 +6,4 @@ scoreboard players set RandomItemGiver ItemGiveAmount 7
 function randomitemgiver:menus/items
 
 #Post that settings changed successfully
-tellraw @a {"text":"Successfully set item give amount to full inventory.","color":"green"}
+tellraw @a {"text":"Successfully set item give amount to 64.","color":"green"}

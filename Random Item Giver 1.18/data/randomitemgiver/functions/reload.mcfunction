@@ -42,4 +42,4 @@ tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":
 #ItemTimer: Must be between 1 and 999999999
 #ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
 #ItemGiveType: 1 means "same item", 2 means "different item"
-#ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "full inventory of items"
+#ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64"
