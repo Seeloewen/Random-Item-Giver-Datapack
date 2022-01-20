@@ -6,11 +6,20 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.2.1 for Minecraft 1.18.1 (20.01.2022)
++ Added new settings for multiple items and item give types
+* Slightly redesigned settings UI
+* Fixed typo which caused strength potions to not work
+* Made some code optimizations to make it more understandable
+
 Version 1.2.0 for Minecraft 1.18 (30.11.2021)
 + Added otherside music disc from 21w42a
 * Changed version number to 8 for full compatibility with 1.18
 
 ======= 1.17.x =======
+
+Version 1.1.5 for Minecraft 1.17.1 (20.01.2022)
+* Fixed a typo which caused strength potions to not work
 
 Version 1.1.4 for Minecraft 1.17.1 (11.08.2021)
 + Added a message when you get an item (can be toggled)
