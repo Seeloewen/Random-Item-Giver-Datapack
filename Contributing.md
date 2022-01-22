@@ -21,5 +21,8 @@ If you want to add other items or blocks, edit the loot tables main.json, main_w
 * special_xvv.json contains all items, command blocks, other creative-only items but not spawn eggs
 * special_xvx.json contains all items, command blocks, but not spawn eggs and other creative-only items
 * special_xxv.json contains all items, other creative-only items, but not spawn eggs and command blocks
+
 Make sure to edit all loot tables when adding a new item.
 It is also recommended to edit the "max" value in rng_main.json loot table so if you add 3 items, you make the number 3 bigger.
+
+Please make sure to add the items in all loot tables in all folders (1item, 2items and so on.) In the loot tables where you get multiple items, make sure to also add the correct amount value.
