@@ -685,16 +685,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blue_bed",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 5
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:blue_carpet",
           "functions": [
             {
