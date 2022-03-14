@@ -37,7 +37,7 @@ tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"#EFAF1A"},{"text
 execute if score RandomItemGiver GiveItems matches 1 run tellraw @s ["",{"text":"[Continue]","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/continue"},"hoverEvent":{"action":"show_text","contents":"Continue the datapack"}},{"text":" (currently paused)","italic":true,"color":"gray"}]
 execute if score RandomItemGiver GiveItems matches 2 run tellraw @s ["",{"text":"[Pause]","color":"red","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/pause"},"hoverEvent":{"action":"show_text","contents":"Pause the datapack"}},{"text":" (currently continued)","italic":true,"color":"gray"}]
 tellraw @s {"text":" "}
-tellraw @s ["",{"text":"Show a message when you receive an item:","italic":true,"color":"yellow"}]
+tellraw @s ["",{"text":"Toggle features that are run when you receive an item:","italic":true,"color":"yellow"}]
 execute if score RandomItemGiver ShowItemMessage matches 1 run tellraw @s {"text":"[Enable item message]","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/enableitemmessage"},"hoverEvent":{"action":"show_text","contents":"Enable Item message"}}
 execute if score RandomItemGiver ShowItemMessage matches 2 run tellraw @s {"text":"[Disable item message]","color":"red","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/disableitemmessage"},"hoverEvent":{"action":"show_text","contents":"Disable item message"}}
 tellraw @s {"text":" "}
