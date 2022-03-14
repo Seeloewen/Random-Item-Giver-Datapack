@@ -3641,6 +3641,21 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:blackstone_button"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:debug_stick"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book"
         }
       ]
     }

@@ -9702,6 +9702,402 @@
               "count": 3
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cracked_polished_blackstone_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_fence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_trapdoor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_door",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_fence_gate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_trapdoor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_door",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fence_gate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stonecutter",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_button",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_button",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_button",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_pressure_plate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_pressure_plate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_pressure_plate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_sign",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_sign",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:debug_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:candle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
         }
       ]
     }

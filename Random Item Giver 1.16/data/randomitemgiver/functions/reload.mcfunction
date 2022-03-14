@@ -12,7 +12,7 @@ scoreboard objectives add ShowItemMessage dummy
 scoreboard objectives add ItemGiveType dummy
 scoreboard objectives add ItemGiveAmount dummy
 
-#Setup datapack if no settings have been made before
+tellraw @a {"text":"Random Item Giver 1.0.16 was successfully loaded!","color":"green"}
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
 execute unless score RandomItemGiver GiveItems matches 1..2 run scoreboard players set RandomItemGiver GiveItems 2
 execute unless score RandomItemGiver SpawnEggs matches 1..2 run scoreboard players set RandomItemGiver SpawnEggs 2
