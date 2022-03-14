@@ -4076,7 +4076,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blackstone_button"
+          "name": "minecraft:polished_blackstone_button"
  
         },
         {
@@ -4091,7 +4091,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blackstone_pressure_plate"
+          "name": "minecraft:polished_blackstone_pressure_plate"
  
         },
         {
