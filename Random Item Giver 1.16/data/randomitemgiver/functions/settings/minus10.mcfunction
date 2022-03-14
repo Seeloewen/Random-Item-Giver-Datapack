@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players remove give_item item_timer 200
-scoreboard players remove Time Seconds 10
+scoreboard players remove RandomItemGiver ItemTimer 200
+scoreboard players remove RandomItemGiver Seconds 10
 
 #Show settings menu again
 function randomitemgiver:menus/settings

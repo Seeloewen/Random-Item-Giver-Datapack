@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players reset OtherItems
-scoreboard players set OtherItems Enabled 2
+scoreboard players reset RandomItemGiver OtherItems
+scoreboard players set RandomItemGiver OtherItems 2
 
 #Show settings menu again
 function randomitemgiver:menus/items

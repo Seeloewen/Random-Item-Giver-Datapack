@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players reset RandomItemGiverPack
-scoreboard players set RandomItemGiverPack GiveItems 2
+scoreboard players reset RandomItemGiver GiveItems
+scoreboard players set RandomItemGiver GiveItems 2
 
 #Show settings menu again
 function randomitemgiver:menus/settings

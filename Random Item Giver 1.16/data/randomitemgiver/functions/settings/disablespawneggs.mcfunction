@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players reset SpawnEggs
-scoreboard players set SpawnEggs Enabled 1
+scoreboard players reset RandomItemGiver SpawnEggs
+scoreboard players set RandomItemGiver SpawnEggs 1
 
 #Show settings menu again
 function randomitemgiver:menus/items

@@ -1,6 +1,6 @@
 #Change setting
-scoreboard players reset ShowItemMessage
-scoreboard players set ShowItemMessage Enabled 1
+scoreboard players reset RandomItemGiver ShowItemMessage
+scoreboard players set RandomItemGiver ShowItemMessage 1
 
 #Show settings menu again
 function randomitemgiver:menus/settings
