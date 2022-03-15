@@ -6,6 +6,15 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.0.16 for Minecraft 1.16.5 (15.03.2022)
++ Added new settings for multiple items and item give types
++ Added missing items from older versions
++ Added option for 'plop' sound on item give
+* Fixed blue bed appearing twice in loot tables
+* Slightly redesigned settings UI
+* Fixed typo which caused strength potions to not work
+* Fixed several bugs
+
 Version 1.0.15 for Minecraft 1.16.5 (11.08.2021)
 + Added a message when you get an item (can be toggled)
 * Fixed the bug, that enchanted books didn't work
