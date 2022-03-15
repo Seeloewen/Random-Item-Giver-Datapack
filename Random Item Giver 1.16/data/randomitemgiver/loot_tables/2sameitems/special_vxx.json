@@ -9125,7 +9125,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:crimson_trap_door",
+          "name": "minecraft:crimson_trapdoor",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -9185,7 +9185,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:warped_trap_door",
+          "name": "minecraft:warped_trapdoor",
           "functions": [
             {
               "function": "minecraft:set_count",
