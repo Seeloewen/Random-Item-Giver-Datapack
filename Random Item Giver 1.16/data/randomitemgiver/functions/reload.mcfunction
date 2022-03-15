@@ -11,8 +11,9 @@ scoreboard objectives add ItemTimer dummy
 scoreboard objectives add ShowItemMessage dummy
 scoreboard objectives add ItemGiveType dummy
 scoreboard objectives add ItemGiveAmount dummy
+scoreboard objectives add PlayItemSound dummy
 
-tellraw @a {"text":"Random Item Giver 1.0.16 was successfully loaded!","color":"green"}
+#Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
 execute unless score RandomItemGiver GiveItems matches 1..2 run scoreboard players set RandomItemGiver GiveItems 2
 execute unless score RandomItemGiver SpawnEggs matches 1..2 run scoreboard players set RandomItemGiver SpawnEggs 2
@@ -22,6 +23,7 @@ execute unless score RandomItemGiver ItemTimer matches 1..999999999 run scoreboa
 execute unless score RandomItemGiver ShowItemMessage matches 1..2 run scoreboard players set RandomItemGiver ShowItemMessage 1
 execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard players set RandomItemGiver ItemGiveType 1
 execute unless score RandomItemGiver ItemGiveAmount matches 1..7 run scoreboard players set RandomItemGiver ItemGiveAmount 1
+execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard players set RandomItemGiver PlayItemSound 1
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
@@ -43,3 +45,4 @@ tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":
 #ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
 #ItemGiveType: 1 means "same item", 2 means "different item"
 #ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64"
+#PlayItemSound: Score 2 means "enabled", 1 means "disabled"

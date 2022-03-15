@@ -11,6 +11,7 @@ scoreboard objectives add ItemTimer dummy
 scoreboard objectives add ShowItemMessage dummy
 scoreboard objectives add ItemGiveType dummy
 scoreboard objectives add ItemGiveAmount dummy
+scoreboard objectives add PlayItemSound dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -22,6 +23,7 @@ execute unless score RandomItemGiver ItemTimer matches 1..999999999 run scoreboa
 execute unless score RandomItemGiver ShowItemMessage matches 1..2 run scoreboard players set RandomItemGiver ShowItemMessage 1
 execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard players set RandomItemGiver ItemGiveType 1
 execute unless score RandomItemGiver ItemGiveAmount matches 1..7 run scoreboard players set RandomItemGiver ItemGiveAmount 1
+execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard players set RandomItemGiver PlayItemSound 1
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
