@@ -8929,6 +8929,17 @@
               "count": 5
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:test123",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ]
         }
       ]
     }
