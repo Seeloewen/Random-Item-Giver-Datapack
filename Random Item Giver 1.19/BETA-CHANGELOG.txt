@@ -1,0 +1,41 @@
+╔═══════╗ ╔═╗  ╔═╗ ╔══════╗ ╔══╗    ╔═╗ ╔═══════╗ ╔═══════╗ ╔═╗       ╔══════╗ ╔═══════╗
+║ ╔═════╝ ║ ║  ║ ║ ║ ╔══╗ ║ ║  ╚╗   ║ ║ ║ ╔═════╝ ║ ╔═════╝ ║ ║       ║ ╔══╗ ║ ║ ╔═════╝
+║ ║       ║ ╚══╝ ║ ║ ╚══╝ ║ ║ ╠╗╚╗  ║ ║ ║ ║       ║ ║       ║ ║       ║ ║  ║ ║ ║ ║
+║ ║       ║ ╔══╗ ║ ║ ╔══╗ ║ ║ ║╚╗╚╗ ║ ║ ║ ║ ╔═══╗ ║ ╚═════╗ ║ ║       ║ ║  ║ ║ ║ ║ ╔═══╗
+║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
+║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
+╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+
+Version 1.3.0-Beta1 (19.03.2022)
++ Added mud
++ Added mangrove roots
++ Added mangrove log
++ Added muddy mangrove roots
++ Added stripped mangrove log
++ Added stripped mangrove wood
++ Added mangrove wood
++ Added mud brick slab
++ Added mangrove slab
++ Added sculk
++ Added mangrove fence
++ Added packed mud
++ Added mud bricks
++ Added mud brick stairs
++ Added mangrove fence gate
++ Added mangrove propagule
++ Added sculk catalyst
++ Added sculk vein
++ Added ochre froglight
++ Added pearlescent froglight
++ Added verdant froglight
++ Added mud brick wall
++ Added mangrove sign
++ Added sculk shrieker
++ Added tadpole spawn egg
++ Added frog spawn egg
++ Added mangrove trapdoor
++ Added mangrove door
++ Added mangrove boat
++ Added tadpole bucket
++ Added frogspawn
+* Changed pack number to 10
