@@ -1542,6 +1542,51 @@
               "count": 3
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:1}]}"
+                        }
+                    ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:2}]}"
+                        }
+                    ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:3}]}"
+                        }
+                    ]
         }
       ]
     }

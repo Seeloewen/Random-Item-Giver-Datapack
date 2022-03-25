@@ -1102,6 +1102,39 @@
               "tag": "{StoredEnchantments:[{id:unbreaking,lvl:3}]}"
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:1}]}"
+                        }
+                    ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:2}]}"
+                        }
+                    ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{StoredEnchantments:[{id:swift_sneak,lvl:3}]}"
+                        }
+                    ]
         }
       ]
     }
