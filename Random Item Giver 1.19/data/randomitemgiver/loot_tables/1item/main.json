@@ -4592,6 +4592,16 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:frog_spawn_egg"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:allay_spawn_egg"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:reinforced_deepslate"
         }
       ]
     }

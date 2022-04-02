@@ -10677,6 +10677,17 @@
               "count": 3
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:reinforced_deepslate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
         }
       ]
     }

@@ -11171,6 +11171,17 @@
               "count": 64
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:allay_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
         }
       ]
     }

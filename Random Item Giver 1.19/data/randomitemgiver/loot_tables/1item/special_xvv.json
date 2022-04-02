@@ -4304,6 +4304,11 @@
           "type": "minecraft:item",
           "name": "minecraft:mangrove_chest_boat"
  
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:reinforced_deepslate"
         }
       ]
     }
