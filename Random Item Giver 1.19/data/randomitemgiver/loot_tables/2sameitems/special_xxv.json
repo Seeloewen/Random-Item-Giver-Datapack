@@ -10628,6 +10628,28 @@
               "count": 2
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:recovery_compass",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:echo_shard",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }

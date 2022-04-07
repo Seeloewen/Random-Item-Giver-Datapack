@@ -4578,6 +4578,16 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:reinforced_deepslate"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:recovery_compass"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:echo_shard"
         }
       ]
     }
