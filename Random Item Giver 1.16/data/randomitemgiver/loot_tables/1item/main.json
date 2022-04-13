@@ -3769,10 +3769,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blackstone_slab"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:blackstone_wall"
         },
         {
@@ -3852,112 +3848,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cracked_polished_blackstone_bricks"
  
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:crimson_slab"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_fence"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_stairs"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_trapdoor"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_door"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_fence_gate"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:blackstone_slab"
-  
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:blackstone_wall"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:blackstone_stairs"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_slab"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_wall"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_stairs"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_brick_slab"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_brick_wall"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_brick_stairs"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:zoglin_spawn_egg"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stonecutter"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:crimson_button"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_button"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_blackstone_button"
- 
-        },
+        },        
         {
           "type": "minecraft:item",
           "name": "minecraft:knowledge_book"

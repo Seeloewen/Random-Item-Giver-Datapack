@@ -3689,10 +3689,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blackstone_slab"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:blackstone_wall"
         },
         {
