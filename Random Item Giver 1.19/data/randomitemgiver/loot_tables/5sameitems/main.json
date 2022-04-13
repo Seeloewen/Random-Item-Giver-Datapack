@@ -10185,16 +10185,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_deepslate_stairs",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 5
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:deepslate_tile_stairs",
           "functions": [
             {
@@ -11359,39 +11349,6 @@
             }
           ]
  
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:warden_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 5
-            }
-          ]
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:tadpole_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 5
-            }
-          ]
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:frog_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 5
-            }
-          ]
-  
         },
         {
           "type": "minecraft:item",
