@@ -4009,10 +4009,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_deepslate_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:deepslate_tile_slab"
         },
         {
