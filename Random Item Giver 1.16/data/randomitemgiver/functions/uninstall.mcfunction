@@ -14,7 +14,7 @@ scoreboard objectives remove PlayItemSound
 forceload remove 0 0
 
 #Post that datapack was disabled
-tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"click here To enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-0-16-mc-1-16-5\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
+tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"click here To enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-0-16-mc-1-16-5.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
 
 #Disable Datapack
-datapack disable "file/random-item-giver-1-0-16-mc-1-16-5"
+datapack disable "file/random-item-giver-1-0-16-mc-1-16-5.zip"
