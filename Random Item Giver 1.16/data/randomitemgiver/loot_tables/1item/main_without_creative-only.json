@@ -3550,10 +3550,6 @@
           "type": "minecraft:item",
           "name": "minecraft:written_book"
   
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:test123"
         }
       ]
     }
