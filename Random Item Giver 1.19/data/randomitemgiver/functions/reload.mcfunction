@@ -27,7 +27,7 @@ execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard p
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
-tellraw @a {"text":"Random Item Giver 1.3.0-Beta4 was successfully loaded!","color":"green"}
+tellraw @a {"text":"Random Item Giver 1.3.0-Beta5 was successfully loaded!","color":"green"}
 tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"}}
 tellraw @a {"text":" "}
 tellraw @a ["",{"text":"Important","bold":true,"color":"red"},{"text":": You are using a Beta of the Random Item Giver, so you might experience issues. Please report every bug you can find ","color":"red"},{"text":"here","underlined":true,"color":"red","clickEvent":{"action":"open_url","value":"https://discord.gg/GhaVU3G9xR"},"hoverEvent":{"action":"show_text","contents":"Join Louis9's datapack Discord server"}},{"text":".","color":"red"}]
