@@ -3773,11 +3773,6 @@
           "type": "minecraft:item",
           "name": "minecraft:debug_stick"
  
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:written_book"
-  
         }
       ]
     }

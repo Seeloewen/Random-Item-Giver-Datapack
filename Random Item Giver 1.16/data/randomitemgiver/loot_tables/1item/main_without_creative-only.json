@@ -3533,23 +3533,6 @@
           "type": "minecraft:item",
           "name": "minecraft:cracked_polished_blackstone_bricks"
  
-        },
-
-        
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:debug_stick"
- 
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:written_book"
-  
         }
       ]
     }
