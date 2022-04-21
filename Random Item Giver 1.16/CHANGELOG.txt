@@ -5,6 +5,11 @@
 ║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+Version 1.0.17 for Minecraft 1.16.5 (21.04.2022)
+* Fixed several loot tables having duplicates
+* Fixed several loot tables having creative-only items even though they shouldn't contain them
+* Fixed uninstall version not working if the datapack is zipped
+* Fixed datapack not working at all because of some 'test123' item in all loot tables
 
 Version 1.0.16 for Minecraft 1.16.5 (15.03.2022)
 + Added new settings for multiple items and item give types
