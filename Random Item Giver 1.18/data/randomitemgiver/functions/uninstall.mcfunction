@@ -13,7 +13,7 @@ scoreboard objectives remove ItemGiveAmount
 forceload remove 0 0
 
 #Post that datapack was disabled
-tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"click here To enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-2-2-mc-1-18-2.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
+tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"click here To enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-2-3-mc-1-18-2.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
 
 #Disable Datapack
-datapack disable "file/random-item-giver-1-2-2-mc-1-18-2.zip"
+datapack disable "file/random-item-giver-1-2-3-mc-1-18-2.zip"

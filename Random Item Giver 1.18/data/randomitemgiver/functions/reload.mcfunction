@@ -27,7 +27,7 @@ execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard p
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
-tellraw @a {"text":"Random Item Giver 1.2.2 was successfully loaded!","color":"green"}
+tellraw @a {"text":"Random Item Giver 1.2.3 was successfully loaded!","color":"green"}
 tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"}}
 
 
