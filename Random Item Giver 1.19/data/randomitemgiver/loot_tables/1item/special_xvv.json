@@ -3938,383 +3938,386 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_otherside"
-  
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:cracked_polished_blackstone_bricks"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_fence"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_trapdoor"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_door"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_fence_gate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:blackstone_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_fence"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_trapdoor"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_door"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_fence_gate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:blackstone_wall"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:blackstone_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_wall"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_brick_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_brick_wall"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_brick_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:stonecutter"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_button"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_button"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_button"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_pressure_plate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_pressure_plate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_blackstone_pressure_plate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crimson_sign"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:warped_sign"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:knowledge_book"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:debug_stick"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:written_book"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:candle"
-  
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mud"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_roots"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_log"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:muddy_mangrove_roots"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:stripped_mangrove_log"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:stripped_mangrove_wood"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_wood"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mud_brick_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_slab"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:sculk"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_fence"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:packed_mud"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mud_bricks"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mud_brick_stairs"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_fence_gate"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_propagule"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:sculk_catalyst"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:sculk_vein"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:ochre_froglight"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:pearlescent_froglight"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:verdant_froglight"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mud_brick_wall"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_sign"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:sculk_shrieker"
- 
         },
-
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_trapdoor"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_door"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:tadpole_bucket"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:frogspawn"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:oak_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:spruce_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:birch_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:jungle_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:acacia_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:dark_oak_chest_boat"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:mangrove_chest_boat"
- 
-  
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:reinforced_deepslate"
-  
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:recovery_compass"
- 
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:echo_shard"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:1}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:2}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:3}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:4}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:5}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:6}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SoundVariant:7}"
+            }
+          ]
         }
       ]
     }
