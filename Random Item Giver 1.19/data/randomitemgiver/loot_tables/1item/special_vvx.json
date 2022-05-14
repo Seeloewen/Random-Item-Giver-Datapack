@@ -4532,7 +4532,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:0}"
+                            "tag": "{instrument:\"minecraft:ponder_goat_horn\"}"
                         }
                     ]
                 },
@@ -4542,7 +4542,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:1}"
+                            "tag": "{instrument:\"minecraft:sing_goat_horn\"}"
                         }
                     ]
                 },
@@ -4552,7 +4552,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:2}"
+                            "tag": "{instrument:\"minecraft:seek_goat_horn\"}"
                         }
                     ]
                 },
@@ -4562,7 +4562,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:3}"
+                            "tag": "{instrument:\"minecraft:feel_goat_horn\"}"
                         }
                     ]
                 },
@@ -4572,7 +4572,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:4}"
+                            "tag": "{instrument:\"minecraft:admire_goat_horn\"}"
                         }
                     ]
                 },
@@ -4582,7 +4582,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:5}"
+                            "tag": "{instrument:\"minecraft:call_goat_horn\"}"
                         }
                     ]
                 },
@@ -4592,7 +4592,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:6}"
+                            "tag": "{instrument:\"minecraft:yearn_goat_horn\"}"
                         }
                     ]
                 },
@@ -4602,7 +4602,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{SoundVariant:7}"
+                            "tag": "{instrument:\"minecraft:dream_goat_horn\"}"
                         }
                     ]
                 }
