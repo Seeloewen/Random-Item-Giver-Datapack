@@ -18,8 +18,7 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 ## FAQ
 
 **Q**: I want to use another version of the Datapack. Where can I find it?
-**A**: You can find other versions, like older versions or modified versions on the Mediafire download page
-https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
+**A**: You can find other versions, like older versions or modified versions in the Builds folder in this GitHub repository.
 
 **Q**: Can I upload a video in which I use this datapack?
 **A**: Yes, you can. You can also put a link to the datapack in the video description, that would be a great way to support me!
