@@ -1,5 +1,7 @@
 # Random Item Giver Datapack
 
+![GitHub all releases](https://img.shields.io/github/downloads/Seeloewen/Random-Item-Giver-Datapack/total?style=for-the-badge)
+
 With the Random Item Giver Datapack you can get a random item every x seconds. You can modify the time when you get an item and also which types of items you want to get!
 This datapack is an updated version of Phoenix SC's original version, so make sure to check him out here:
 https://www.youtube.com/c/PhnixhamstaSC
