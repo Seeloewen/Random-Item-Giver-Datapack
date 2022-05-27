@@ -1,5 +1,7 @@
 # Random Item Giver Datapack
 
+![GitHub all releases](https://img.shields.io/github/downloads/Seeloewen/Random-Item-Giver-Datapack/total?style=for-the-badge)
+
 With the Random Item Giver Datapack you can get a random item every x seconds. You can modify the time when you get an item and also which types of items you want to get!
 This datapack is an updated version of Phoenix SC's original version, so make sure to check him out here:
 https://www.youtube.com/c/PhnixhamstaSC
@@ -18,8 +20,7 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 ## FAQ
 
 **Q**: I want to use another version of the Datapack. Where can I find it?
-**A**: You can find other versions, like older versions or modified versions on the Mediafire download page
-https://www.mediafire.com/folder/kkfylo5u59rpr/Random+Item+Giver+by+Louis9
+**A**: You can find other versions, like older versions or modified versions in the Builds folder in this GitHub repository.
 
 **Q**: Can I upload a video in which I use this datapack?
 **A**: Yes, you can. You can also put a link to the datapack in the video description, that would be a great way to support me!
