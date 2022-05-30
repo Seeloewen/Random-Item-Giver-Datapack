@@ -4162,6 +4162,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:echo_shard"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_bed"
         }
       ]
     }

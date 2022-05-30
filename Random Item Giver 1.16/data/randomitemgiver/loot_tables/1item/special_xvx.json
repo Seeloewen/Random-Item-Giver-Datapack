@@ -3531,6 +3531,11 @@
           "type": "minecraft:item",
           "name": "minecraft:warped_sign"
   
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_bed"
         }
       ]
     }

@@ -4043,6 +4043,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:candle"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_bed"
         }
       ]
     }

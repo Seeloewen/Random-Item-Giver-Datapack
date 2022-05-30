@@ -8,6 +8,7 @@ scoreboard objectives remove ItemTimer
 scoreboard objectives remove ShowItemMessage
 scoreboard objectives remove ItemGiveType
 scoreboard objectives remove ItemGiveAmount
+scoreboard objectives remove PlayItemSound
 
 #Remove forceload for chunk at 0 0
 forceload remove 0 0

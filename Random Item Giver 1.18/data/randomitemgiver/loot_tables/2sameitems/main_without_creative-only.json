@@ -9995,6 +9995,17 @@
               "count": 2
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_bed",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }
