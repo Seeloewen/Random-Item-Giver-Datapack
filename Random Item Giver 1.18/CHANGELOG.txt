@@ -6,6 +6,11 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.2.4 for Minecraft 1.18.2 (01.06.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
+
 Version 1.2.3 for Minecraft 1.18.2 (22.04.2022)
 * Fixed several loot tables having duplicates
 * Fixed several loot tables having creative-only items even though they shouldn't contain them
@@ -46,7 +51,7 @@ Version 1.1.2 for Minecraft 1.17.1 (24.07.2021)
 
 Version 1.1.1 for Minecraft 1.17 (28.06.2021)
 + settings now save
-+ everyone gets a differet item at the same time now in multiplayer
++ everyone gets a different item at the same time now in multiplayer
 
 Version 1.1.0 for Minecraft 1.17 (09.06.2021)
 + added raw copper
@@ -154,6 +159,11 @@ Version 1.1.0 for Minecraft 1.17 (09.06.2021)
 * changed the code for compatibility with 1.17
 
 ======= 1.16.x =======
+
+Version 1.0.18 for Minecraft 1.16.5 (01.06.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
 
 Version 1.0.17 for Minecraft 1.16.5 (22.04.2022)
 * Fixed several loot tables having duplicates
