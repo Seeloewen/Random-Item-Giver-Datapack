@@ -5,6 +5,12 @@
 ║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+
+Version 1.0.18 for Minecraft 1.16.5 (31.05.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
+
 Version 1.0.17 for Minecraft 1.16.5 (22.04.2022)
 * Fixed several loot tables having duplicates
 * Fixed several loot tables having creative-only items even though they shouldn't contain them

@@ -27,7 +27,7 @@ execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard p
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
-tellraw @a {"text":"Random Item Giver 1.0.17 was successfully loaded!","color":"green"}
+tellraw @a {"text":"Random Item Giver 1.0.18 was successfully loaded!","color":"green"}
 tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"}}
 
 
@@ -44,5 +44,5 @@ tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":
 #ItemTimer: Must be between 1 and 999999999
 #ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
 #ItemGiveType: 1 means "same item", 2 means "different item"
-#ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64"
+#ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64" items
 #PlayItemSound: Score 2 means "enabled", 1 means "disabled"
