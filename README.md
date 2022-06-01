@@ -29,7 +29,7 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **A**: Yes, it is. Every x seconds every player on the server gets a random item.
 
 **Q**: What items are you able to get?
-**A**: Every single one in the game as of snapshot 22w19a.
+**A**: Every single one in the game as of snapshot 1.19-pre4.
 
 **Q**: Does this work with the newest version of minecraft?
 **A**: Yes, it does! It is confirmed to work with up to snapshot 22w19a and possibly higher. I always try to keep it up to date.
@@ -38,13 +38,6 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **A**: You can change the time in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
 
 **Q**: What versions of Minecraft is the datapack available for?
-**A**: Here is a list of all versions that are or were supported:
-1.13: Not available
-1.14: Not available
-1.15: Not available
-1.16: available, receives updates
-1.17: available, no longer receives updates
-1.18: available, receives updates
-1.19: beta available, receives updates
+**A**: A list of all versions can be found in Security.MD
 
 Please note that I most likely won't backport the datapack to older versions as it utilises a lot of 1.16+ features and porting them into an older version is really time consuming and would need a lot of modifications.
