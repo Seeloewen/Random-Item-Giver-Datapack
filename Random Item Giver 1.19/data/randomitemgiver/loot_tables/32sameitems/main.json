@@ -11404,6 +11404,61 @@
               "count": 32
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_leaves",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_planks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:disc_fragment_5",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_5",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
         }
       ]
     }

@@ -4530,6 +4530,31 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:black_bed"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_leaves"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_planks"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:disc_fragment_5"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_5"
+ 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_stairs"
         }
       ]
     }
