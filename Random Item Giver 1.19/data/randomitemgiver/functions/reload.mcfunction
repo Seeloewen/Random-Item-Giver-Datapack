@@ -27,7 +27,7 @@ execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard p
 execute unless score RandomItemGiver ShowItemAmountScoreboard matches 1..2 run scoreboard players set RandomItemGiver ShowItemAmountScoreboard 1
 
 #Setup Random Number Generator by CloudWolf
-function randomitemgiver:randomnumbergenerators/random_amount_same_items_generator/setup
+function randomitemgiver:randomnumbergenerators/rng_same_items_gen/setup
 function randomitemgiver:randomnumbergenerators/main_generator/setup
 
 #Post that datapack is loaded
