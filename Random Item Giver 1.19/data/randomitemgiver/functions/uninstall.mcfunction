@@ -9,9 +9,11 @@ scoreboard objectives remove ShowItemMessage
 scoreboard objectives remove ItemGiveType
 scoreboard objectives remove ItemGiveAmount
 scoreboard objectives remove PlayItemSound
-
-#Remove forceload for chunk at 0 0
-forceload remove 0 0
+scoreboard objectives remove ShowItemAmountScoreboard
+scoreboard objectives remove RandomItemsReceived
+scoreboard objectives remove ItemsReceivedTemp
+scoreboard objectives remove RandomAmountSameItemsGen
+scoreboard objectives remove MainGen
 
 #Post that datapack was disabled
 tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"Click here to enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-1-mc-1-19-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
