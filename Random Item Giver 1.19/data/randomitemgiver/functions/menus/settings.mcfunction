@@ -1,37 +1,6 @@
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+tellraw @s "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 tellraw @s {"text":"═════════════════════════","color":"green","bold":true}
 tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"#EFAF1A"},{"text":" - ","bold":true,"color":"gray"},{"text":"Settings (Page 1)","bold":true,"color":"red"},{"text":"\n\n"},{"text":"Pause/Continue the datapack:","italic":true,"color":"yellow"}]
 execute if score RandomItemGiver GiveItems matches 1 run tellraw @s ["",{"text":"[Continue]","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/continue"},"hoverEvent":{"action":"show_text","contents":"Continue the datapack"}},{"text":" (currently paused)","italic":true,"color":"gray"}]

@@ -1,3 +1,7 @@
+#Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+
 #Remove Scoreboard entrys
 scoreboard objectives remove Seconds
 scoreboard objectives remove GiveItems

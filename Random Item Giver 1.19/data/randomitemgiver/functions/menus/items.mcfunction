@@ -1,37 +1,6 @@
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+tellraw @s "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 tellraw @s {"text":"═════════════════════════","color":"green","bold":true}
 tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"#EFAF1A"},{"text":" -","bold":true,"color":"gray"},{"text":" Items","bold":true,"color":"dark_purple"},{"text":"\n\n"},{"text":"Toggle the items you can get:","color":"yellow","italic":"true"}]
 execute if score RandomItemGiver SpawnEggs matches 2 run tellraw @s {"text":"[Disable Spawn Eggs]","color":"red","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/disablespawneggs"},"hoverEvent":{"action":"show_text","contents":"Disable Spawn Eggs"}}
