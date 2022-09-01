@@ -14,8 +14,8 @@ https://discord.gg/pUGzCU2mk3 - Ask for questions in the support chat
 
 [FAQ]
 Q: I want to use another version of the Datapack. Where can I find it?
-A: You can find other versions, like older versions or modified versions on the Mediafire download page
-https://www.mediafire.com/folder/kkfylo5u59rpr/Random_Item_Giver_by_Louis9
+A: You can find other versions, like older versions or modified versions on the GitHub page
+https://github.com/Seeloewen/Random-Item-Giver-Datapack/tree/main/Builds
 
 Q: Can I upload a video in which I use this datapack?
 A: Yes, you can. You can also put a link to the datapack in the video description, that would be a great way to support me!
@@ -27,7 +27,7 @@ Q: What items are you able to get?
 A: Every single one in the game as of the version of the datapack you are currently running.
 
 Q: Does this work with the newest version of minecraft?
-A: Yes, it does! It is confirmed to work with up to 1.19.1 and possibly higher. I always try to keep it up to date.
+A: Yes, it does! It is confirmed to work with up to 1.19.2 and possibly higher. I always try to keep it up to date.
 
 Q: How do I change the time you get an item?
 A: You can change the time in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
