@@ -26,7 +26,7 @@ The Fact, that there weren't any 1.15 blocks and items which was fixed in 1.0.8 
 The suspicious soups with the effects were added by QueenieLawrens. You can find him here: https://www.planetminecraft.com/member/queenielawrens/
 
 [User Credit 5]
-The typo that caused strength potions to not work was reported by User3947613G on PlanetMinecraft: https://www.planetminecraft.com/member/User3947613G/
+The typo that caused strength potions to not work was reported by User3947613G on Planet Minecraft: https://www.planetminecraft.com/member/User3947613G/
 
 [User Credit 6]
 Several missing items were reported by Sebast. You can find him here: https://www.youtube.com/channel/UCkO3Pjl3deL9RxJ263V1R3Q
