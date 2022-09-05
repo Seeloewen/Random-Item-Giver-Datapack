@@ -1,37 +1,6 @@
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+tellraw @s "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 tellraw @s {"text":"═════════════════════════","color":"green","bold":true}
 tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"#EFAF1A"},{"text":" - ","bold":true,"color":"gray"},{"text":"Settings (Page 2)","bold":true,"color":"red"}]
 tellraw @s {"text":" "}

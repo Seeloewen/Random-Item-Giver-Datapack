@@ -1,37 +1,6 @@
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
-tellraw @s {"text":" "}
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+tellraw @s "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 tellraw @s {"text":"═════════════════════════","color":"green","bold":true}
 tellraw @s [{"text":"Random Item Giver Datapack","color":"gold","bold":true}]
 tellraw @s {"text":" "}
@@ -43,7 +12,7 @@ tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 tellraw @s {"text":" "}
 tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/info"},"hoverEvent":{"action":"show_text","contents":"See some more information about the datapack"}},{"text":"\u27a4","color":"aqua","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/info"},"hoverEvent":{"action":"show_text","contents":"See some more information about the datapack"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/info"},"hoverEvent":{"action":"show_text","contents":"See some more information about the datapack"}},{"text":" See information about the datapack","italic":true,"color":"#B4F2FF","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/info"},"hoverEvent":{"action":"show_text","contents":"See some more information about the datapack"}}]
 tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/help"},"hoverEvent":{"action":"show_text","contents":"Get some help with the datapack"}},{"text":"\u27a4","color":"aqua","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/help"},"hoverEvent":{"action":"show_text","contents":"Get some help with the datapack"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/help"},"hoverEvent":{"action":"show_text","contents":"Get some help with the datapack"}},{"text":" Get help with the datapack","italic":true,"color":"#B4F2FF","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/help"},"hoverEvent":{"action":"show_text","contents":"Get some help with the datapack"}}]
-tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the planetminecraft of the datapack in your browser"}},{"text":"\u27a4","color":"aqua","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the planetminecraft of the datapack in your browser"}},{"text":"]","color":"gray","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the planetminecraft of the datapack in your browser"}},{"text":" Visit the planetminecraft page","italic":true,"color":"#B4F2FF","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the planetminecraft of the datapack in your browser"}}]
+tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the Planet Minecraft page of the datapack in your browser"}},{"text":"\u27a4","color":"aqua","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the Planet Minecraft page of the datapack in your browser"}},{"text":"]","color":"gray","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the Planet Minecraft page of the datapack in your browser"}},{"text":" Visit the Planet Minecraft page","italic":true,"color":"#B4F2FF","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/"},"hoverEvent":{"action":"show_text","contents":"Open the Planet Minecraft page of the datapack in your browser"}}]
 tellraw @s {"text":"═════════════════════════","color":"green","bold":true}
 
 #Some of the text was made using the JSON Text Generator by minecraft.tools
