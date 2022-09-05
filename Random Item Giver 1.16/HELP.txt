@@ -15,7 +15,7 @@ https://discord.gg/pUGzCU2mk3 - Ask for questions in the support chat
 [FAQ]
 Q: I want to use another version of the Datapack. Where can I find it?
 A: You can find other versions, like older versions or modified versions on the Mediafire download page
-https://www.mediafire.com/folder/kkfylo5u59rpr/Random_Item_Giver_by_Louis9
+https://github.com/Seeloewen/Random-Item-Giver-Datapack/tree/main/Builds
 
 Q: Can I upload a video in which I use this datapack?
 A: Yes, you can. You can also put a link to the datapack in the video description, that would be a great way to support me!
