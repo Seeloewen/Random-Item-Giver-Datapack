@@ -223,6 +223,12 @@ Version 1.1.0 for Minecraft 1.17 (09.06.2021)
 * changed the code for compatibility with 1.17
 
 ======= 1.16.x =======
+Version 1.0.20 (05.09.2022)
++ Added option to get a random amount of items (between 1 and 64)
+* Fixed typo Planetminecraft (should be Planet Minecraft)
+* Hide "X commands have been executed" message when clicking a button
+* Recoded Random Number Generator
+
 Version 1.0.19 (01.08.2022)
 + Added Item Amount Scoreboard
 + Fixed several issues where you were not given the correct amount of items
