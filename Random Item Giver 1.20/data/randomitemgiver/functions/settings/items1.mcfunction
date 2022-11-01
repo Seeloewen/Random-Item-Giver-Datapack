@@ -11,4 +11,4 @@ function randomitemgiver:menus/items
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully set item give amount to 1.","color":"green"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully set item amount to 1","color":"green"}]

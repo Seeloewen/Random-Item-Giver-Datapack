@@ -11,4 +11,4 @@ function randomitemgiver:menus/items
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully disabled other creative-only items.","color":"red"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully disabled Other Creative-Only Items","color":"red"}]

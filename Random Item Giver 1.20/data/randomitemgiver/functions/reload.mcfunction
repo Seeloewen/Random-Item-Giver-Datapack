@@ -36,9 +36,9 @@ function randomitemgiver:randomnumbergenerators/main_generator/setup
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
-tellraw @a {"text":"Random Item Giver 1.4.0-Beta1 was successfully loaded!","color":"green"}
-tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"}}
-tellraw @a ["",{"text":"Important","bold":true,"color":"red"},{"text":": You are using a Beta of the Random Item Giver, so you might experience issues. Please report every bug you can find ","color":"red"},{"text":"here","underlined":true,"color":"red","clickEvent":{"action":"open_url","value":"https://discord.gg/GhaVU3G9xR"},"hoverEvent":{"action":"show_text","contents":"Join Louis9's datapack Discord server"}},{"text":".","color":"red"}]
+tellraw @a {"text":"Random Item Giver 1.4.0-Beta2 was successfully loaded!","color":"green"}
+tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Open the main menu"}},{"text":"\u27a4","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Open the main menu"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Open the main menu"}},{"text":" ","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Open the main menu"}},{"text":"Click here to open the menu","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Open the main menu"}},{"text":"\n "}]
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u26a0","color":"gold"},{"text":") ","color":"gray"},{"text":"You are using a Beta version of the Random Item Giver Datapack. Please report any issue you can find!","color":"gold"}]
 
 #######################
 # Score explainations #
