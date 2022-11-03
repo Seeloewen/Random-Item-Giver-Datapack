@@ -11459,6 +11459,50 @@
               "count": 3
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_golem_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:snow_golem_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_dragon_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wither_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
         }
       ]
     }
