@@ -277,10 +277,6 @@
           },
           {
             "type": "minecraft:item",
-            "name": "minecraft:blue_bed"
-          },
-          {
-            "type": "minecraft:item",
             "name": "minecraft:blue_carpet"
           },
           {
@@ -3802,10 +3798,6 @@
           {
             "type": "minecraft:item",
             "name": "minecraft:deepslate_brick_stairs"
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:polished_deepslate_stairs"
           },
           {
             "type": "minecraft:item",
