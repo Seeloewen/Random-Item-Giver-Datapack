@@ -5,6 +5,10 @@
 ║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+
+Version 1.1.6 for Minecraft 1.17.1 (04.11.2022)
+* Removed several duplicates
+
 Version 1.1.5 for Minecraft 1.17.1 (20.01.2022)
 * Fixed a typo which caused strength potions to not work
 
@@ -130,6 +134,53 @@ Version 1.1.0 for Minecraft 1.17 (09.06.2021)
 * changed the code for compatibility with 1.17
 
 ======= 1.16.x =======
+
+Version 1.0.20 (05.09.2022)
++ Added option to get a random amount of items (between 1 and 64)
+* Fixed typo Planetminecraft (should be Planet Minecraft)
+* Hide "X commands have been executed" message when clicking a button
+* Recoded Random Number Generator
+
+Version 1.0.19 (01.08.2022)
++ Added Item Amount Scoreboard
++ Fixed several issues where you were not given the correct amount of items
+
+Version 1.0.18 for Minecraft 1.16.5 (01.06.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
+
+Version 1.0.17 for Minecraft 1.16.5 (22.04.2022)
+* Fixed several loot tables having duplicates
+* Fixed several loot tables having creative-only items even though they shouldn't contain them
+* Fixed uninstall function not working if the datapack is zipped
+* Fixed datapack not working at all because of some 'test123' item in all loot tables
+* Updated help message as it was outdated
+
+Version 1.0.16 for Minecraft 1.16.5 (15.03.2022)
++ Added new settings for multiple items and item give types
++ Added missing items from older versions
++ Added option for 'plop' sound on item give
+* Fixed blue bed appearing twice in loot tables
+* Slightly redesigned settings UI
+* Fixed typo which caused strength potions to not work
+* Fixed several bugs
+
+Version 1.0.15 for Minecraft 1.16.5 (11.08.2021)
++ Added a message when you get an item (can be toggled)
+* Fixed the bug, that enchanted books didn't work
+
+Version 1.0.14 for Minecraft 1.16.5 (27.07.2021)
+* menus now only show up for the person who opens them
+
+Version 1.0.13 for Minecraft 1.16.5 (24.07.2021)
++ added item-settings menu
+* redesigned settings menu
+* menus now stay on the bottom of the chat when a setting is changed
+
+Version 1.0.12 for Minecraft 1.16.5 (28.06.2021)
++ settings now save
++ everyone gets a different item at the same time now in multiplayer
 
 Version 1.0.11 for Minecraft 1.16.5 (08.05.2021)
 + added Pause/Continue function
