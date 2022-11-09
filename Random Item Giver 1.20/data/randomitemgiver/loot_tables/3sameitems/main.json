@@ -11777,6 +11777,28 @@
               "count": 3
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_bamboo_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
         }
       ]
     }

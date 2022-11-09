@@ -4361,6 +4361,16 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_bookshelf"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_block"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_bamboo_block"
         }
       ]
     }

@@ -4613,6 +4613,16 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:wither_spawn_egg"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_block"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_bamboo_block"
         }
       ]
     }
