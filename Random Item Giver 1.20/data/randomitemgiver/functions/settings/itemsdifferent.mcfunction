@@ -12,4 +12,4 @@ function randomitemgiver:menus/items
 #Post that settings changed successfully
 tellraw @a ""
 tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully set give type to random/different items","color":"green"}]
-tellraw @a {"text":"(\u26a0) This settings only applies when you have item amount set to 2 or higher.","color":"gray"}
+tellraw @a {"text":"(\u26a0) This setting only applies when you have item amount set to 2 or higher.","color":"gray"}
