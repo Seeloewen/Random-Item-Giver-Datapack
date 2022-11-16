@@ -6,6 +6,10 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.4.0-Beta5 (16.11.2022)
++ Added experimental items from 22w46a
+* Fixed some typos
+
 Version 1.4.0-Beta4 (09.11.2022)
 + Added experimental items from 22w45a
 
