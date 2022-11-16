@@ -11799,6 +11799,17 @@
               "count": 5
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:piglin_head",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ]
         }
       ]
     }

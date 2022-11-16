@@ -4398,6 +4398,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:stripped_bamboo_block"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:piglin_head"
         }
       ]
     }
