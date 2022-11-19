@@ -12,4 +12,4 @@ function randomitemgiver:menus/settings2
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully enabled Item Amount Scoreboard.","color":"green"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully enabled Item Amount Scoreboard","color":"green"}]

@@ -20,7 +20,7 @@ scoreboard objectives remove RandomAmountSameItemsGen
 scoreboard objectives remove MainGen
 
 #Post that datapack was disabled
-tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"Click here to enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-2-mc-1-19-2.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
+tellraw @a ["",{"text":"\nRandom Item Giver was successfully disabled.","color":"green"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-3-mc-1-19-3.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"\u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-3-mc-1-19-3.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-3-mc-1-19-3.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":" ","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-3-mc-1-19-3.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"Click here to enable it again.","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-3-3-mc-1-19-3.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}}]
 
 #Disable Datapack
-datapack disable "file/random-item-giver-1-3-2-mc-1-19-2.zip"
+datapack disable "file/random-item-giver-1-3-3-mc-1-19-3.zip"

@@ -11,4 +11,4 @@ function randomitemgiver:menus/settings
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully enabled item message.","color":"green"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully enabled Chat Message","color":"green"}]
