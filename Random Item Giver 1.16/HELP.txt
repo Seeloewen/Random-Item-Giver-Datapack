@@ -8,13 +8,13 @@
 
 Have you got any questions regarding the datapack? This file will surely answer your questions!
 If not, you can always visit the following links to get even more help:
-https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/ - Ask questions in the comments or view the FAQ
-https://github.com/Seeloewen/Random-Item-Giver-Datapack - Open a new issue or see existing ones
-https://discord.gg/pUGzCU2mk3 - Ask for questions in the support chat
+https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2/ - Ask questions in the comments or take a look at the FAQ
+https://github.com/Seeloewen/Random-Item-Giver-Datapack - Open a new issue or view existing ones
+https://discord.gg/pUGzCU2mk3 - Ask for questions in the support chat or message me privately
 
 [FAQ]
 Q: I want to use another version of the Datapack. Where can I find it?
-A: You can find other versions, like older versions or modified versions on the Mediafire download page
+A: You can find other versions, like older versions or modified versions on the GitHub page
 https://github.com/Seeloewen/Random-Item-Giver-Datapack/tree/main/Builds
 
 Q: Can I upload a video in which I use this datapack?
@@ -23,14 +23,14 @@ A: Yes, you can. You can also put a link to the datapack in the video descriptio
 Q: Is it possible to use this in multiplayer?
 A: Yes, it is. Every x seconds every player on the server gets a random item.
 
-Q: What items are you able to get?
+Q: What items am I able to get?
 A: Every single one in the game as of the version of the datapack you are currently running.
 
 Q: Does this work with the newest version of minecraft?
-A: Yes, it does! It is confirmed to work with up to 1.16.5 and possibly higher. I always try to keep it up to date.
+A: Yes, it does! It is confirmed to work with up to 22w42a and possibly higher. I always try to keep it up to date.
 
-Q: How do I change the time you get an item?
+Q: How do I change the time I get an item?
 A: You can change the time in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
 
-Q: How can I edit the items you can get?
+Q: How can I edit the items I can get?
 A: You can edit the items in the item settings menu. You can disable or enable specific item groups but not certain items themselves.

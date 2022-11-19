@@ -7,12 +7,12 @@
 ╚═╝ ╚═╝   ╚═══╝ ╚═╝      ╚══════╝ ╚═╝ ╚═╝ ╚═╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═╝    ╚═╝ ╚══════╝ ╚═╝   ╚═══╝
 
 This is a simple datapack that gives you a random item or block every 15 seconds.
-The time between getting an item can also be changed!
+You can also customize a bunch of things, for example how long it takes for you to receive an item, what items you are able to get and much more.
 
 This datapack will be updated for every stable version of Minecraft (e.g. 1.16.5) and sometimes Snapshots, but it will also recieve updates
 if bugs need to be fixed or other stuff needs to be added.
 
-If you find a bug, it would be awesome if you report it on my planetminecraft page! You can also suggest things to add
+If you find a bug, it would be awesome if you report it on my Planet Minecraft page or on Github! You can also suggest things to add
 or change and I might add them and credit you.
 
 I hope you enjoy my datapack! The original version of this datapack was created by Phoenix SC, but his version only
