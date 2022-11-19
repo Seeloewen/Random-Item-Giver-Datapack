@@ -11,5 +11,5 @@ function randomitemgiver:menus/items
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully set item give amount to random (between 1 and 64).","color":"green"}
-execute if score RandomItemGiver ItemGiveType matches 1 run tellraw @a {"text":"Please note that this using this setting does not count the received items correctly on 1.16 when Item Give Type is set to \"Same items\".","color":"gold"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully set item amount to random (Between 1 - 64)","color":"green"}]
+execute if score RandomItemGiver ItemGiveType matches 1 run tellraw @a {"text":"(\u26a0) Please note that using this setting does not count the received items correctly on 1.16 when Item Give Type is set to \"Same items\".","color":"gold"}

@@ -20,7 +20,7 @@ scoreboard objectives remove RASIG
 scoreboard objectives remove MainGen
 
 #Post that datapack was disabled
-tellraw @a ["",{"text":"Random Item Giver was successfully disabled.","color":"red"},{"text":"\n"},{"text":"Click here to enable it again","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-0-20-mc-1-16-5.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable Random Item Giver"}}]
+tellraw @a ["",{"text":"\nRandom Item Giver was successfully disabled.","color":"green"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"\u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":" ","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"Click here to enable it again.","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}}]
 
 #Disable Datapack
-datapack disable "file/random-item-giver-1-0-20-mc-1-16-5.zip"
+datapack disable "file/random-item-giver-1-4-0-Beta5-mc-22w46a.zip"

@@ -11,4 +11,4 @@ function randomitemgiver:menus/settings
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a {"text":"Successfully removed 1 second from the timer.","color":"red"}
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully removed 1 second from the timer","color":"red"}]

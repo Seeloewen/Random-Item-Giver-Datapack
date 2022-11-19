@@ -1926,8 +1926,8 @@ execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmoun
 execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 if score out MainGen matches 7 run execute as @a run loot give @s loot randomitemgiver:randomamountsameitem/goat_horns
 
 #Post that you got an item (if enabled)
-execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"[","color":"gray"},{"text":"Random Item Giver","bold":true,"color":"gold"},{"text":"]","color":"gray"},{"text":" You received a new item!","color":"green"}]
-execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 2..7 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"[","color":"gray"},{"text":"Random Item Giver","bold":true,"color":"gold"},{"text":"]","color":"gray"},{"text":" You received new items!","color":"green"}]
+execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received a new item!","color":"aqua"}]
+execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 2..7 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received new items!","color":"aqua"}]
 
 #Play sound that you got an item (if enabled)
 execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute at @a run playsound entity.item.pickup player @p
