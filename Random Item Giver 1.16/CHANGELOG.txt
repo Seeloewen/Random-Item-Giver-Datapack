@@ -6,6 +6,10 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.0.21 (19.11.2022)
++ Added pack.png image
+* Reworked UI
+
 Version 1.0.20 (05.09.2022)
 + Added option to get a random amount of items (between 1 and 64)
 * Fixed typo Planetminecraft (should be Planet Minecraft)
