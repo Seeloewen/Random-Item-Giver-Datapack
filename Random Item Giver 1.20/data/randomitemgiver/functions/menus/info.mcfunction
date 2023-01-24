@@ -6,7 +6,7 @@ tellraw @s {"text":"«\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u25
 tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"gold"},{"text":" - ","bold":true,"color":"gray"},{"text":"About","bold":true,"color":"yellow"}]
 tellraw @s {"text":" "}
 tellraw @s {"text":"Version 1.4.0-Beta7","color":"#4CEFEF"}
-tellraw @s {"text":"For Minecraft Snapshot 23w03a","color":"#4CEFEF"}
+tellraw @s {"text":"For Minecraft Snapshot 23w04a","color":"#4CEFEF"}
 tellraw @s {"text":" "}
 tellraw @s {"text":"Made by Louis9","color":"dark_aqua"}
 tellraw @s {"text":"Original Version by Phoenix SC","color":"dark_aqua"}
