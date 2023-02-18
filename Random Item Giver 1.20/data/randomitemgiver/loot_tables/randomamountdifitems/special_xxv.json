@@ -4722,6 +4722,151 @@
                             "tag": "{EntityTag:{variant:\"minecraft:burning_skull\"}}"
                         }
                     ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_log"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_wood"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_cherry_log"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_cherry_wood"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_planks"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_stairs"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_slab"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_fence"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_fence_gate"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_petals"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_sapling"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_pressure_plate"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_button"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_trapdoor"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_door"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_leaves"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_boat"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brush"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:decorated_pot"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_sign"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_hanging_sign"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_chest_boat"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_archer"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_prize"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_arms_up"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_skull"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:suspicious_sand"
         }
       ]
     }

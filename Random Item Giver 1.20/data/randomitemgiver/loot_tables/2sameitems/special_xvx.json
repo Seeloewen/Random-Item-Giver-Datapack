@@ -11392,6 +11392,314 @@
                             "tag": "{EntityTag:{variant:\"minecraft:burning_skull\"}}"
                         }
                     ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_log",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_wood",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_cherry_log",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_cherry_wood",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_planks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_fence",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_fence_gate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_petals",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_sapling",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_pressure_plate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_button",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_trapdoor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_door",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_leaves",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_boat",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brush",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:decorated_pot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_sign",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_hanging_sign",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_chest_boat",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_archer",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_prize",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_arms_up",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_skull",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }
