@@ -9,7 +9,7 @@ tellraw @s {"text":"Version 1.0.21","color":"#4CEFEF"}
 tellraw @s {"text":"For Minecraft 1.16.5","color":"#4CEFEF"}
 tellraw @s {"text":" "}
 tellraw @s {"text":"Made by Louis9","color":"dark_aqua"}
-tellraw @s {"text":"Original Version by Phoenix SC","color":"dark_aqua"}
+tellraw @s {"text":"Original version by Phoenix SC","color":"dark_aqua"}
 tellraw @s {"text":" "}
 tellraw @s ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Go back to main menu"}},{"text":"◀","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Go back to main menu"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Go back to main menu"}},{"text":" ","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Go back to main menu"}},{"text":"back to menu","color":"#D86264","clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"},"hoverEvent":{"action":"show_text","contents":"Go back to main menu"}}]
 tellraw @s {"text":"«\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550»","bold":true,"color":"#CE9178"}
