@@ -6,6 +6,10 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.4.0-Beta10 (25.03.2023)
+* Added items from 23w12a
+* Updated pack version to 13
+
 Version 1.4.0-Beta9 (11.03.2023)
 * Moved paintings to their own loot table
 * Fixed typos and grammatical errors
