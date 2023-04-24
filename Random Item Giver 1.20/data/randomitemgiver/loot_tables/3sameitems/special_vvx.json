@@ -11997,7 +11997,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:archer_pottery_shard",
+          "name": "minecraft:archer_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12008,7 +12008,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:prize_pottery_shard",
+          "name": "minecraft:prize_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12019,7 +12019,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:arms_up_pottery_shard",
+          "name": "minecraft:arms_up_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12030,7 +12030,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:skull_pottery_shard",
+          "name": "minecraft:skull_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12096,7 +12096,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:angler_pottery_shard",
+          "name": "minecraft:angler_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12107,7 +12107,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blade_pottery_shard",
+          "name": "minecraft:blade_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12118,7 +12118,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:brewer_pottery_shard",
+          "name": "minecraft:brewer_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12129,7 +12129,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:burn_pottery_shard",
+          "name": "minecraft:burn_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12140,7 +12140,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:danger_pottery_shard",
+          "name": "minecraft:danger_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12151,7 +12151,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:explorer_pottery_shard",
+          "name": "minecraft:explorer_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12162,7 +12162,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:friend_pottery_shard",
+          "name": "minecraft:friend_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12173,7 +12173,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:heart_pottery_shard",
+          "name": "minecraft:heart_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12184,7 +12184,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:heartbreak_pottery_shard",
+          "name": "minecraft:heartbreak_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12195,7 +12195,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:howl_pottery_shard",
+          "name": "minecraft:howl_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12206,7 +12206,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:miner_pottery_shard",
+          "name": "minecraft:miner_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12217,7 +12217,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:mourner_pottery_shard",
+          "name": "minecraft:mourner_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12228,7 +12228,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:plenty_pottery_shard",
+          "name": "minecraft:plenty_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12239,7 +12239,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sheaf_pottery_shard",
+          "name": "minecraft:sheaf_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12250,7 +12250,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:shelter_pottery_shard",
+          "name": "minecraft:shelter_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -12261,7 +12261,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:snort_pottery_shard",
+          "name": "minecraft:snort_pottery_sherd",
           "functions": [
             {
               "function": "minecraft:set_count",
