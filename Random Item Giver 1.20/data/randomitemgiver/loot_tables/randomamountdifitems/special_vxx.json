@@ -4935,6 +4935,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:silence_armor_trim_smithing_template"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic"
         }
       ]
     }

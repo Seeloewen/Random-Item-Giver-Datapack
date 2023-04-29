@@ -19474,6 +19474,24 @@
               }
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "out"
+                },
+                "score": "RandomAmountSameItemsGen"
+              }
+            }
+          ]
         }
       ]
     }

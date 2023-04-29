@@ -5051,6 +5051,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:suspicious_gravel"
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic"
         }
       ]
     }

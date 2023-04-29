@@ -12263,6 +12263,17 @@
               "count": 32
             }
           ]
+  
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
         }
       ]
     }
