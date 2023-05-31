@@ -1,0 +1,350 @@
+╔═══════╗ ╔═╗  ╔═╗ ╔══════╗ ╔══╗    ╔═╗ ╔═══════╗ ╔═══════╗ ╔═╗       ╔══════╗ ╔═══════╗
+║ ╔═════╝ ║ ║  ║ ║ ║ ╔══╗ ║ ║  ╚╗   ║ ║ ║ ╔═════╝ ║ ╔═════╝ ║ ║       ║ ╔══╗ ║ ║ ╔═════╝
+║ ║       ║ ╚══╝ ║ ║ ╚══╝ ║ ║ ╠╗╚╗  ║ ║ ║ ║       ║ ║       ║ ║       ║ ║  ║ ║ ║ ║
+║ ║       ║ ╔══╗ ║ ║ ╔══╗ ║ ║ ║╚╗╚╗ ║ ║ ║ ║ ╔═══╗ ║ ╚═════╗ ║ ║       ║ ║  ║ ║ ║ ║ ╔═══╗
+║ ║       ║ ║  ║ ║ ║ ║  ║ ║ ║ ║ ╚╗╚╗║ ║ ║ ║ ╚═╗ ║ ║ ╔═════╝ ║ ║       ║ ║  ║ ║ ║ ║ ╚═╗ ║
+║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
+╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
+
+Version 1.4.0 for Minecraft 1.20 (07.06.2023)
++ Added all new items from MC 1.20
+* Updated pack version to 15
+* Fixed some typos
+
+======= 1.18.x =======
+
+Version 1.3.4 for Minecraft 1.19.4 (17.03.2023)
+* Fixed typos and grammatical mistakes
+* Moved paintings to their own loot tables
+
+Version 1.3.3 for Minecraft 1.19.3 (07.12.2022)
++ Added pack.png image
++ Added spawn eggs for ender dragon, wither, iron golem and snow golem
+* Reworked UI
+
+Version 1.3.2 for Minecraft 1.19.2 (01.09.2022)
++ Added option to get a random amount of items (between 1 and 64)
+* Fixed typo Planetminecraft (should be Planet Minecraft)
+* Hide "X commands have been executed" message when clicking a button
+* Recoded Random Number Generator
+
+Version 1.3.1 for Minecraft 1.19.1 (01.08.2022)
++ Added Item Amount Scoreboard
++ Fixed several issues where you were not given the correct amount of items
+
+Version 1.3.0 for Minecraft 1.19 (07.06.2022)
++ Added goat horns
++ Added music disc 5
++ Added disc shard 5
++ Added recovery compass
++ Added echo shard
++ Added allay spawn egg
++ Added reinforced deepslate
++ Added oak chest boat
++ Added birch chest boat
++ Added jungle chest boat
++ Added acacia chest boat
++ Added spruce chest boat
++ Added dark oak chest boat
++ Added mangrove chest boat
++ Added swift sneak 1, 2 and 3 enchanted book
++ Added warden spawn egg
++ Added mud
++ Added mangrove roots
++ Added mangrove log
++ Added muddy mangrove roots
++ Added stripped mangrove log
++ Added stripped mangrove wood
++ Added mangrove wood
++ Added mud brick slab
++ Added mangrove slab
++ Added sculk
++ Added mangrove fence
++ Added packed mud
++ Added mud bricks
++ Added mud brick stairs
++ Added mangrove fence gate
++ Added mangrove propagule
++ Added sculk catalyst
++ Added sculk vein
++ Added ochre froglight
++ Added pearlescent froglight
++ Added verdant froglight
++ Added mud brick wall
++ Added mangrove sign
++ Added sculk shrieker
++ Added tadpole spawn egg
++ Added frog spawn egg
++ Added mangrove trapdoor
++ Added mangrove door
++ Added mangrove boat
++ Added tadpole bucket
++ Added frogspawn
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
+* Changed pack number to 10
+
+======= 1.18.x =======
+
+Version 1.2.4 for Minecraft 1.18.2 (01.06.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in settings menu
+* Fixed typo in uninstall message
+
+Version 1.2.3 for Minecraft 1.18.2 (22.04.2022)
+* Fixed several loot tables having duplicates
+* Fixed several loot tables having creative-only items even though they shouldn't contain them
+* Fixed uninstall function not working if the datapack is zipped
+* Updated help message as it was outdated
+
+Version 1.2.2 for Minecraft 1.18.2 (15.03.2022)
++ Added missing items from older versions
++ Added option for 'plop' sound on item give
+* Fixed blue bed appearing twice in loot tables
+
+Version 1.2.1 for Minecraft 1.18.1 (20.01.2022)
++ Added new settings for multiple items and item give types
+* Slightly redesigned settings UI
+* Fixed typo which caused strength potions to not work
+* Made some code optimizations to make it more understandable
+
+Version 1.2.0 for Minecraft 1.18 (30.11.2021)
++ Added otherside music disc
+* Changed version number to 8 for full compatibility with 1.18
+
+======= 1.17.x =======
+
+Version 1.1.6 for Minecraft 1.17.1 (04.11.2022)
+* Removed several duplicates
+
+Version 1.1.5 for Minecraft 1.17.1 (20.01.2022)
+* Fixed a typo which caused strength potions to not work
+
+Version 1.1.4 for Minecraft 1.17.1 (11.08.2021)
++ Added a message when you get an item (can be toggled)
+* Fixed the bug, that enchanted books didn't work
+
+Version 1.1.3 for Minecraft 1.17.1 (27.07.2021)
+* menus now only show up for the person who opens them
+
+Version 1.1.2 for Minecraft 1.17.1 (24.07.2021)
++ added item-settings menu
+* redesigned settings menu
+* menus now stay on the bottom of the chat when a setting is changed
+
+Version 1.1.1 for Minecraft 1.17 (28.06.2021)
++ settings now save
++ everyone gets a different item at the same time now in multiplayer
+
+Version 1.1.0 for Minecraft 1.17 (09.06.2021)
++ added raw copper
++ added raw iron
++ added raw gold
++ added raw copper block
++ added raw iron block
++ added raw gold block
++ added deepslate coal ore
++ added deepslate copper ore
++ added deepslate emerald ore
++ added cracked deepslate bricks
++ added cracked deepslate tiles
++ added infested deepslate
++ added goat spawn egg
++ added light block
++ added all deepslate blocks
++ added deepslate iron ore
++ added deepslate lapis ore
++ added deepslate redstone ore
++ added deepslate diamond ore
++ added deepslate gold ore
++ added smooth basalt
++ added glow squid spawn egg
++ added glow liches
++ added glow item frame
++ added glow ink sac
++ added hanging roots
++ added moss block
++ added small dripleaf
++ added big dripleaf
++ added spore blossom
++ added flowering azalea
++ added azalea leaves flowers
++ added azalea
++ added moss carpet
++ added rooted dirt
++ added azalea leaves
++ added glow berries
++ added copper block
++ added lightly weathered copper block
++ added semi weathered copper block
++ added weathered copper block
++ added cut copper
++ added lightly weathered cut copper
++ added semi weathered cut copper
++ added weathered cut copper
++ added cut copper stairs
++ added lightly weathered cut copper stairs
++ added semi weathered cut copper stairs
++ added weathered cut copper stairs
++ added cut copper slab
++ added lightly weathered cut copper slab
++ added semi weathered cut copper slab
++ added weathered cut copper slab
++ added waxed copper
++ added waxed lightly weathered copper
++ added waxed semi weathered copper
++ added waxed cut copper
++ added waxed lightly weathered cut copper
++ added waxed semi weathered cut copper
++ added waxed cut copper stairs
++ added waxed lightly weathered cut copper stairs
++ added waxed semi weathered cut copper stairs
++ added waxed cut copper slab
++ added waxed lightly weathered cut copper slab
++ added waxed semi weathered cut copper slab
++ added calcite
++ added tuff
++ added copper ore
++ added tinted glass
++ added amethyst block
++ added budding amethyst
++ added amethyst cluster
++ added white candle
++ added orange candle
++ added magenta candle
++ added light blue candle
++ added yellow candle
++ added lime candle
++ added pink candle
++ added gray candle
++ added light gray candle
++ added cyan candle
++ added purple candle
++ added blue candle
++ added brown candle
++ added green candle
++ added red candle
++ added black candle
++ added small amethyst bud
++ added medium amethyst bud
++ added large amethyst bud
++ added lightning rod
++ added copper ingot
++ added amethyst shard
++ added spyglass
++ added bundle
++ added powder snow bucket
++ added dripstone block
++ added pointed dripstone
++ added sculk sensor
++ added axolotl bucket
++ added axolotl spawn egg
+* changed the code for compatibility with 1.17
+
+======= 1.16.x =======
+
+Version 1.0.22 for Minecraft 1.16.5 (17.03.2023)
+* Fixed typos and grammatical mistakes
+
+Version 1.0.21 for Minecraft 1.16.5 (19.11.2022)
++ Added pack.png image
+* Reworked UI
+
+Version 1.0.20 for Minecraft 1.16.5 (05.09.2022)
++ Added option to get a random amount of items (between 1 and 64)
+* Fixed typo Planetminecraft (should be Planet Minecraft)
+* Hide "X commands have been executed" message when clicking a button
+* Recoded Random Number Generator
+
+Version 1.0.19 for Minecraft 1.16.5 (01.08.2022)
++ Added Item Amount Scoreboard
++ Fixed several issues where you were not given the correct amount of items
+
+Version 1.0.18 for Minecraft 1.16.5 (01.06.2022)
+* Fixed black bed not existing in the datapack
+* Fixed typo in uninstall message
+* Fixed typo in settings menu
+
+Version 1.0.17 for Minecraft 1.16.5 (22.04.2022)
+* Fixed several loot tables having duplicates
+* Fixed several loot tables having creative-only items even though they shouldn't contain them
+* Fixed uninstall function not working if the datapack is zipped
+* Fixed datapack not working at all because of some 'test123' item in all loot tables
+* Updated help message as it was outdated
+
+Version 1.0.16 for Minecraft 1.16.5 (15.03.2022)
++ Added new settings for multiple items and item give types
++ Added missing items from older versions
++ Added option for 'plop' sound on item give
+* Fixed blue bed appearing twice in loot tables
+* Slightly redesigned settings UI
+* Fixed typo which caused strength potions to not work
+* Fixed several bugs
+
+Version 1.0.15 for Minecraft 1.16.5 (11.08.2021)
++ Added a message when you get an item (can be toggled)
+* Fixed the bug, that enchanted books didn't work
+
+Version 1.0.14 for Minecraft 1.16.5 (27.07.2021)
+* menus now only show up for the person who opens them
+
+Version 1.0.13 for Minecraft 1.16.5 (24.07.2021)
++ added item-settings menu
+* redesigned settings menu
+* menus now stay on the bottom of the chat when a setting is changed
+
+Version 1.0.12 for Minecraft 1.16.5 (28.06.2021)
++ settings now save
++ everyone gets a different item at the same time now in multiplayer
+
+Version 1.0.11 for Minecraft 1.16.5 (08.05.2021)
++ added Pause/Continue function
+
+Version 1.0.10 for Minecraft 1.16.5 (22.04.2021)
++ added settings
++ added "News" and "Credits" menu
++ added uninstall function
+* redesigned UI
+* lowered chance to get potions and enchanted books
+
+Version 1.0.9 for Minecraft 1.16.5 (05.03.2021)
++ added all suspicious soups with effects
+
+Version 1.0.8 for Minecraft 1.16.5 (18.02.2021)
++ added beehive
++ added bee nest
++ added honey block
++ added honeycomb block
++ added honey bottle
++ added honeycomb
++ added bee spawn egg
+
+Version 1.0.7 for Minecraft 1.16.5 (02.02.2021)
+* fixed a critical bug which caused you to sometimes get two items at once (found by MrRedeminator)
+
+Version 1.0.6 for Minecraft 1.16.5 (17.01.2021)
+! updated to 1.16.5
+
+Version 1.0.5 for Minecraft 1.16.4 (29.11.2020)
++ added all potions
++ added all enchanted Books
++ added all tipped arrows
+
+Version 1.0.4 for Minecraft 1.16.4 (03.11.2020)
+! updated to 1.16.4
+
+Version 1.0.3 for Minecraft 1.16.3 (10.09.2020)
++ added a help 'message' and 'about' message
+* changed the reload message
+! updated to 1.16.3
+
+Version 1.0.2 for Minecraft 1.16.2 (07.09.2020)
+* now optimized for Multiplayer, but everybody gets the same items.
+! This might be reworked in the future.
+
+Version 1.0.1 for Minecraft 1.16.2 (22.08.2020)
++ added message on reload
+
+Version 1.0.0 for Minecraft 1.16.2 (20.08.2020)
+! initial release of the datapack
