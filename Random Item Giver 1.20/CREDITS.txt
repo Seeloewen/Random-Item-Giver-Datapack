@@ -16,7 +16,7 @@ My (Louis9's) profile can be found here: https://www.planetminecraft.com/member/
 [Tools Used]
 Some of the JSON text components have been generated using Minecraft.Tools: https://minecraft.tools/de/json_text.php
 Some of the Loot Tables have been edited using Misode.Github.io: https://misode.github.io/loot-table/
-This project uses the Random Number Generator by CloudWolf: https://www.youtube.com/c/CloudWolfMinecraft
+Older versions of this project use the Random Number Generator by CloudWolf: https://www.youtube.com/c/CloudWolfMinecraft
 
 [Contributions] 
 Version 1.0.5 of this Datapack was made by Justysuwu, who also helped on Version 1.0.15 and 1.1.4. You can find her here: https://www.planetminecraft.com/member/user3317898g/

@@ -16,6 +16,8 @@ scoreboard objectives add PlayItemSound dummy
 scoreboard objectives add ShowItemAmountScoreboard dummy
 scoreboard objectives add RandomItemsReceived dummy {"text":"Random items received"}
 scoreboard objectives add ItemsReceivedTemp dummy
+scoreboard objectives add MainNumber dummy
+scoreboard objectives add RandomAmountSameItemsNumber dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -29,10 +31,6 @@ execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard pl
 execute unless score RandomItemGiver ItemGiveAmount matches 1..8 run scoreboard players set RandomItemGiver ItemGiveAmount 1
 execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard players set RandomItemGiver PlayItemSound 1
 execute unless score RandomItemGiver ShowItemAmountScoreboard matches 1..2 run scoreboard players set RandomItemGiver ShowItemAmountScoreboard 1
-
-#Setup Random Number Generator by CloudWolf
-function randomitemgiver:randomnumbergenerators/rng_same_items_gen/setup
-function randomitemgiver:randomnumbergenerators/main_generator/setup
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
@@ -56,3 +54,5 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #ShowItemAmountScoreboard: Score 2 means "enabled", score 1 "disabled"
 #RandomItemsReceived: Must be between 1 and 999999999
 #ItemsReceivedTemp: Temporary store for the amount of items received when the type is set to "random amount of different item between 1 and 64"
+#MainNumber: Store for random number that decides which loot table gets selected in the main file
+#RandomAmountSameItemsNumber: Store for random number that decides the amount of items from the Random Amount Same Items loot table
