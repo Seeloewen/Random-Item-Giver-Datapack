@@ -29,10 +29,10 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **A**: Yes, it is. Every x seconds every player on the server gets a random item.
 
 **Q**: What items are you able to get?
-**A**: Every single one in the game as of 1.20.
+**A**: Every single one in the game as of 1.20.1.
 
 **Q**: Does this work with the newest version of minecraft?
-**A**: Yes, it does! It is confirmed to work with up to 1.20 and possibly higher. I always try to keep it up to date.
+**A**: Yes, it does! It is confirmed to work with up to 1.20.1 and possibly higher. I always try to keep it up to date.
 
 **Q**: How do I change the time you get an item?
 **A**: You can change the time in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
