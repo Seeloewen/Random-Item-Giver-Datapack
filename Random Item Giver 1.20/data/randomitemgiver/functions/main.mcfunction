@@ -6,6 +6,16 @@ execute if score give ItemTimer >= RandomItemGiver ItemTimer run scoreboard play
 #Generate random number
 execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
 
+#Regenerate the random number if it hits a disabled loot table
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 1 if score RandomItemGiver EnchantedBooks matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 2 if score RandomItemGiver Potions matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 3 if score RandomItemGiver LingeringPotions matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 4 if score RandomItemGiver SplashPotions matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 5 if score RandomItemGiver TippedArrows matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 6 if score RandomItemGiver SuspiciousStews matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 7 if score RandomItemGiver GoatHorns matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+execute if score give ItemTimer matches 0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 8 if score RandomItemGiver Paintings matches 2 store result score RandomItemGiver MainNumber run random value 1..1200
+
 #Give 1 random item
 execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 9..1200 if score RandomItemGiver SpawnEggs matches 2 if score RandomItemGiver CommandBlocks matches 2 if score RandomItemGiver OtherItems matches 2 run execute as @a run loot give @s loot randomitemgiver:01item/main
 execute if score give ItemTimer matches 0 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver MainNumber matches 9..1200 if score RandomItemGiver SpawnEggs matches 1 if score RandomItemGiver CommandBlocks matches 1 if score RandomItemGiver OtherItems matches 1 run execute as @a run loot give @s loot randomitemgiver:01item/main_without_creative-only

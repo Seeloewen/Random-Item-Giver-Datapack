@@ -18,6 +18,14 @@ scoreboard objectives add RandomItemsReceived dummy {"text":"Random items receiv
 scoreboard objectives add ItemsReceivedTemp dummy
 scoreboard objectives add MainNumber dummy
 scoreboard objectives add RandomAmountSameItemsNumber dummy
+scoreboard objectives add EnchantedBooks dummy
+scoreboard objectives add Potions dummy
+scoreboard objectives add LingeringPotions dummy
+scoreboard objectives add SplashPotions dummy
+scoreboard objectives add TippedArrows dummy
+scoreboard objectives add SuspiciousStews dummy
+scoreboard objectives add GoatHorns dummy
+scoreboard objectives add Paintings dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -31,6 +39,14 @@ execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard pl
 execute unless score RandomItemGiver ItemGiveAmount matches 1..8 run scoreboard players set RandomItemGiver ItemGiveAmount 1
 execute unless score RandomItemGiver PlayItemSound matches 1..2 run scoreboard players set RandomItemGiver PlayItemSound 1
 execute unless score RandomItemGiver ShowItemAmountScoreboard matches 1..2 run scoreboard players set RandomItemGiver ShowItemAmountScoreboard 1
+execute unless score RandomItemGiver EnchantedBooks matches 1..2 run scoreboard players set RandomItemGiver EnchantedBooks 2 
+execute unless score RandomItemGiver Potions matches 1..2 run scoreboard players set RandomItemGiver Potions 2
+execute unless score RandomItemGiver LingeringPotions matches 1..2 run scoreboard players set RandomItemGiver LingeringPotions 2
+execute unless score RandomItemGiver SplashPotions matches 1..2 run scoreboard players set RandomItemGiver SplashPotions 2
+execute unless score RandomItemGiver TippedArrows matches 1..2 run scoreboard players set RandomItemGiver TippedArrows 2
+execute unless score RandomItemGiver SuspiciousStews matches 1..2 run scoreboard players set RandomItemGiver SuspiciousStews 2
+execute unless score RandomItemGiver GoatHorns matches 1..2 run scoreboard players set RandomItemGiver GoatHorns 2
+execute unless score RandomItemGiver Paintings matches 1..2 run scoreboard players set RandomItemGiver Paintings 2
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
@@ -56,3 +72,11 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #ItemsReceivedTemp: Temporary store for the amount of items received when the type is set to "random amount of different item between 1 and 64"
 #MainNumber: Store for random number that decides which loot table gets selected in the main file
 #RandomAmountSameItemsNumber: Store for random number that decides the amount of items from the Random Amount Same Items loot table
+#EnchantedBooks: Score 2 means "enabled", score 1 "disabled"
+#Potions: Score 2 means "enabled", score 1 "disabled"
+#LingeringPotions: Score 2 means "enabled", score 1 "disabled"
+#SplashPotions: Score 2 means "enabled", score 1 "disabled"
+#TippedArrows: Score 2 means "enabled", score 1 "disabled"
+#SuspiciousStews: Score 2 means "enabled", score 1 "disabled"
+#GoatHorns: Score 2 means "enabled", score 1 "disabled"
+#Paintings: Score 2 means "enabled", score 1 "disabled"
