@@ -3,7 +3,7 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players add RandomItemGiver ItemTimer 20
+scoreboard players add RandomItemGiver Time 20
 scoreboard players add RandomItemGiver Seconds 1
 
 #Show settings menu again

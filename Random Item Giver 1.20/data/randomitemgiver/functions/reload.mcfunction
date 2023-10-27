@@ -26,6 +26,9 @@ scoreboard objectives add TippedArrows dummy
 scoreboard objectives add SuspiciousStews dummy
 scoreboard objectives add GoatHorns dummy
 scoreboard objectives add Paintings dummy
+scoreboard objectives add RandomTime dummy
+scoreboard objectives add RandomTimeValue dummy
+scoreboard objectives add Time dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -33,7 +36,7 @@ execute unless score RandomItemGiver GiveItems matches 1..2 run scoreboard playe
 execute unless score RandomItemGiver SpawnEggs matches 1..2 run scoreboard players set RandomItemGiver SpawnEggs 2
 execute unless score RandomItemGiver CommandBlocks matches 1..2 run scoreboard players set RandomItemGiver CommandBlocks 2
 execute unless score RandomItemGiver OtherItems matches 1..2 run scoreboard players set RandomItemGiver OtherItems 2
-execute unless score RandomItemGiver ItemTimer matches 1..999999999 run scoreboard players set RandomItemGiver ItemTimer 300
+execute unless score RandomItemGiver Time matches 1..999999999 run scoreboard players set RandomItemGiver Time 300
 execute unless score RandomItemGiver ShowItemMessage matches 1..2 run scoreboard players set RandomItemGiver ShowItemMessage 1
 execute unless score RandomItemGiver ItemGiveType matches 1..2 run scoreboard players set RandomItemGiver ItemGiveType 1
 execute unless score RandomItemGiver ItemGiveAmount matches 1..8 run scoreboard players set RandomItemGiver ItemGiveAmount 1
@@ -47,6 +50,9 @@ execute unless score RandomItemGiver TippedArrows matches 1..2 run scoreboard pl
 execute unless score RandomItemGiver SuspiciousStews matches 1..2 run scoreboard players set RandomItemGiver SuspiciousStews 2
 execute unless score RandomItemGiver GoatHorns matches 1..2 run scoreboard players set RandomItemGiver GoatHorns 2
 execute unless score RandomItemGiver Paintings matches 1..2 run scoreboard players set RandomItemGiver Paintings 2
+execute unless score RandomItemGiver RandomTime matches 1..2 run scoreboard players set RandomItemGiver RandomTime 1
+execute store result score RandomItemGiver RandomTimeValue run random value 1..1200
+scoreboard players set ItemTimer 0
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
@@ -63,7 +69,7 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #SpawnEggs: Score 2 means "enabled", score 1 "disabled"
 #CommandBlocks: Score 2 means "enabled", score 1 "disabled"
 #OtherItems: Score 2 means "enabled", score 1 "disabled"
-#ItemTimer: Must be between 1 and 999999999
+#Time: Must be between 1 and 999999999
 #ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
 #ItemGiveType: 1 means "same item", 2 means "different item"
 #ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64 items", 8 means "Random amount between 1 and 64"
@@ -80,3 +86,6 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #SuspiciousStews: Score 2 means "enabled", score 1 "disabled"
 #GoatHorns: Score 2 means "enabled", score 1 "disabled"
 #Paintings: Score 2 means "enabled", score 1 "disabled"
+#RandomTime: Score 2 means "enabled", score 1 "disabled"
+#RandomTimeValue: Stores the time if "RandomTime" is enabled
+#ItemTimer: Stores the time if "RandomTime" is disabled

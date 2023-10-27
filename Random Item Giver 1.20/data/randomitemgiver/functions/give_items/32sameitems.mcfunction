@@ -10,4 +10,4 @@ execute if score RandomItemGiver MainNumber matches 8 run execute as @a run loot
 execute if score RandomItemGiver MainNumber matches 9 run execute as @a run loot give @s loot randomitemgiver:32sameitems/command_blocks
 execute if score RandomItemGiver MainNumber matches 10 run execute as @a run loot give @s loot randomitemgiver:32sameitems/spawn_eggs
 execute if score RandomItemGiver MainNumber matches 11 run execute as @a run loot give @s loot randomitemgiver:32sameitems/other_items
-execute if score RandomItemGiver MainNumber matches 12..1300 run execute as @a run loot give @s loot randomitemgiver:32sameitems/normal_items
+execute if score RandomItemGiver MainNumber matches 12..1000 run execute as @a run loot give @s loot randomitemgiver:32sameitems/normal_items

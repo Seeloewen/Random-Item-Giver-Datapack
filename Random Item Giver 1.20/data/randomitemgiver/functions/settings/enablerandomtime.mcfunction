@@ -3,12 +3,12 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players remove RandomItemGiver Time 200
-scoreboard players remove RandomItemGiver Seconds 10
+scoreboard players reset RandomItemGiver RandomTime
+scoreboard players set RandomItemGiver RandomTime 2
 
 #Show settings menu again
 function randomitemgiver:menus/settings
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully removed 10 seconds from the timer","color":"red"}]
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully enabled Random Time. You will now get your items in an interval between 1 - 60 seconds.","color":"green"}]
