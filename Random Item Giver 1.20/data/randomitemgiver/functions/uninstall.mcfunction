@@ -18,6 +18,14 @@ scoreboard objectives remove RandomItemsReceived
 scoreboard objectives remove ItemsReceivedTemp
 scoreboard objectives remove RandomAmountSameItemsNumber
 scoreboard objectives remove MainNumber
+scoreboard objectives remove EnchantedBooks
+scoreboard objectives remove Potions
+scoreboard objectives remove LingeringPotions
+scoreboard objectives remove SplashPotions
+scoreboard objectives remove TippedArrows
+scoreboard objectives remove SuspiciousStews
+scoreboard objectives remove GoatHorns
+scoreboard objectives remove Paintings
 
 #Post that datapack was disabled
 tellraw @a ["",{"text":"\nRandom Item Giver was successfully disabled.","color":"green"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-1-mc-1-20-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"\u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-1-mc-1-20-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-1-mc-1-20-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":" ","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-1-mc-1-20-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"Click here to enable it again.","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-1-mc-1-20-1.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}}]
