@@ -1,3 +1,6 @@
+#Make everyone able to get items if there's no specific setting yet
+execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
+
 #Add dummy boolean (0 = false, 1 = true)
 scoreboard objectives add GiveItemNow dummy
 scoreboard players set RandomItemGiver GiveItemNow 0
@@ -31,26 +34,26 @@ execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver 
 
 #Give 1 random item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 1
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 1
 
 #Give 2 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 2 
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 2 
 
 #Give 2 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/02sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 2
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 2
 
 #Give 3 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 3
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 3
 
 #Give 3 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/03sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 3
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 3 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 3
 
 #Give 5 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
@@ -58,11 +61,11 @@ execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver 
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 5
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 5
 
 #Give 5 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/05sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 5
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 4 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 5
 
 #Give 10 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
@@ -75,11 +78,11 @@ execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver 
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 10
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 10
 
 #Give 10 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/10sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 10
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 5 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 10
 
 #Give 32 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
@@ -114,11 +117,11 @@ execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver 
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 32
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 32
 
 #Give 32 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/32sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 32
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 6 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 32
 
 #Give 64 different items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
@@ -185,27 +188,27 @@ execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver 
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/01item
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 64
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 64
 
 #Give 64 same items
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/64sameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run scoreboard players add @a RandomItemsReceived 64
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 7 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute if score @s CanGetItems matches 2 run scoreboard players add @a RandomItemsReceived 64
 
 #Give random amount of different items between 1 to 64
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/randomdifferentitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute as @a run scoreboard players operation @s RandomItemsReceived += @s ItemsReceivedTemp
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 2 if score RandomItemGiver GiveItems matches 2 run execute as @a run scoreboard players operation @s RandomItemsReceived += @s ItemsReceivedTemp
 
 #Give random amount of same item between 1 and 64
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 store result score RandomItemGiver RandomAmountSameItemsNumber run random value 1..64
 execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run function randomitemgiver:give_items/randomsameitems
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute as @a run scoreboard players operation @s RandomItemsReceived += RandomItemGiver RandomAmountSameItemsNumber
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 8 if score RandomItemGiver ItemGiveType matches 1 if score RandomItemGiver GiveItems matches 2 run execute as @a run scoreboard players operation @s RandomItemsReceived += RandomItemGiver RandomAmountSameItemsNumber
 
 #Post that you got an item (if enabled)
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received a new item!","color":"aqua"}]
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2..7 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received new items!","color":"aqua"}]
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run execute if score @s CanGetItems matches 2 run tellraw @s ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received a new item!","color":"aqua"}]
+execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2..7 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run execute if score @s CanGetItems matches 2 run tellraw @s ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received new items!","color":"aqua"}]
 
 #Play sound that you got an item (if enabled)
-execute if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute at @a run playsound entity.item.pickup player @p
+execute as @a at @s if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound entity.item.pickup player @p
 
 #Remove temporary boolean
 scoreboard players set RandomItemGiver GiveItemNow 0
