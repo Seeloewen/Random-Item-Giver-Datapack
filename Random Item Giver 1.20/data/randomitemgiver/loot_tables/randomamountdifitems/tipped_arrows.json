@@ -32,16 +32,6 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:healing\"}"
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:tipped_arrow",
-                    "functions": [
-                        {
-                            "function": "set_nbt",
                             "tag": "{Potion:\"minecraft:swiftness\"}"
                         }
                     ]

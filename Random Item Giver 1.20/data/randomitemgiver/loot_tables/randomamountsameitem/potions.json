@@ -44,28 +44,7 @@
                             }
                         }
                     ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:potion",
-                    "functions": [
-                        {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:healing\"}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "out"
-                                },
-                                "score": "RandomAmountSameItemsGen"
-                            }
-                        }
-                    ]
-                },
+                },      
                 {
                     "type": "item",
                     "name": "minecraft:potion",

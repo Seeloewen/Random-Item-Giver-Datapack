@@ -37,20 +37,6 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:healing\"}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 5
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:potion",
-                    "functions": [
-                        {
-                            "function": "set_nbt",
                             "tag": "{Potion:\"minecraft:swiftness\"}"
                         },
                         {
