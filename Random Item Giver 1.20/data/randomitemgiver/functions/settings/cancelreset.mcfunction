@@ -3,7 +3,7 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Show settings menu again
-function randomitemgiver:menus/settings
+function randomitemgiver:menus/settings3
 
 #Show the cancel message
 tellraw @a ""
