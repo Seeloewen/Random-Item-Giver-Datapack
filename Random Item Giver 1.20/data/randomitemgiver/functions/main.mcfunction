@@ -1,6 +1,14 @@
 #Make everyone able to get items if there's no specific setting yet
 execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
 
+#Setup the bossbar
+bossbar add rigtimer "Next Random Item"
+bossbar set minecraft:rigtimer players @a
+bossbar set minecraft:rigtimer color red
+execute unless score RandomItemGiver Time matches ..0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver RandomTime matches 1 store result bossbar minecraft:rigtimer max run scoreboard players get RandomItemGiver Time
+execute unless score RandomItemGiver RandomTimeValue matches ..0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver RandomTime matches 2 store result bossbar minecraft:rigtimer max run scoreboard players get RandomItemGiver RandomTimeValue
+execute if score RandomItemGiver GiveItems matches 2 store result bossbar minecraft:rigtimer value run scoreboard players get RandomItemGiver ItemTimer
+
 #Add dummy boolean (0 = false, 1 = true)
 scoreboard objectives add GiveItemNow dummy
 scoreboard players set RandomItemGiver GiveItemNow 0

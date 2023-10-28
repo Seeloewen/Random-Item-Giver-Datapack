@@ -30,6 +30,7 @@ scoreboard objectives add RandomTime dummy
 scoreboard objectives add RandomTimeValue dummy
 scoreboard objectives add Time dummy
 scoreboard objectives add CanGetItems dummy
+scoreboard objectives add TimerBossbar dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -52,9 +53,15 @@ execute unless score RandomItemGiver SuspiciousStews matches 1..2 run scoreboard
 execute unless score RandomItemGiver GoatHorns matches 1..2 run scoreboard players set RandomItemGiver GoatHorns 2
 execute unless score RandomItemGiver Paintings matches 1..2 run scoreboard players set RandomItemGiver Paintings 2
 execute unless score RandomItemGiver RandomTime matches 1..2 run scoreboard players set RandomItemGiver RandomTime 1
+execute unless score RandomItemGiver TimerBossbar matches 1..2 run scoreboard players set RandomItemGiver TimerBossbar 2
 execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
 execute store result score RandomItemGiver RandomTimeValue run random value 1..1200
 scoreboard players set ItemTimer 0
+
+#Setup the bossbar
+bossbar add rigtimer "Next Random Item"
+bossbar set minecraft:rigtimer players @a
+bossbar set minecraft:rigtimer color red
 
 #Post that datapack is loaded
 tellraw @a {"text":""}
@@ -92,3 +99,4 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #RandomTimeValue: Stores the time if "RandomTime" is enabled
 #ItemTimer: Stores the time if "RandomTime" is disabled
 #CanGetItems: For each individual player, score 2 means "enabled", score 1 "disabled"
+#TimerBossbar: Score 2 means "enabled", score 1 "disabled"
