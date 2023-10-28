@@ -216,7 +216,11 @@ execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItem
 execute as @a if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver ItemGiveAmount matches 2..7 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver ShowItemMessage matches 2 run execute if score @s CanGetItems matches 2 run tellraw @s ["",{"text":"(","color":"gray"},{"text":"\u2738","color":"aqua"},{"text":") ","color":"gray"},{"text":"You received new items!","color":"aqua"}]
 
 #Play sound that you got an item (if enabled)
-execute as @a at @s if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound entity.item.pickup player @p
+execute as @a at @s if score RandomItemGiver ItemSound matches 1 if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound entity.item.pickup player @p
+execute as @a at @s if score RandomItemGiver ItemSound matches 2 if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound block.bell.use player @p
+execute as @a at @s if score RandomItemGiver ItemSound matches 3 if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound block.amethyst_block.hit player @p
+execute as @a at @s if score RandomItemGiver ItemSound matches 4 if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound entity.arrow.hit player @p
+execute as @a at @s if score RandomItemGiver ItemSound matches 5 if score RandomItemGiver GiveItemNow matches 1 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver PlayItemSound matches 2 run execute if score @s CanGetItems matches 2 run playsound entity.experience_orb.pickup player @p
 
 #Remove temporary boolean
 scoreboard players set RandomItemGiver GiveItemNow 0

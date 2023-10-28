@@ -31,6 +31,7 @@ scoreboard objectives add RandomTimeValue dummy
 scoreboard objectives add Time dummy
 scoreboard objectives add CanGetItems dummy
 scoreboard objectives add TimerBossbar dummy
+scoreboard objectives add ItemSound dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver Seconds matches 1..999999999 run scoreboard players set RandomItemGiver Seconds 15
@@ -54,6 +55,7 @@ execute unless score RandomItemGiver GoatHorns matches 1..2 run scoreboard playe
 execute unless score RandomItemGiver Paintings matches 1..2 run scoreboard players set RandomItemGiver Paintings 2
 execute unless score RandomItemGiver RandomTime matches 1..2 run scoreboard players set RandomItemGiver RandomTime 1
 execute unless score RandomItemGiver TimerBossbar matches 1..2 run scoreboard players set RandomItemGiver TimerBossbar 2
+execute unless score RandomItemGiver ItemSound matches 1..5 run scoreboard players set RandomItemGiver ItemSound 1
 execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
 execute store result score RandomItemGiver RandomTimeValue run random value 1..1200
 scoreboard players set ItemTimer 0
@@ -100,3 +102,4 @@ tellraw @a ["",{"text":"[","color":"gray","clickEvent":{"action":"run_command","
 #ItemTimer: Stores the time if "RandomTime" is disabled
 #CanGetItems: For each individual player, score 2 means "enabled", score 1 "disabled"
 #TimerBossbar: Score 2 means "enabled", score 1 "disabled"
+#ItemSound: Score 1 means "Plop", score 2 means "Bell", score 3 means "Amethyst", score 4 means "Arrow", score 5 means "Experience"
