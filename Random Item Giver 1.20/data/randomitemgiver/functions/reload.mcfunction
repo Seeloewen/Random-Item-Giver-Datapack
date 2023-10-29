@@ -58,7 +58,7 @@ execute unless score RandomItemGiver TimerBossbar matches 1..2 run scoreboard pl
 execute unless score RandomItemGiver ItemSound matches 1..5 run scoreboard players set RandomItemGiver ItemSound 1
 execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
 execute store result score RandomItemGiver RandomTimeValue run random value 1..1200
-scoreboard players set ItemTimer 0
+scoreboard players set RandomItemGiver ItemTimer 0
 
 #Setup the bossbar
 bossbar add rigtimer "Next Random Item"
