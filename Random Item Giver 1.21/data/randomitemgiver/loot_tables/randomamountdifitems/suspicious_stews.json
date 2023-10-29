@@ -1,0 +1,102 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "min": 1,
+                "max": 64
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:15,EffectDuration:160}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:12,EffectDuration:80}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:8,EffectDuration:120}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:16,EffectDuration:100}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:10,EffectDuration:160}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:19,EffectDuration:240}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:23,EffectDuration:7}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:18,EffectDuration:180}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Effects:[{EffectId:20,EffectDuration:160}]}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

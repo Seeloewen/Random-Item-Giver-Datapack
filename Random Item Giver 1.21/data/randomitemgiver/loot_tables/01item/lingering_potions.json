@@ -1,0 +1,390 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:fire_resistance\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strength\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:swiftness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:regeneration\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:healing\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:slow_falling\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:invisibility\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:water_breathing\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:poison\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:slowness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:harming\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:weakness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:night_vision\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:turtle_master\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:leaping\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:luck\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_leaping\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_swiftness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_slowness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_healing\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_harming\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_poison\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_regeneration\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_strength\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:strong_turtle_master\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_night_vision\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_invisibility\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_leaping\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_fire_resistance\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_swiftness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_slowness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_water_breathing\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_poison\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_regeneration\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_strength\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_weakness\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_turtle_master\"}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:lingering_potion",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Potion:\"minecraft:long_slow_falling\"}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
