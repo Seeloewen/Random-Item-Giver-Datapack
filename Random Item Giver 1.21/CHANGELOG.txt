@@ -6,6 +6,9 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.5.0-Beta2 for Minecraft 23w44a (02.11.2023)
+* Updated to 23w44a (Pack format 23)
+
 Version 1.5.0-Beta1 for Minecraft 23w43b (29.10.2023)
 + Added all items from 23w42a and 23w43a
 * Updated to 23w43b (Pack format 22)
