@@ -27,6 +27,11 @@
                     "type": "item",
                     "name": "minecraft:structure_void"
 
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:trial_spawner"
+
                 }
             ]
         }

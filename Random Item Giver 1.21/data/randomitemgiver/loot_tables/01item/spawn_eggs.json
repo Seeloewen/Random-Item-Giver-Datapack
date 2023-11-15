@@ -387,6 +387,11 @@
                     "type": "item",
                     "name": "minecraft:zombie_horse_spawn_egg"
 
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:breeze_spawn_egg"
+
                 }
             ]
         }

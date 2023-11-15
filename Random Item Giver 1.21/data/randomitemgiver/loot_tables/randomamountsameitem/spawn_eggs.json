@@ -1311,6 +1311,23 @@
               }
             }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:breeze_spawn_egg",
+                    "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "out"
+                },
+                "score": "RandomAmountSameItemsGen"
+              }
+            }
+                    ]
                 }
             ]
         }

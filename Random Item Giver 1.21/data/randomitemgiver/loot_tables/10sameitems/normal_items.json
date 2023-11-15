@@ -11892,6 +11892,16 @@
               "count": 10
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:trial_key",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ]
         }
       ]
     }

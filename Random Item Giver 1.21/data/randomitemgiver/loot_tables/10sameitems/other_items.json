@@ -57,6 +57,17 @@
                             "count": 10
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:trial_spawner",
+                    "functions": [
+
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 10
+                        }
+                    ]
                 }
             ]
         }

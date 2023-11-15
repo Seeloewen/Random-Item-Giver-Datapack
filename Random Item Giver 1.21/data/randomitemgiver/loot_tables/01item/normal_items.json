@@ -4746,6 +4746,10 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:crafter"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:trial_key"
         }
       ]
     }

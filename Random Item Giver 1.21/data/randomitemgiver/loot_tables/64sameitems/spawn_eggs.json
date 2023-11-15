@@ -849,6 +849,17 @@
                             "count": 64
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:breeze_spawn_egg",
+                    "functions": [
+
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 64
+                        }
+                    ]
                 }
             ]
         }
