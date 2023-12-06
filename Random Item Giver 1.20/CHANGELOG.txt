@@ -6,6 +6,9 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.4.3 for Minecraft 1.20.3 (06.12.2023)
+* Updated to 1.20.3 (Pack format 26)
+
 Version 1.4.2 for Minecraft 1.20.2 (28.10.2023)
 + Added option to disable datapack for individual players
 + Added 'Reset to default settings' button
