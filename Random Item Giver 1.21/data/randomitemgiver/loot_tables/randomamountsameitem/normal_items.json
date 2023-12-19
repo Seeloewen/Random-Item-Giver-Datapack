@@ -11157,7 +11157,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:scute",
+          "name": "minecraft:turtle_scute",
           "functions": [
             {
               "function": "minecraft:set_count",

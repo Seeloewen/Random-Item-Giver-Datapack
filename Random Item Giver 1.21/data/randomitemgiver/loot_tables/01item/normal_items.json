@@ -2625,7 +2625,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:scute"
+          "name": "minecraft:turtle_scute"
         },
         {
           "type": "minecraft:item",
