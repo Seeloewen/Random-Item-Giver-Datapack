@@ -61,7 +61,7 @@ execute store result score RandomItemGiver RandomTimeValue run random value 1..1
 scoreboard players set RandomItemGiver ItemTimer 0
 
 #Setup the bossbar
-bossbar add rigtimer "Next Random Item"
+bossbar add rigtimer {"text":"Next Random Item","color":"red"}
 bossbar set minecraft:rigtimer players @a
 bossbar set minecraft:rigtimer color red
 

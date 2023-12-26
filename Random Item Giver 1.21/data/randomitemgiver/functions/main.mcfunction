@@ -2,7 +2,7 @@
 execute as @a run execute as @s unless score @s CanGetItems matches 1..2 run scoreboard players set @s CanGetItems 2
 
 #Setup the bossbar
-bossbar add rigtimer "Next Random Item"
+bossbar add rigtimer {"text":"Next Random Item","color":"red"}
 bossbar set minecraft:rigtimer players @a
 bossbar set minecraft:rigtimer color red
 execute unless score RandomItemGiver Time matches ..0 if score RandomItemGiver GiveItems matches 2 if score RandomItemGiver RandomTime matches 1 store result bossbar minecraft:rigtimer max run scoreboard players get RandomItemGiver Time
