@@ -11902,6 +11902,26 @@
               "count": 10
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wolf_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armadillo_scute",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ]
         }
       ]
     }

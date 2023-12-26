@@ -4750,6 +4750,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:trial_key"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wolf_armor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armadillo_scute"
         }
       ]
     }
