@@ -1089,10 +1089,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:filled_map"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:fire_charge"
         },
         {

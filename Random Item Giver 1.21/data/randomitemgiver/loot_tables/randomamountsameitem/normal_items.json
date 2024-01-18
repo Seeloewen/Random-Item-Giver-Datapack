@@ -4612,23 +4612,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:filled_map",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "RandomItemGiver"
-                },
-                "score": "RandomAmountSameItemsNumber"
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:fire_charge",
           "functions": [
             {
