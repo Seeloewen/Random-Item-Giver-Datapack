@@ -19,7 +19,7 @@ My (Louis9's) profile can be found here: https://www.planetminecraft.com/member/
 - Some older versions of this project use the Random Number Generator by CloudWolf: https://www.youtube.com/c/CloudWolfMinecraft
 
 [Contributions] 
-- Version 1.0.5 of this Datapack was made by Justysuwu, who also helped on Version 1.0.15 and 1.1.4. You can find her here: https://www.planetminecraft.com/member/user3317898g/
+- Version 1.0.5 of this Datapack was made by Justysuwu, who also helped on Version 1.0.15 and 1.1.4. You can find her here: https://www.planetminecraft.com/member/justysuwu/
 - The Bug which was fixed in 1.0.7 was found by MrRedeminator. You can find him here: https://www.planetminecraft.com/member/mrredeminator/
 - The Fact, that there weren't any 1.15 blocks and items which was fixed in 1.0.8 was discovered by WiseSunshine. You can find him here: https://www.planetminecraft.com/member/wisesunshine/
 - The suspicious soups with the effects were added by QueenieLawrens. You can find him here: https://www.planetminecraft.com/member/queenielawrens/
