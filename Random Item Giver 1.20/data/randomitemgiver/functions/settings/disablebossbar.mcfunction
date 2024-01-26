@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver TimerBossbar
-scoreboard players set RandomItemGiver TimerBossbar 1
+scoreboard players reset RandomItemGiver rig_TimerBossbar
+scoreboard players set RandomItemGiver rig_TimerBossbar 1
 bossbar set minecraft:rigtimer visible false
 
 #Show settings menu again

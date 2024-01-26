@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver ShowItemMessage
-scoreboard players set RandomItemGiver ShowItemMessage 1
+scoreboard players reset RandomItemGiver rig_ShowItemMessage
+scoreboard players set RandomItemGiver rig_ShowItemMessage 1
 
 #Show settings menu again
 function randomitemgiver:menus/settings

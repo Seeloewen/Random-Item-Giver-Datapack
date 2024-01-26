@@ -3,10 +3,10 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players remove RandomItemGiver Time 200
-scoreboard players remove RandomItemGiver Seconds 10
-execute if score RandomItemGiver Time matches ..0 run scoreboard players set RandomItemGiver Time 0
-execute if score RandomItemGiver Time matches ..0 run scoreboard players set RandomItemGiver Seconds 0
+scoreboard players remove RandomItemGiver rig_Time 200
+scoreboard players remove RandomItemGiver rig_Seconds 10
+execute if score RandomItemGiver rig_Time matches ..0 run scoreboard players set RandomItemGiver rig_Time 0
+execute if score RandomItemGiver rig_Time matches ..0 run scoreboard players set RandomItemGiver rig_Seconds 0
 
 #Show settings menu again
 function randomitemgiver:menus/settings

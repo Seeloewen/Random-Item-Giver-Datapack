@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver ItemSound
-scoreboard players set RandomItemGiver ItemSound 3
+scoreboard players reset RandomItemGiver rig_ItemSound
+scoreboard players set RandomItemGiver rig_ItemSound 3
 execute as @a at @s run playsound block.amethyst_block.hit player @p
 
 #Show settings menu again

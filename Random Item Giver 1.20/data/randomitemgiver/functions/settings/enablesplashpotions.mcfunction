@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver SplashPotions
-scoreboard players set RandomItemGiver SplashPotions 2
+scoreboard players reset RandomItemGiver rig_SplashPotions
+scoreboard players set RandomItemGiver rig_SplashPotions 2
 
 #Show settings menu again
 function randomitemgiver:menus/items

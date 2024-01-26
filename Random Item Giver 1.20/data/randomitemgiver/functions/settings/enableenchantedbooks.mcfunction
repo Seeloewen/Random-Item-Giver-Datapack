@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver EnchantedBooks
-scoreboard players set RandomItemGiver EnchantedBooks 2
+scoreboard players reset RandomItemGiver rig_EnchantedBooks
+scoreboard players set RandomItemGiver rig_EnchantedBooks 2
 
 #Show settings menu again
 function randomitemgiver:menus/items

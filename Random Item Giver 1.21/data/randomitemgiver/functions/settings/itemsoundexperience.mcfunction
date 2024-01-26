@@ -3,8 +3,8 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Change setting
-scoreboard players reset RandomItemGiver ItemSound
-scoreboard players set RandomItemGiver ItemSound 5
+scoreboard players reset RandomItemGiver rig_ItemSound
+scoreboard players set RandomItemGiver rig_ItemSound 5
 execute as @a at @s run playsound entity.experience_orb.pickup player @p
 
 #Show settings menu again
