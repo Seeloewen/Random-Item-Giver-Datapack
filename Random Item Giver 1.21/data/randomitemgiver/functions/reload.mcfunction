@@ -3,35 +3,35 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Add objectives
-scoreboard objectives add Seconds dummy
-scoreboard objectives add GiveItems dummy
-scoreboard objectives add SpawnEggs dummy
-scoreboard objectives add CommandBlocks dummy
-scoreboard objectives add OtherItems dummy
-scoreboard objectives add ItemTimer dummy
-scoreboard objectives add ShowItemMessage dummy
-scoreboard objectives add ItemGiveType dummy
-scoreboard objectives add ItemGiveAmount dummy
-scoreboard objectives add PlayItemSound dummy
-scoreboard objectives add ShowItemAmountScoreboard dummy
-scoreboard objectives add RandomItemsReceived dummy {"text":"Random items received"}
-scoreboard objectives add ItemsReceivedTemp dummy
-scoreboard objectives add MainNumber dummy
-scoreboard objectives add RandomAmountSameItemsNumber dummy
-scoreboard objectives add EnchantedBooks dummy
-scoreboard objectives add Potions dummy
-scoreboard objectives add LingeringPotions dummy
-scoreboard objectives add SplashPotions dummy
-scoreboard objectives add TippedArrows dummy
-scoreboard objectives add SuspiciousStews dummy
-scoreboard objectives add GoatHorns dummy
-scoreboard objectives add Paintings dummy
-scoreboard objectives add RandomTime dummy
-scoreboard objectives add RandomTimeValue dummy
-scoreboard objectives add Time dummy
-scoreboard objectives add CanGetItems dummy
-scoreboard objectives add TimerBossbar dummy
-scoreboard objectives add ItemSound dummy
+scoreboard objectives add rig_Seconds dummy
+scoreboard objectives add rig_GiveItems dummy
+scoreboard objectives add rig_SpawnEggs dummy
+scoreboard objectives add rig_CommandBlocks dummy
+scoreboard objectives add rig_OtherItems dummy
+scoreboard objectives add rig_ItemTimer dummy
+scoreboard objectives add rig_ShowItemMessage dummy
+scoreboard objectives add rig_ItemGiveType dummy
+scoreboard objectives add rig_ItemGiveAmount dummy
+scoreboard objectives add rig_PlayItemSound dummy
+scoreboard objectives add rig_ShowItemAmountScoreboard dummy
+scoreboard objectives add rig_RandomItemsReceived dummy {"text":"Random items received"}
+scoreboard objectives add rig_ItemsReceivedTemp dummy
+scoreboard objectives add rig_MainNumber dummy
+scoreboard objectives add rig_RandomAmountSameItemsNumber dummy
+scoreboard objectives add rig_EnchantedBooks dummy
+scoreboard objectives add rig_Potions dummy
+scoreboard objectives add rig_LingeringPotions dummy
+scoreboard objectives add rig_SplashPotions dummy
+scoreboard objectives add rig_TippedArrows dummy
+scoreboard objectives add rig_SuspiciousStews dummy
+scoreboard objectives add rig_GoatHorns dummy
+scoreboard objectives add rig_Paintings dummy
+scoreboard objectives add rig_RandomTime dummy
+scoreboard objectives add rig_RandomTimeValue dummy
+scoreboard objectives add rig_Time dummy
+scoreboard objectives add rig_CanGetItems dummy
+scoreboard objectives add rig_TimerBossbar dummy
+scoreboard objectives add rig_ItemSound dummy
 
 #Setup datapack if no settings have been made before
 execute unless score RandomItemGiver rig_Seconds matches 0..999999999 run scoreboard players set RandomItemGiver rig_Seconds 15

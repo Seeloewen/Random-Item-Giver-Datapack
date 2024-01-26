@@ -3,35 +3,35 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Remove Scoreboard entrys
-scoreboard objectives remove Seconds
-scoreboard objectives remove GiveItems
-scoreboard objectives remove SpawnEggs
-scoreboard objectives remove CommandBlocks
-scoreboard objectives remove OtherItems
-scoreboard objectives remove ItemTimer
-scoreboard objectives remove ShowItemMessage
-scoreboard objectives remove ItemGiveType
-scoreboard objectives remove ItemGiveAmount
-scoreboard objectives remove PlayItemSound
-scoreboard objectives remove ShowItemAmountScoreboard
-scoreboard objectives remove RandomItemsReceived
-scoreboard objectives remove ItemsReceivedTemp
-scoreboard objectives remove RandomAmountSameItemsNumber
-scoreboard objectives remove MainNumber
-scoreboard objectives remove EnchantedBooks
-scoreboard objectives remove Potions
-scoreboard objectives remove LingeringPotions
-scoreboard objectives remove SplashPotions
-scoreboard objectives remove TippedArrows
-scoreboard objectives remove SuspiciousStews
-scoreboard objectives remove GoatHorns
-scoreboard objectives remove Paintings
-scoreboard objectives remove RandomTime
-scoreboard objectives remove Time
-scoreboard objectives remove RandomTimeValue
-scoreboard objectives remove CanGetItems
-scoreboard objectives remove TimerBossbar
-scoreboard objectives remove ItemSound
+scoreboard objectives remove rig_Seconds
+scoreboard objectives remove rig_GiveItems
+scoreboard objectives remove rig_SpawnEggs
+scoreboard objectives remove rig_CommandBlocks
+scoreboard objectives remove rig_OtherItems
+scoreboard objectives remove rig_ItemTimer
+scoreboard objectives remove rig_ShowItemMessage
+scoreboard objectives remove rig_ItemGiveType
+scoreboard objectives remove rig_ItemGiveAmount
+scoreboard objectives remove rig_PlayItemSound
+scoreboard objectives remove rig_ShowItemAmountScoreboard
+scoreboard objectives remove rig_RandomItemsReceived
+scoreboard objectives remove rig_ItemsReceivedTemp
+scoreboard objectives remove rig_RandomAmountSameItemsNumber
+scoreboard objectives remove rig_MainNumber
+scoreboard objectives remove rig_EnchantedBooks
+scoreboard objectives remove rig_Potions
+scoreboard objectives remove rig_LingeringPotions
+scoreboard objectives remove rig_SplashPotions
+scoreboard objectives remove rig_TippedArrows
+scoreboard objectives remove rig_SuspiciousStews
+scoreboard objectives remove rig_GoatHorns
+scoreboard objectives remove rig_Paintings
+scoreboard objectives remove rig_RandomTime
+scoreboard objectives remove rig_Time
+scoreboard objectives remove rig_RandomTimeValue
+scoreboard objectives remove rig_CanGetItems
+scoreboard objectives remove rig_TimerBossbar
+scoreboard objectives remove rig_ItemSound
 
 #Post that datapack was disabled
 tellraw @a ["",{"text":"\nRandom Item Giver was successfully disabled.","color":"green"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-4-mc-1-20-4.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"\u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-4-mc-1-20-4.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-4-mc-1-20-4.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":" ","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-4-mc-1-20-4.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"Click here to enable it again.","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-4-mc-1-20-4.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}}]

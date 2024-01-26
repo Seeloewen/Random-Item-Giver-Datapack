@@ -19,7 +19,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -40,7 +40,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -61,7 +61,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -82,7 +82,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -103,7 +103,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -124,7 +124,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -145,7 +145,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -166,7 +166,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -187,7 +187,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -208,7 +208,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -229,7 +229,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -250,7 +250,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -271,7 +271,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -292,7 +292,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -313,7 +313,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -334,7 +334,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -355,7 +355,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -376,7 +376,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -397,7 +397,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -418,7 +418,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -439,7 +439,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -460,7 +460,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -481,7 +481,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -502,7 +502,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -523,7 +523,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -544,7 +544,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -565,7 +565,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -586,7 +586,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -607,7 +607,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -628,7 +628,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -649,7 +649,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -670,7 +670,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -691,7 +691,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -712,7 +712,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -733,7 +733,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -754,7 +754,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -775,7 +775,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -796,7 +796,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -817,7 +817,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -838,7 +838,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -859,7 +859,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -880,7 +880,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -901,7 +901,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -922,7 +922,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -943,7 +943,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -964,7 +964,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -985,7 +985,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1006,7 +1006,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1027,7 +1027,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1048,7 +1048,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1069,7 +1069,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1090,7 +1090,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1111,7 +1111,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1132,7 +1132,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1153,7 +1153,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1174,7 +1174,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1195,7 +1195,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1216,7 +1216,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1237,7 +1237,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1258,7 +1258,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1279,7 +1279,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1300,7 +1300,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1321,7 +1321,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1342,7 +1342,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1363,7 +1363,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1384,7 +1384,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1405,7 +1405,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1426,7 +1426,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1447,7 +1447,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1468,7 +1468,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1489,7 +1489,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1510,7 +1510,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1531,7 +1531,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1552,7 +1552,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1573,7 +1573,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1594,7 +1594,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1615,7 +1615,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1636,7 +1636,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1657,7 +1657,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1678,7 +1678,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1699,7 +1699,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1720,7 +1720,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1741,7 +1741,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1762,7 +1762,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1783,7 +1783,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1804,7 +1804,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1825,7 +1825,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1846,7 +1846,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1867,7 +1867,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1888,7 +1888,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1909,7 +1909,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1930,7 +1930,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1951,7 +1951,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1972,7 +1972,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -1993,7 +1993,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2014,7 +2014,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2035,7 +2035,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2056,7 +2056,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2077,7 +2077,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2098,7 +2098,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2119,7 +2119,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2140,7 +2140,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2161,7 +2161,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2182,7 +2182,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2203,7 +2203,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2224,7 +2224,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2245,7 +2245,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2266,7 +2266,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2287,7 +2287,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2308,7 +2308,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             }
           ]
@@ -2325,7 +2325,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             },
             {
@@ -2346,7 +2346,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             },
             {
@@ -2367,7 +2367,7 @@
                   "type": "minecraft:fixed",
                   "name": "RandomItemGiver"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "rig_RandomAmountSameItemsNumber"
               }
             },
             {

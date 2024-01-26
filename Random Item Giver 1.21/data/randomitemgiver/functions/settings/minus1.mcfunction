@@ -13,4 +13,4 @@ function randomitemgiver:menus/settings
 
 #Post that settings changed successfully
 tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully removed 1 second from the timer.","color":"red"},{"text":" The timer is now ","color":"red"},{"score":{"name":"RandomItemGiver","objective":"Seconds"},"color":"red"},{"text":" Seconds.","color":"red"}]
+tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully removed 1 second from the timer.","color":"red"},{"text":" The timer is now ","color":"red"},{"score":{"name":"RandomItemGiver","objective":"rig_Seconds"},"color":"red"},{"text":" Seconds.","color":"red"}]
