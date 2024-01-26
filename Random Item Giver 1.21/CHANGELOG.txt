@@ -6,8 +6,12 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.5.0-Beta7 for Minecraft 24w04a (26.01.2024)
+* Updated to 24w04a (Pack format 29)
+
 Version 1.5.0-Beta6 for Minecraft 24w03b (22.01.2024)
 * Updated to 24w03b (Pack format 28)
+* Removed filled map item as it is corrupted
 
 Version 1.5.0-Beta5 for Minecraft 23w51b (26.12.2023)
 + Added items from Snapshot 23w51a
