@@ -6,6 +6,10 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.5.0-Beta8 for Minecraft 24w06a (10.02.2024)
++ Added items from 24w05a and 24w06a
+* Updated to 24w06a (Pack format 31)
+
 Version 1.5.0-Beta7 for Minecraft 24w04a (26.01.2024)
 * Updated to 24w04a (Pack format 29)
 
