@@ -11912,6 +11912,27 @@
               "count": 32
             }
           ]
+        
+          },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:vault",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+          },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wind_charge",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
         }
       ]
     }
