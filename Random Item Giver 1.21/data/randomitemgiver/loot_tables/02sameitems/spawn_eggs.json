@@ -871,6 +871,17 @@
                             "count": 2
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:bogged_spawn_egg",
+                    "functions": [
+
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2
+                        }
+                    ]
                 }
             ]
         }

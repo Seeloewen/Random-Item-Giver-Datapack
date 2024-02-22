@@ -400,6 +400,11 @@
                     "type": "item",
                     "name": "minecraft:armadillo_spawn_egg"
 
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:bogged_spawn_egg"
+
                 }
             ]
         }
