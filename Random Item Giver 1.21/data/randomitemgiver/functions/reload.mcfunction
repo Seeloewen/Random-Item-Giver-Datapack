@@ -75,31 +75,32 @@ tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u26a0","color":"gold"},{"te
 # Score explainations #
 #######################
 
-#Seconds: Must be between 1 and 999999999
-#GiveItems: Score 2 means "enabled", score 1 "disabled"
-#SpawnEggs: Score 2 means "enabled", score 1 "disabled"
-#CommandBlocks: Score 2 means "enabled", score 1 "disabled"
-#OtherItems: Score 2 means "enabled", score 1 "disabled"
-#Time: Must be between 1 and 999999999
-#ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
-#ItemGiveType: 1 means "same item", 2 means "different item"
-#ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64 items", 8 means "Random amount between 1 and 64"
-#ShowItemAmountScoreboard: Score 2 means "enabled", score 1 "disabled"
-#RandomItemsReceived: Must be between 1 and 999999999
-#ItemsReceivedTemp: Temporary store for the amount of items received when the type is set to "random amount of different item between 1 and 64"
-#MainNumber: Store for random number that decides which loot table gets selected in the main file
-#RandomAmountSameItemsNumber: Store for random number that decides the amount of items from the Random Amount Same Items loot table
-#EnchantedBooks: Score 2 means "enabled", score 1 "disabled"
-#Potions: Score 2 means "enabled", score 1 "disabled"
-#LingeringPotions: Score 2 means "enabled", score 1 "disabled"
-#SplashPotions: Score 2 means "enabled", score 1 "disabled"
-#TippedArrows: Score 2 means "enabled", score 1 "disabled"
-#SuspiciousStews: Score 2 means "enabled", score 1 "disabled"
-#GoatHorns: Score 2 means "enabled", score 1 "disabled"
-#Paintings: Score 2 means "enabled", score 1 "disabled"
-#RandomTime: Score 2 means "enabled", score 1 "disabled"
-#RandomTimeValue: Stores the time if "RandomTime" is enabled
-#ItemTimer: Stores the time if "RandomTime" is disabled
-#CanGetItems: For each individual player, score 2 means "enabled", score 1 "disabled"
-#TimerBossbar: Score 2 means "enabled", score 1 "disabled"
-#ItemSound: Score 1 means "Plop", score 2 means "Bell", score 3 means "Amethyst", score 4 means "Arrow", score 5 means "Experience"
+#rig_Seconds: Must be between 1 and 999999999
+#rig_GiveItems: Score 2 means "enabled", score 1 "disabled"
+#rig_SpawnEggs: Score 2 means "enabled", score 1 "disabled"
+#rig_CommandBlocks: Score 2 means "enabled", score 1 "disabled"
+#rig_OtherItems: Score 2 means "enabled", score 1 "disabled"
+#rig_ItemTimer: Must be between 1 and 999999999
+#rig_ShowItemMessage: Score 2 means "enabled", score 1 "disabled"
+#rig_ItemGiveType: 1 means "same item", 2 means "different item"
+#rig_ItemGiveAmount: 1 means "1 item", 2 means "2 items", 3 means "3 items", 4 means "5 items", 5 means "10 items", 6 means "32 items", 7 means "64 items", 8 means "Random amount between 1 and 64"
+#rig_PlayItemSound: Score 2 means enabled, score 1 "disabled"
+#rig_ShowItemAmountScoreboard: Score 2 means "enabled", score 1 "disabled"
+#rig_RandomItemsReceived: Must be between 1 and 999999999
+#rig_ItemsReceivedTemp: Temporary store for the amount of items received when the type is set to "random amount of different item between 1 and 64"
+#rig_MainNumber: Store for random number that decides which loot table gets selected in the main file
+#rig_RandomAmountSameItemsNumber: Store for random number that decides the amount of items from the Random Amount Same Items loot table
+#rig_EnchantedBooks: Score 2 means "enabled", score 1 "disabled"
+#rig_Potions: Score 2 means "enabled", score 1 "disabled"
+#rig_LingeringPotions: Score 2 means "enabled", score 1 "disabled"
+#rig_SplashPotions: Score 2 means "enabled", score 1 "disabled"
+#rig_TippedArrows: Score 2 means "enabled", score 1 "disabled"
+#rig_SuspiciousStews: Score 2 means "enabled", score 1 "disabled"
+#rig_GoatHorns: Score 2 means "enabled", score 1 "disabled"
+#rig_Paintings: Score 2 means "enabled", score 1 "disabled"
+#rig_RandomTime: Score 2 means "enabled", score 1 "disabled"
+#rig_RandomTimeValue: Stores the time if "RandomTime" is enabled
+#rig_Time: Stores the time if "RandomTime" is disabled
+#rig_CanGetItems: For each individual player, score 2 means "enabled", score 1 "disabled"
+#rig_TimerBossbar: Score 2 means "enabled", score 1 "disabled"
+#rig_ItemSound: Score 1 means "Plop", score 2 means "Bell", score 3 means "Amethyst", score 4 means "Arrow", score 5 means "Experience"
