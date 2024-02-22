@@ -5,7 +5,7 @@ schedule function randomitemgiver:reset_feedback 1t
 #Change setting
 scoreboard players reset RandomItemGiver rig_ShowItemAmountScoreboard
 scoreboard players set RandomItemGiver rig_ShowItemAmountScoreboard 1
-scoreboard objectives setdisplay sidebar rig_RandomItemsReceived
+scoreboard objectives setdisplay sidebar
 
 #Show settings menu again
 function randomitemgiver:menus/settings2
