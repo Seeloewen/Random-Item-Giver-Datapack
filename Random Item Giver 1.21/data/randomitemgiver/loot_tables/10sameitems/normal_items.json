@@ -3505,16 +3505,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:horse_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 10
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:ice",
           "functions": [
             {
@@ -5406,26 +5396,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:phantom_membrane",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 10
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:pig_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 10
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:pillager_spawn_egg",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -7435,16 +7405,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:tropical_fish_spawn_egg",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 10
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:tropical_fish_bucket",
           "functions": [
             {
@@ -9216,16 +9176,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:honeycomb",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 10
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:bee_spawn_egg",
           "functions": [
             {
               "function": "minecraft:set_count",

@@ -1405,10 +1405,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:horse_spawn_egg"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:ice"
         },
         {
@@ -2166,14 +2162,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:phantom_membrane"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:pig_spawn_egg"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:pillager_spawn_egg"
         },
         {
           "type": "minecraft:item",
@@ -2977,10 +2965,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:tropical_fish_spawn_egg"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:tropical_fish_bucket"
         },
         {
@@ -3690,10 +3674,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:honeycomb"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:bee_spawn_egg"
         },
         {
           "type": "minecraft:item",
