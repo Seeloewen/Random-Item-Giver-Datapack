@@ -8,8 +8,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:ponder_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:ponder_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -29,8 +31,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:sing_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:sing_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -50,8 +54,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:seek_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:seek_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -71,8 +77,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:feel_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:feel_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -92,8 +100,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:admire_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:admire_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -113,8 +123,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:call_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:call_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -134,8 +146,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:yearn_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:yearn_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",
@@ -155,8 +169,10 @@
           "name": "minecraft:goat_horn",
           "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{instrument:\"minecraft:dream_goat_horn\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:instrument": "minecraft:dream_goat_horn"
+                        }
             },
             {
               "function": "minecraft:set_count",

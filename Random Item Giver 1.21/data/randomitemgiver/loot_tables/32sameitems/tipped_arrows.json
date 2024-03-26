@@ -8,8 +8,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:fire_resistance\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:fire_resistance"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -22,8 +26,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strength\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strength"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -36,8 +44,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:swiftness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:swiftness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -51,8 +63,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:regeneration\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:regeneration"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -65,8 +81,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:healing\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:healing"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -79,8 +99,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:slow_falling\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:slow_falling"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -93,8 +117,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:invisibility\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:invisibility"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -107,8 +135,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:water_breathing\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:water_breathing"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -121,8 +153,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:poison\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:poison"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -135,8 +171,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:slowness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:slowness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -149,8 +189,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:harming\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:harming"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -163,8 +207,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:weakness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:weakness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -177,8 +225,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:night_vision\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:night_vision"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -191,8 +243,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:turtle_master\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:turtle_master"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -205,8 +261,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:leaping\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:leaping"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -219,8 +279,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:luck\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:luck"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -233,8 +297,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_leaping\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_leaping"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -247,8 +315,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_swiftness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_swiftness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -261,8 +333,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_slowness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_slowness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -275,8 +351,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_healing\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_healing"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -289,8 +369,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_harming\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_harming"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -303,8 +387,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_poison\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_poison"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -317,8 +405,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_regeneration\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_regeneration"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -331,8 +423,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_strength\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_strength"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -345,8 +441,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:strong_turtle_master\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_turtle_master"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -359,8 +459,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_night_vision\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_night_vision"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -373,8 +477,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_invisibility\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_invisibility"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -387,8 +495,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_leaping\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_leaping"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -401,8 +513,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_fire_resistance\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_fire_resistance"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -415,8 +531,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_swiftness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_swiftness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -429,8 +549,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_slowness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_slowness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -443,8 +567,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_water_breathing\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_water_breathing"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -457,8 +585,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_poison\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_poison"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -471,8 +603,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_regeneration\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_regeneration"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -485,8 +621,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_strength\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_strength"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -499,8 +639,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_weakness\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_weakness"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -513,8 +657,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_turtle_master\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_turtle_master"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -527,8 +675,12 @@
                     "name": "minecraft:tipped_arrow",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:long_slow_falling\"}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:long_slow_falling"
+                          }
+                        }
                         },
                         {
                             "function": "minecraft:set_count",

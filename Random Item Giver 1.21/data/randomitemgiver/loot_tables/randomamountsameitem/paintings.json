@@ -19,8 +19,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:kebab\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:kebab"
+                          }
+                        }
                         }
                     ]
                 },
@@ -40,8 +45,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:aztec\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:aztec"
+                          }
+                        }
                         }
                     ]
                 },
@@ -61,8 +71,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:alban\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:alban"
+                          }
+                        }
                         }
                     ]
                 },
@@ -82,8 +97,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:aztec2\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:aztec2"
+                          }
+                        }
                         }
                     ]
                 },
@@ -103,8 +123,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:bomb\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:bomb"
+                          }
+                        }
                         }
                     ]
                 },
@@ -124,8 +149,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:plant\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:plant"
+                          }
+                        }
                         }
                     ]
                 },
@@ -145,8 +175,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:wasteland\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:wasteland"
+                          }
+                        }
                         }
                     ]
                 },
@@ -166,8 +201,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:wanderer\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:wanderer"
+                          }
+                        }
                         }
                     ]
                 },
@@ -187,8 +227,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:graham\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:graham"
+                          }
+                        }
                         }
                     ]
                 },
@@ -208,8 +253,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:pool\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:pool"
+                          }
+                        }
                         }
                     ]
                 },
@@ -229,8 +279,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:courbet\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:courbet"
+                          }
+                        }
                         }
                     ]
                 },
@@ -250,8 +305,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:sea\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:sea"
+                          }
+                        }
                         }
                     ]
                 },
@@ -271,8 +331,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:sunset\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:sunset"
+                          }
+                        }
                         }
                     ]
                 },
@@ -292,8 +357,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:creebet\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:creebet"
+                          }
+                        }
                         }
                     ]
                 },
@@ -313,8 +383,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:match\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:match"
+                          }
+                        }
                         }
                     ]
                 },
@@ -334,8 +409,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:bust\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:bust"
+                          }
+                        }
                         }
                     ]
                 },
@@ -355,8 +435,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:stage\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:stage"
+                          }
+                        }
                         }
                     ]
                 },
@@ -376,8 +461,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:void\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:void"
+                          }
+                        }
                         }
                     ]
                 },
@@ -397,8 +487,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:skull_and_roses\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:skull_and_roses"
+                          }
+                        }
                         }
                     ]
                 },
@@ -418,8 +513,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:wither\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:wither"
+                          }
+                        }
                         }
                     ]
                 },
@@ -439,8 +539,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:fighters\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:fighters"
+                          }
+                        }
                         }
                     ]
                 },
@@ -460,8 +565,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:skeleton\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:skeleton"
+                          }
+                        }
                         }
                     ]
                 },
@@ -481,8 +591,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:donkey_kong\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:donkey_kong"
+                          }
+                        }
                         }
                     ]
                 },
@@ -502,8 +617,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:pointer\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:pointer"
+                          }
+                        }
                         }
                     ]
                 },
@@ -523,8 +643,13 @@
                             }
                         },
                         {
-                            "function": "set_nbt",
-                            "tag": "{EntityTag:{variant:\"minecraft:burning_skull\"}}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                  "variant": "minecraft:burning_skull"
+                          }
+                        }
                         }
                     ]
                 }

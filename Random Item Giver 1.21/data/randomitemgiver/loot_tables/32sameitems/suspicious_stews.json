@@ -8,8 +8,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:15,EffectDuration:160}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:blindness",
+                              "duration": 160
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -22,8 +29,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:12,EffectDuration:80}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:fire_resistance",
+                              "duration": 80
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -36,8 +50,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:8,EffectDuration:120}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:jump_boost",
+                              "duration": 120
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -50,8 +71,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:16,EffectDuration:100}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:night_vision",
+                              "duration": 100
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -64,8 +92,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:10,EffectDuration:160}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:regeneration",
+                              "duration": 160
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -78,8 +113,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:19,EffectDuration:240}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:poison",
+                              "duration": 240
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -92,8 +134,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:23,EffectDuration:7}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:saturation",
+                              "duration": 7
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -106,8 +155,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:18,EffectDuration:180}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:weakness",
+                              "duration": 180
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
@@ -120,8 +176,15 @@
                     "name": "minecraft:suspicious_stew",
                     "functions": [
                         {
-                            "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:20,EffectDuration:160}]}"
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:wither",
+                              "duration": 160
+                            }
+                          ]
+                        }
                         },
                         {
                             "function": "minecraft:set_count",
