@@ -28,6 +28,7 @@ namespace RIG_24w09a_Updater
 
         private void btnOK_Click(object sender, RoutedEventArgs e)
         {
+            //Close about window
             Close();
         }
     }

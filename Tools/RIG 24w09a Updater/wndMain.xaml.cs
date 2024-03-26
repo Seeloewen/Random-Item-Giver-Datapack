@@ -29,6 +29,8 @@ namespace RIG_24w09a_Updater
         public MainWindow()
         {
             InitializeComponent();
+
+            //Setup backgroundworker and folderbrowserdialog
             bgwUpdater.DoWork += bgwUpdater_DoWork;
             bgwUpdater.RunWorkerCompleted += bgwUpdater_RunWorkerCompleted;
             bgwUpdater.ProgressChanged += bgwUpdater_ProgressChanged;
@@ -40,6 +42,7 @@ namespace RIG_24w09a_Updater
 
         private void bgwUpdater_DoWork(object s, DoWorkEventArgs args)
         {
+            //Go through each file in each folder and update the loot table
             string[] directoryList = Directory.GetDirectories(datapack); ;
             foreach (string dir in directoryList)
             {
@@ -57,6 +60,7 @@ namespace RIG_24w09a_Updater
 
         private void bgwUpdater_RunWorkerCompleted(object s, RunWorkerCompletedEventArgs args)
         {
+            //Reset the progress and show confirmation
             pbUpdater.Value = 100;
             pbUpdater.Visibility = Visibility.Hidden;
             btnUpdateDatapack.Visibility = Visibility.Visible;
@@ -72,16 +76,19 @@ namespace RIG_24w09a_Updater
 
         private void btnBrowseDatapack_Click(object sender, RoutedEventArgs e)
         {
+            //Show folder browser
             fbdDatapack.ShowDialog();
             tbDatapack.Text = fbdDatapack.SelectedPath;
         }
 
         private void btnUpdateDatapack_Click(object sender, RoutedEventArgs e)
         {
+            //Check if datapack exists
             if (string.IsNullOrEmpty(tbDatapack.Text) == false)
             {
                 if (Directory.Exists($"{tbDatapack.Text}\\data\\randomitemgiver\\loot_tables"))
                 {
+                    //Check if the datapack has a valid version (1.4.2+, 1.5.0-Beta1+)
                     if (CheckDatapackVersion() == true)
                     {
                         datapack = $"{tbDatapack.Text}\\data\\randomitemgiver\\loot_tables";
@@ -103,6 +110,13 @@ namespace RIG_24w09a_Updater
             }
         }
 
+        private void btnAbout_Click(object sender, RoutedEventArgs e)
+        {
+            //Open the about window
+            wndAbout = new wndAbout();
+            wndAbout.ShowDialog();
+        }
+
         //-- Custom Methods --//
 
         private void UpdateLootTable(string file, string fileName)
@@ -112,6 +126,7 @@ namespace RIG_24w09a_Updater
                 string[] originalContent = File.ReadAllLines(file);
                 List<string> newContent = new List<string>();
 
+                //Go through each line in the loot table
                 foreach (string item in originalContent)
                 {
                     string updatedItem = "";
@@ -121,6 +136,7 @@ namespace RIG_24w09a_Updater
                     }
                     else if (item.Contains("\"tag\":"))
                     {
+                        //If it's the line containing the old tag, update it to the new components structure
                         updatedItem = "                        \"components\": {\n                          " + GetSpecificComponent(fileName, item) + "\n                        }";
                     }
                     else
@@ -130,6 +146,8 @@ namespace RIG_24w09a_Updater
 
                     newContent.Add(updatedItem);
                 }
+
+                //Write the updated array to the file
                 File.WriteAllLines(file, newContent);
 
                 Log($"Updated loot table {file}.");
@@ -143,6 +161,7 @@ namespace RIG_24w09a_Updater
 
         private string GetSpecificComponent(string fileName, string item)
         {
+            //Update the tag to the new component based on the loot table (fileName)
             switch (fileName)
             {
                 case "enchanted_books.json":
@@ -184,6 +203,7 @@ namespace RIG_24w09a_Updater
 
         private string ConvertEffect(string effect)
         {
+            //Suspicious stews no longer use numbers, but rather strings, so here's a function to convert them
             switch (effect)
             {
                 case "15":
@@ -213,6 +233,7 @@ namespace RIG_24w09a_Updater
 
         private bool CheckDatapackVersion()
         {
+            //Checks the datapack version to make sure the software is compatible with it
             string datapackVersion = "unknown";
             string mcVersion = "unknown";
             string versionBranch = "unknown";
@@ -246,6 +267,7 @@ namespace RIG_24w09a_Updater
 
             if (datapackVersion == "1.4.1" || datapackVersion == "unknown")
             {
+                //Let user decide if they still want to continue even if the datapack is not supported
                 Log("Could not detect datapack version. This probably means that the datapack is not supported.");
                 MessageBoxResult dialogResult = MessageBox.Show("You are trying to update a datapack that is unsupported by the software. Doing so may result in corruption, continue at your own risk. Are you that you want to update?", "Warning", MessageBoxButton.YesNo, MessageBoxImage.Warning);
                 if (dialogResult == MessageBoxResult.Yes)
@@ -269,16 +291,11 @@ namespace RIG_24w09a_Updater
 
         private void Log(string message)
         {
+            //Write text into log and add the date and time to it
             Dispatcher.Invoke(delegate ()
             {
                 tbOutput.AppendText($"[{DateTime.Now}] {message}\n");
             });
-        }
-
-        private void btnAbout_Click(object sender, RoutedEventArgs e)
-        {
-            wndAbout = new wndAbout();
-            wndAbout.ShowDialog();
         }
     }
 }
