@@ -14,14 +14,21 @@ using System.Windows.Shapes;
 
 namespace RIG_24w09a_Updater
 {
-    /// <summary>
-    /// Interaktionslogik für wndAbout.xaml
-    /// </summary>
     public partial class wndAbout : Window
     {
+
+        //-- Constructor --//
+
         public wndAbout()
         {
             InitializeComponent();
+        }
+
+        //-- Event Handler --//
+
+        private void btnOK_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }

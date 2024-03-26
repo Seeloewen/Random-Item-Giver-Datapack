@@ -21,6 +21,7 @@ namespace RIG_24w09a_Updater
     {
         System.Windows.Forms.FolderBrowserDialog fbdDatapack = new System.Windows.Forms.FolderBrowserDialog();
         BackgroundWorker bgwUpdater = new BackgroundWorker();
+        wndAbout wndAbout;
         string datapack = "";
 
         //-- Constructor --//
@@ -272,6 +273,12 @@ namespace RIG_24w09a_Updater
             {
                 tbOutput.AppendText($"[{DateTime.Now}] {message}\n");
             });
+        }
+
+        private void btnAbout_Click(object sender, RoutedEventArgs e)
+        {
+            wndAbout = new wndAbout();
+            wndAbout.ShowDialog();
         }
     }
 }

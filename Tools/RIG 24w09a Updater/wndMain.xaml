@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RIG_24w09a_Updater"
         mc:Ignorable="d"
-        Title="Random Item Giver Updater for Snapshot 24w09a Build 26.03.2024" Height="784" Width="836" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
+        Title="Random Item Giver Updater for Snapshot 24w09a Version 1.0.0" Height="784" Width="836" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
     <Grid>
         <TextBlock x:Name="tblHeader" HorizontalAlignment="Left" Margin="20,14,0,0" TextWrapping="Wrap" Text="Random Item Giver Updater for Snapshot 24w09a." VerticalAlignment="Top" FontSize="24" FontWeight="SemiBold"/>
         <TextBlock x:Name="tblDesc" HorizontalAlignment="Left" Margin="20,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"><Run Text="Mojang de"/><Run Text="c"/><Run Text="iced to break all NBT tags in loot tables in Snapshot 24w09a, so here's a "/><Run Language="de-de" Text="software"/><Run Text=" to fix it."/></TextBlock>
         <TextBlock x:Name="lblSelectDatapack" HorizontalAlignment="Left" Margin="20,91,0,0" TextWrapping="Wrap" Text="Select Random Item Giver datapack..." VerticalAlignment="Top" FontSize="16"/>
-        <Button x:Name="btnAbout" Content="?" HorizontalAlignment="Left" Margin="760,18,0,0" VerticalAlignment="Top" Height="43" Width="41" FontSize="24"/>
+        <Button x:Name="btnAbout" Content="?" HorizontalAlignment="Left" Margin="760,18,0,0" VerticalAlignment="Top" Height="43" Width="41" FontSize="24" Click="btnAbout_Click"/>
         <TextBox x:Name="tbDatapack" HorizontalAlignment="Left" Margin="20,117,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="635" FontSize="16"/>
         <Button x:Name="btnBrowseDatapack" Content="Browse..." HorizontalAlignment="Left" Margin="660,117,0,0" VerticalAlignment="Top" Height="23" Width="141" FontSize="15" Click="btnBrowseDatapack_Click"/>
         <Button x:Name="btnUpdateDatapack" Content="Update datapack" HorizontalAlignment="Left" Margin="302,168,0,0" VerticalAlignment="Top" Width="216" Click="btnUpdateDatapack_Click" FontSize="16" Height="31"/>
