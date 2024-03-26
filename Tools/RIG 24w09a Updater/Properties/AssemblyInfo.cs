@@ -8,11 +8,11 @@ using System.Windows;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("RIG 24w09a Updater")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Random Item Giver Updater for Snapshot 24w09a")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("RIG 24w09a Updater")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("Copyright © 2024 Seeloewen/Louis")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
