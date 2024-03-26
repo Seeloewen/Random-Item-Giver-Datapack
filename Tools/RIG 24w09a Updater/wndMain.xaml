@@ -5,17 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RIG_24w09a_Updater"
         mc:Ignorable="d"
-        Title="Random Item Giver Updater for Snapshot 24w09a Version 1.0.0" Height="784" Width="836" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
+        Title="Random Item Giver Updater for Snapshot 24w09a Version 1.0.0" Height="784" Width="859" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
     <Grid>
         <TextBlock x:Name="tblHeader" HorizontalAlignment="Left" Margin="20,14,0,0" TextWrapping="Wrap" Text="Random Item Giver Updater for Snapshot 24w09a." VerticalAlignment="Top" FontSize="24" FontWeight="SemiBold"/>
-        <TextBlock x:Name="tblDesc" HorizontalAlignment="Left" Margin="20,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"><Run Text="Mojang de"/><Run Text="c"/><Run Text="iced to break all NBT tags in loot tables in Snapshot 24w09a, so here's a "/><Run Language="de-de" Text="software"/><Run Text=" to fix it."/></TextBlock>
+        <TextBlock x:Name="tblDesc" HorizontalAlignment="Left" Margin="20,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"><Run Text="Snapshot 24w09a"/><Run Text=" broke "/><Run Text="most"/><Run Text=" loot tables "/><Run Language="de-de" Text="by "/><Run Text="replacing "/><Run Text="NBT"/><Run Text=" with components"/><Run Text=", so here's a "/><Run Text="software"/><Run Text=" to fix it."/></TextBlock>
         <TextBlock x:Name="lblSelectDatapack" HorizontalAlignment="Left" Margin="20,91,0,0" TextWrapping="Wrap" Text="Select Random Item Giver datapack..." VerticalAlignment="Top" FontSize="16"/>
-        <Button x:Name="btnAbout" Content="?" HorizontalAlignment="Left" Margin="760,18,0,0" VerticalAlignment="Top" Height="43" Width="41" FontSize="24" Click="btnAbout_Click"/>
-        <TextBox x:Name="tbDatapack" HorizontalAlignment="Left" Margin="20,117,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="635" FontSize="16"/>
-        <Button x:Name="btnBrowseDatapack" Content="Browse..." HorizontalAlignment="Left" Margin="660,117,0,0" VerticalAlignment="Top" Height="23" Width="141" FontSize="15" Click="btnBrowseDatapack_Click"/>
+        <Button x:Name="btnAbout" Content="?" HorizontalAlignment="Left" Margin="781,20,0,0" VerticalAlignment="Top" Height="43" Width="41" FontSize="24" Click="btnAbout_Click"/>
+        <TextBox x:Name="tbDatapack" HorizontalAlignment="Left" Margin="20,117,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="635" FontSize="16" MaxLines="1"/>
+        <Button x:Name="btnBrowseDatapack" Content="Browse..." HorizontalAlignment="Left" Margin="660,117,0,0" VerticalAlignment="Top" Height="23" Width="162" FontSize="15" Click="btnBrowseDatapack_Click"/>
         <Button x:Name="btnUpdateDatapack" Content="Update datapack" HorizontalAlignment="Left" Margin="302,168,0,0" VerticalAlignment="Top" Width="216" Click="btnUpdateDatapack_Click" FontSize="16" Height="31"/>
         <TextBlock x:Name="tblOutput" HorizontalAlignment="Left" Margin="20,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18"><Run Text="Output"/><Run Language="de-de" Text=":"/></TextBlock>
-        <TextBox x:Name="tbOutput" HorizontalAlignment="Left" Margin="20,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="781" Height="479" IsReadOnly="True" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
+        <TextBox x:Name="tbOutput" HorizontalAlignment="Left" Margin="20,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="802" Height="479" IsReadOnly="True" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
         <ProgressBar x:Name="pbUpdater" HorizontalAlignment="Left" Height="26" Margin="20,170,0,0" VerticalAlignment="Top" Width="781" Visibility="Hidden"/>
 
     </Grid>
