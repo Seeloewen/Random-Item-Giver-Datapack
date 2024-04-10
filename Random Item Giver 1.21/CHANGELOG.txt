@@ -6,11 +6,15 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+Version 1.5.0-Beta10 for Minecraft 24w14a (10.04.2024)
+* Replaced all NBT tags with Item Stack Components
+* Updated to 24w14a (Pack format 38)
+
 Version 1.5.0-Beta9 for Minecraft 24w07a (22.02.2024)
-+ Add item from 24w07a
-* Update to 24w07a (Pack format 32)
-* Change mentions of "Plop Sound" to "Sound Effect"
-* Fix wrong variable names
++ Added item from 24w07a
+* Updated to 24w07a (Pack format 32)
+* Changed mentions of "Plop Sound" to "Sound Effect"
+* Fixed wrong variable names
 
 Version 1.5.0-Beta8 for Minecraft 24w06a (10.02.2024)
 + Added items from 24w05a and 24w06a

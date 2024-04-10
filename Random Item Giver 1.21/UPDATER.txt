@@ -3,5 +3,5 @@
 # This file does not have any effect on the Random Item Giver datapack itself and can safely be removed if you're not looking to use the updater.
 datapack_version=1.5.0-Beta10
 version_branch=beta
-mc_version=24w13a
+mc_version=24w14a
 uses_legacy_nbt=false
