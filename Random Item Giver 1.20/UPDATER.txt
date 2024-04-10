@@ -4,3 +4,4 @@
 datapack_version=1.4.4
 version_branch=release
 mc_version=1.20.4
+uses_legacy_nbt=false
