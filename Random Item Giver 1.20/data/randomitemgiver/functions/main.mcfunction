@@ -10,7 +10,7 @@ execute unless score RandomItemGiver rig_RandomTimeValue matches ..0 if score Ra
 execute if score RandomItemGiver rig_GiveItems matches 2 store result bossbar minecraft:rigtimer value run scoreboard players get RandomItemGiver rig_ItemTimer
 
 #Add dummy boolean (0 = false, 1 = true)
-scoreboard objectives add GiveItemNow dummy
+scoreboard objectives add rig_GiveItemNow dummy
 scoreboard players set RandomItemGiver rig_GiveItemNow 0
 
 #Check for time if set to random
