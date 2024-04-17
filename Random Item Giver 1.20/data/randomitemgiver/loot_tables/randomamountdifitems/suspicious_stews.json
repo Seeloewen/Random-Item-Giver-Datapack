@@ -12,7 +12,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:15,EffectDuration:160}]}"
+                            "tag": "{effects:[{id:\"minecraft:blindness\",duration:160}]}"
                         }
                     ]
                 },
@@ -22,7 +22,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:12,EffectDuration:80}]}"
+                            "tag": "{effects:[{id:\"minecraft:fire_resistance\",duration:80}]}"
                         }
                     ]
                 },
@@ -32,7 +32,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:8,EffectDuration:120}]}"
+                            "tag": "{effects:[{id:\"minecraft:jump_boost\",duration:120}]}"
                         }
                     ]
                 },
@@ -42,7 +42,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:16,EffectDuration:100}]}"
+                            "tag": "{effects:[{id:\"minecraft:night_vision\",duration:100}]}"
                         }
                     ]
                 },
@@ -52,7 +52,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:10,EffectDuration:160}]}"
+                            "tag": "{effects:[{id:\"minecraft:regeneration\",duration:160}]}"
                         }
                     ]
                 },
@@ -62,7 +62,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:19,EffectDuration:240}]}"
+                            "tag": "{effects:[{id:\"minecraft:poison\",duration:240}]}"
                         }
                     ]
                 },
@@ -72,7 +72,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:23,EffectDuration:7}]}"
+                            "tag": "{effects:[{id:\"minecraft:saturation\",duration:7}]}"
                         }
                     ]
                 },
@@ -82,7 +82,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:18,EffectDuration:180}]}"
+                            "tag": "{effects:[{id:\"minecraft:weakness\",duration:180}]}"
                         }
                     ]
                 },
@@ -92,7 +92,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{Effects:[{EffectId:20,EffectDuration:160}]}"
+                            "tag": "{effects:[{id:\"minecraft:wither\",duration:160}]}"
                         }
                     ]
                 }
