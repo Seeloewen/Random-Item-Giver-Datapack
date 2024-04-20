@@ -6,6 +6,8 @@
 ║ ╚═════╗ ║ ║  ║ ║ ║ ║  ║ ║ ║ ║  ╚╗╚╝ ║ ║ ╚═══╝ ║ ║ ╚═════╗ ║ ╚═════╗ ║ ╚══╝ ║ ║ ╚═══╝ ║
 ╚═══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝ ╚═══════╝ ╚═══════╝ ╚═══════╝ ╚══════╝ ╚═══════╝
 
+======= 1.21.x =======
+
 Version 1.5.0-Beta10 for Minecraft 24w14a (10.04.2024)
 * Replaced all NBT tags with Item Stack Components
 * Updated to 24w14a (Pack format 38)

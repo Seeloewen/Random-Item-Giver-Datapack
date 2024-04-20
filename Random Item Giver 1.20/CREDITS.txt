@@ -6,23 +6,28 @@
 ║ ╚═════╗ ║ ║╚╗╚╗ ║ ╚═════╗ ║ ╚══╝ ╔╝ ║ ║    ║ ║    ╔═════╝ ║
 ╚═══════╝ ╚═╝ ╚═╝ ╚═══════╝ ╚══════╝  ╚═╝    ╚═╝    ╚═══════╝
 
-[Important Note] 
-The original creator of this Datapack is PhoenixSC. He made the datpack for Minecraft Version 1.14.4. Because Mojang keeps adding new blocks and this
-is a really cool datapack, I (Louis9) decided to keep updating it. If PhoenixSC has a problem with me reuploading his datapack in newer Versions,
-I'm gonna take it down as soon as I can, but I hope this Version is allowed, because I have made many people happy with it. But again, if there
-are any Problems, I will take it down. You can find his original Video with the datapack here: https://www.youtube.com/watch?v=L4kFPn0BBYY&ab_channel=PhoenixSC
-My (Louis9's) profile can be found here: https://www.planetminecraft.com/member/louis9/
+[Important Note]
+This datapack was created by Louis9 (aka Seeloewen) with the contributions made by many kind people who are listed down below.
+My Planet Minecraft profile: https://www.planetminecraft.com/member/louis9/
+My GitHub Profile: https://github.com/Seeloewen
+
+[Original Creator] 
+The original creator of this Datapack is Phoenix SC. Back in 2019, he made the datpack for Version 1.14.4. Because of newer items added by recent version as 
+well as compatibility issues, and also because I really enjoy this datapack, I (Louis9) decided to keep updating it. I asked Phoenix SC for permission and he 
+allowed me to continue development. If PhoenixSC has a problem with me developing and publishing his datapack for newer versions, let me know and I'm gonna 
+take it down as soon as I can. You can find his original video for the datapack here: https://www.youtube.com/watch?v=L4kFPn0BBYY&ab_channel=PhoenixSC
+
+[Contributions] 
+- Version 1.0.5 of this Datapack was made by Justysuwu, who also helped on Version 1.0.15 and 1.1.4. You can find Justysuwu here: https://www.planetminecraft.com/member/justysuwu/
+- The Bug which was fixed in 1.0.7 was found by MrRedeminator. You can find MrRedeminator here: https://www.planetminecraft.com/member/mrredeminator/
+- The Fact, that there weren't any 1.15 blocks and items which was fixed in 1.0.8 was discovered by WiseSunshine. You can find WiseSunshine here: https://www.planetminecraft.com/member/wisesunshine/
+- The suspicious soups with the effects were added by QueenieLawrens. You can find QueenieLawrens here: https://www.planetminecraft.com/member/queenielawrens/
+- The typo that caused strength potions to not work was reported by User3947613G on Planet Minecraft: https://www.planetminecraft.com/member/User3947613G/
+- Several missing items were reported by Sebast. You can find Sebast here: https://www.youtube.com/channel/UCkO3Pjl3deL9RxJ263V1R3Q
+- Some creative-only items that were in the wrong loot tables have been reported by BioTechproject27. This issue was fixed in 1.0.17 and 1.2.3.
+- Some spawn eggs that were in the wrong loot tables have been reported by Monarchia. You can find Monarchia here: https://www.planetminecraft.com/member/monarchia/
 
 [Tools Used]
 - Some of the JSON text components have been generated using Minecraft.Tools: https://minecraft.tools/de/json_text.php
 - Some of the Loot Tables have been edited using Misode.Github.io: https://misode.github.io/loot-table/
 - Some older versions of this project use the Random Number Generator by CloudWolf: https://www.youtube.com/c/CloudWolfMinecraft
-
-[Contributions] 
-- Version 1.0.5 of this Datapack was made by Justysuwu, who also helped on Version 1.0.15 and 1.1.4. You can find her here: https://www.planetminecraft.com/member/justysuwu/
-- The Bug which was fixed in 1.0.7 was found by MrRedeminator. You can find him here: https://www.planetminecraft.com/member/mrredeminator/
-- The Fact, that there weren't any 1.15 blocks and items which was fixed in 1.0.8 was discovered by WiseSunshine. You can find him here: https://www.planetminecraft.com/member/wisesunshine/
-- The suspicious soups with the effects were added by QueenieLawrens. You can find him here: https://www.planetminecraft.com/member/queenielawrens/
-- The typo that caused strength potions to not work was reported by User3947613G on Planet Minecraft: https://www.planetminecraft.com/member/User3947613G/
-- Several missing items were reported by Sebast. You can find him here: https://www.youtube.com/channel/UCkO3Pjl3deL9RxJ263V1R3Q
-- Some creative-only items that were in the wrong loot tables have been reported by BioTechproject27. This issue was fixed in 1.0.17 and 1.2.3.
