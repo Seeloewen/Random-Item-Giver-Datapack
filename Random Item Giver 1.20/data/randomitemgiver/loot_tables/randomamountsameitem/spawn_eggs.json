@@ -1311,6 +1311,23 @@
               }
             }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:armadillo_spawn_egg",
+                    "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "RandomItemGiver"
+                },
+                "score": "rig_RandomAmountSameItemsNumber"
+              }
+            }
+                    ]
                 }
             ]
         }

@@ -4509,6 +4509,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_relic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armadillo_scute"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wolf_armor"
         }
       ]
     }

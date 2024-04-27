@@ -849,6 +849,17 @@
                             "count": 3
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:armadillo_spawn_egg",
+                    "functions": [
+
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 3
+                        }
+                    ]
                 }
             ]
         }
