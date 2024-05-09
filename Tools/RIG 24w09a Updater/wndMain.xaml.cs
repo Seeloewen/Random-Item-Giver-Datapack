@@ -23,6 +23,9 @@ namespace RIG_24w09a_Updater
         BackgroundWorker bgwUpdater = new BackgroundWorker();
         wndAbout wndAbout;
         string datapack = "";
+        string datapackVersion = "unknown";
+        string mcVersion = "unknown";
+        string versionBranch = "unknown";
 
         //-- Constructor --//
 
@@ -189,10 +192,24 @@ namespace RIG_24w09a_Updater
                     string splashpotion = item.Replace("\"tag\": \"{Potion:\\\"minecraft:", "").Replace("\\\"}\"", "").Replace(" ", "");
                     return "\"minecraft:potion_contents\": {\n                            \"potion\": \"minecraft:" + splashpotion + "\"\n                          }";
                 case "suspicious_stews.json":
-                    string[] susnbt = item.Replace("\"tag\": \"{Effects:[{EffectId:", "").Replace("EffectDuration:", "").Replace("}]}\"", "").Replace(" ", "").Split(',');
-                    string effect = susnbt[0];
-                    string duration = susnbt[1];
-                    return "\"minecraft:suspicious_stew_effects\": [\n                            {\n                              \"id\": \"minecraft:" + ConvertEffect(effect) + "\",\n                              \"duration\": " + duration + "\n                            }\n                          ]";
+                    string effect;
+                    string duration;
+
+                    if (datapackVersion == "1.4.5")
+                    {
+                        string[] susnbt = item.Replace("\"tag\": \"{effects:[{id:\\\"minecraft:", "").Replace("duration:", "").Replace("}]}\"", "").Replace(" ", "").Replace("\\\"", "").Split(',');
+                        effect = susnbt[0];
+                        duration = susnbt[1];
+                        return "\"minecraft:suspicious_stew_effects\": [\n                            {\n                              \"id\": \"minecraft:" + effect + "\",\n                              \"duration\": " + duration + "\n                            }\n                          ]";
+                    }
+                    else
+                    {
+                        string[] susnbt = item.Replace("\"tag\": \"{Effects:[{EffectId:", "").Replace("EffectDuration:", "").Replace("}]}\"", "").Replace(" ", "").Split(',');
+                        effect = susnbt[0];
+                        duration = susnbt[1];
+                        return "\"minecraft:suspicious_stew_effects\": [\n                            {\n                              \"id\": \"minecraft:" + ConvertEffect(effect) + "\",\n                              \"duration\": " + duration + "\n                            }\n                          ]";
+                    }
+
                 case "tipped_arrows.json":
                     string tippedarrow = item.Replace("\"tag\": \"{Potion:\\\"minecraft:", "").Replace("\\\"}\"", "").Replace(" ", "");
                     return "\"minecraft:potion_contents\": {\n                            \"potion\": \"minecraft:" + tippedarrow + "\"\n                          }";
@@ -234,10 +251,6 @@ namespace RIG_24w09a_Updater
         private bool CheckDatapackVersion()
         {
             //Checks the datapack version to make sure the software is compatible with it
-            string datapackVersion = "unknown";
-            string mcVersion = "unknown";
-            string versionBranch = "unknown";
-
             if (File.Exists($"{tbDatapack.Text}\\Updater.txt"))
             {
                 //Go through the file to get the variables
