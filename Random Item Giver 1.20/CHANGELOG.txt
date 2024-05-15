@@ -8,6 +8,11 @@
 
 ======= 1.20.x =======
 
+Version 1.4.6 for Minecraft 1.20.6 (15.05.2024)
++ Added new items from 1.20.5
+* Replaced NBT tags with Item Stack Components
+* Updated to 1.20.6 (Pack format 41)
+
 Version 1.4.5 for Minecraft 1.20.4 (22.04.2024)
 * Updated outdated information
 * Renamed all scoreboard objectives to make them more unique
@@ -44,7 +49,7 @@ Version 1.4.1 for Minecraft 1.20.1 (16.07.2023)
 - Removed beta label
 
 Version 1.4.0 for Minecraft 1.20 (07.06.2023)
-+ Added all new items from MC 1.20
++ Added all new items from 1.20
 * Updated pack version to 15
 * Fixed some typos
 

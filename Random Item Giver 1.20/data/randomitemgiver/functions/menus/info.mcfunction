@@ -5,8 +5,8 @@ tellraw @s "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 tellraw @s {"text":"«\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550»","bold":true,"color":"#CE9178"}
 tellraw @s ["",{"text":"Random Item Giver","bold":true,"color":"gold"},{"text":" - ","bold":true,"color":"gray"},{"text":"About","bold":true,"color":"yellow"}]
 tellraw @s {"text":" "}
-tellraw @s {"text":"Version 1.4.5","color":"#4CEFEF"}
-tellraw @s {"text":"For Minecraft 1.20.4","color":"#4CEFEF"}
+tellraw @s {"text":"Version 1.4.6","color":"#4CEFEF"}
+tellraw @s {"text":"For Minecraft 1.20.6","color":"#4CEFEF"}
 tellraw @s {"text":" "}
 tellraw @s {"text":"Made by Louis9","color":"dark_aqua"}
 tellraw @s {"text":"Original version by Phoenix SC","color":"dark_aqua"}
