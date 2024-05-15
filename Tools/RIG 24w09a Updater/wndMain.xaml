@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RIG_24w09a_Updater"
         mc:Ignorable="d"
-        Title="Random Item Giver Updater for Snapshot 24w09a Version 1.0.0" Height="784" Width="859" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
+        Title="Random Item Giver Updater for Snapshot 24w09a Version 1.0.1" Height="784" Width="859" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/Skinbild.png">
     <Grid>
         <TextBlock x:Name="tblHeader" HorizontalAlignment="Left" Margin="20,14,0,0" TextWrapping="Wrap" Text="Random Item Giver Updater for Snapshot 24w09a." VerticalAlignment="Top" FontSize="24" FontWeight="SemiBold"/>
         <TextBlock x:Name="tblDesc" HorizontalAlignment="Left" Margin="20,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"><Run Text="Snapshot 24w09a"/><Run Text=" broke "/><Run Text="most"/><Run Text=" loot tables "/><Run Language="de-de" Text="by "/><Run Text="replacing "/><Run Text="NBT"/><Run Text=" with components"/><Run Text=", so here's a "/><Run Text="software"/><Run Text=" to fix it."/></TextBlock>
