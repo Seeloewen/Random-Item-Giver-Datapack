@@ -8,50 +8,27 @@
 
 ======= 1.21.x =======
 
-Version 1.5.0-Beta10 for Minecraft 24w14a (10.04.2024)
-* Replaced all NBT tags with Item Stack Components
-* Updated to 24w14a (Pack format 38)
-
-Version 1.5.0-Beta9 for Minecraft 24w07a (22.02.2024)
-+ Added item from 24w07a
-* Updated to 24w07a (Pack format 32)
-* Changed mentions of "Plop Sound" to "Sound Effect"
-* Fixed wrong variable names
-
-Version 1.5.0-Beta8 for Minecraft 24w06a (10.02.2024)
-+ Added items from 24w05a and 24w06a
-* Updated to 24w06a (Pack format 31)
-
-Version 1.5.0-Beta7 for Minecraft 24w04a (26.01.2024)
-* Updated to 24w04a (Pack format 29)
-
-Version 1.5.0-Beta6 for Minecraft 24w03b (22.01.2024)
-* Updated to 24w03b (Pack format 28)
-* Removed filled map item as it is corrupted
-
-Version 1.5.0-Beta5 for Minecraft 23w51b (26.12.2023)
-+ Added items from Snapshot 23w51a
-* Updated to 23w51b (Pack format 27)
-* Fixed bossbar text not being coloured
-* Fixed Item Counter not working correctly when using 'Random Amount Same Item'
-* Fixed timer being able to go negative
-* Improved some chat messages
-
-Version 1.5.0-Beta4 for Minecraft 1.20.4-rc1 (06.12.2023)
-* Updated to 1.20.4-rc1 (Pack format 26)
-
-Version 1.5.0-Beta3 for Minecraft 23w46a (17.11.2023)
-+ Added all items from 23w45a
-* Updated to 23w46a (Pack format 25)
-
-Version 1.5.0-Beta2 for Minecraft 23w44a (02.11.2023)
-* Updated to 23w44a (Pack format 23)
-
-Version 1.5.0-Beta1 for Minecraft 23w43b (29.10.2023)
-+ Added all items from 23w42a and 23w43a
-* Updated to 23w43b (Pack format 22)
+Version 1.5.0 for Minecraft 1.21 (22.06.2024)
++ Added all new items from 1.21
+* Updated to 1.21 (Pack Format 48)
+* Increased chances for special items like potions, enchanted books, etc.
+* Fixed 'Random Amount of Same Item' setting not working
+* Removed filled map item as it was corrupted
 
 ======= 1.20.x =======
+
+Version 1.4.6 for Minecraft 1.20.6 (15.05.2024)
++ Added new items from 1.20.5
+* Replaced NBT tags with Item Stack Components
+* Updated to 1.20.6 (Pack format 41)
+
+Version 1.4.5 for Minecraft 1.20.4 (22.04.2024)
+* Updated outdated information
+* Renamed all scoreboard objectives to make them more unique
+* Renamed cases of "Plop Sound" to "Sound Effect"
+* Fixed several spawn eggs appearing in normal loot tables
+* Fixed 'Items Received' count not working correctly in multiplayer
+* Fixed suspicious stews not having any effects
 
 Version 1.4.4 for Minecraft 1.20.4 (26.12.2023)
 * Fixed bossbar text not being coloured
