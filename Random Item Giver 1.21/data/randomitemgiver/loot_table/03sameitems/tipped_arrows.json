@@ -687,8 +687,80 @@
                             "count": 3
                         }
                     ]
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:weaving"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:oozing"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:wind_charged"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:infested"
+                          }
+                           }
+                        }
+                    ]
         }
-    ]
+      ]
+    }
+  ]
 }

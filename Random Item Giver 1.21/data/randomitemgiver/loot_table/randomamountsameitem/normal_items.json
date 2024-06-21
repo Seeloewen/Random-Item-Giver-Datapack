@@ -20292,6 +20292,261 @@
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heavy_core",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_banner_pattern",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:guster_banner_pattern",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:breeze_rod",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mace",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_precipice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator_music_box",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ominous_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ominous_trial_key",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_pottery_sherd",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:guster_pottery_sherd",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:scrape_pottery_sherd",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bolt_armor_trim_smithing_template",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_armor_trim_smithing_template",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
         }
       ]
     }

@@ -953,8 +953,108 @@
                             }
                         }
                     ]
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:infested"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:weaving"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:oozing"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:wind_charged"
+                          }
+                           }
+                        }
+                    ]
         }
-    ]
+      ]
+    }
+  ]
 }

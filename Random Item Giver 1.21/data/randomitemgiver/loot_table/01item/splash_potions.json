@@ -535,8 +535,64 @@
                         }
                         }
                     ]
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:infested"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:oozing"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:wind_charged"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:potion_contents": {
+                            "potion": "minecraft:weaving"
+                          }
+                           }
+                        }
+                    ]
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -477,8 +477,388 @@
                         }
                         }
                     ]
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:meditative"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:prairie_ride"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:baroque"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:humble"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:unpacked"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:bouquet"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:cavebird"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:cotan"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:endboss"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:fern"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:owlemons"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:sunflowers"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:tides"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:backyard"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:pond"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:changing"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:finding"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:lowmist"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:passage"
+                          }
+                           }
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+"minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:orb"
+                          }
+                           }
+                        }
+                    ]
         }
-    ]
+      ]
+    }
+  ]
 }

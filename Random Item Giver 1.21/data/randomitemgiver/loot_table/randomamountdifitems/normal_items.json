@@ -4746,6 +4746,66 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:wind_charge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heavy_core"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:guster_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:breeze_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_precipice"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator_music_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ominous_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ominous_trial_key"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:guster_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:scrape_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bolt_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flow_armor_trim_smithing_template"
         }
       ]
     }
