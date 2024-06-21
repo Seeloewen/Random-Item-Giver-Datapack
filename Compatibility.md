@@ -11,5 +11,6 @@ Snapshots of older versions are not listed, but there's generally only one versi
 | 1.19.3           | 1.3.3              |
 | 1.19.4           | 1.3.4              |
 | 1.20 - 1.20.1    | 1.4.1              |
-| 1.20.2 - 1.20.4  | 1.4.4              |
-| 24w07a           | 1.5.0-Beta9        |
+| 1.20.2 - 1.20.4  | 1.4.5              |
+| 1.20.5 - 1.20.6  | 1.4.6              |
+| 1.21             | 1.5.0              |
