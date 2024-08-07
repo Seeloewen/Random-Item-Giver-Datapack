@@ -25,7 +25,7 @@ execute if score RandomItemGiver rig_RandomTime matches 1 if score RandomItemGiv
 execute if score RandomItemGiver rig_RandomTime matches 1 if score RandomItemGiver rig_ItemTimer >= RandomItemGiver rig_Time run scoreboard players set RandomItemGiver rig_ItemTimer 0
 
 #Generate random number
-execute if score RandomItemGiver rig_GiveItemNow matches 1 if score RandomItemGiver rig_GiveItems matches 2 store result score RandomItemGiver rig_MainNumber run random value 1..1000
+execute if score RandomItemGiver rig_GiveItemNow matches 1 if score RandomItemGiver rig_GiveItems matches 2 store result score RandomItemGiver rig_MainNumber run random value 1..1100
 
 #Regenerate the random number if it hits a disabled loot table (The regenerated number is specified in a way that it never hits another disabled item)
 execute if score RandomItemGiver rig_GiveItemNow matches 1 if score RandomItemGiver rig_GiveItems matches 2 if score RandomItemGiver rig_MainNumber matches 1 if score RandomItemGiver rig_EnchantedBooks matches 1 store result score RandomItemGiver rig_MainNumber run random value 12..1000
