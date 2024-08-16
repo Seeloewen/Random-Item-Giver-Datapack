@@ -12033,6 +12033,26 @@
               "count": 64
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:field_masoned_banner_pattern",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bordure_indented_banner_pattern",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
         }
       ]
     }

@@ -4803,6 +4803,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:flow_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:field_masoned_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bordure_indented_banner_pattern"
         }
       ]
     }
