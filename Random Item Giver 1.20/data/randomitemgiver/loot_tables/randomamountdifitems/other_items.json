@@ -30,8 +30,12 @@
                     "type": "item",
                     "name": "minecraft:structure_void"
 
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:end_portal_frame"
         }
-    ]
+      ]
+    }
+  ]
 }

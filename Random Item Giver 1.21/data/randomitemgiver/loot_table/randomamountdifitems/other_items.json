@@ -35,8 +35,12 @@
                     "type": "item",
                     "name": "minecraft:trial_spawner"
 
-                }
-            ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:end_portal_frame"
         }
-    ]
+      ]
+    }
+  ]
 }
