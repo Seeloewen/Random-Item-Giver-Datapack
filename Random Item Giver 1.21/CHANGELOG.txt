@@ -8,6 +8,11 @@
 
 ======= 1.21.x =======
 
+Version 1.5.1 for Minecraft 1.21.3 (25.10.2024)
++ Added all new items from 1.21.2
+* Updated to 1.21.3 (Pack format 57)
+* Fixed missing end portal frame item
+
 Version 1.5.0 for Minecraft 1.21 (22.06.2024)
 + Added all new items from 1.21
 * Updated to 1.21 (Pack Format 48)

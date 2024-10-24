@@ -1,7 +1,7 @@
 # This file is used by Random Item Giver Updater software to identify the datapack.
 # It is recommended to not change any values inside of here to avoid problems when using the updater.
 # This file does not have any effect on the Random Item Giver datapack itself and can safely be removed if you're not looking to use the updater.
-datapack_version=1.5.0
+datapack_version=1.5.1
 version_branch=release
-mc_version=1.21
+mc_version=1.21.1
 uses_legacy_nbt=false
