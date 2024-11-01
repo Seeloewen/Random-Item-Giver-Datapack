@@ -4878,6 +4878,110 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:pink_bundle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_pale_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_pale_oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:resin_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:resin_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:resin_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:resin_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_resin_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:creaking_heart"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:closed_eyeblossom"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:open_eyeblossom"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_moss_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_moss_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:resin_clump"
         }
       ]
     }
