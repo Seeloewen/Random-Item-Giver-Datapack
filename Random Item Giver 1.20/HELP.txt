@@ -27,7 +27,7 @@ Q: What items am I able to get?
 A: Every single one in the game as of the version of the datapack you are currently running.
 
 Q: Does this work with the newest version of minecraft?
-A: Yes, it does! It is confirmed to work with up to 1.20.4 and possibly higher. I always try to keep it up to date.
+A: Yes, it does! It is confirmed to work with up to 1.20.6 and possibly higher. I always try to keep it up to date.
 
 Q: How do I change the timer?
 A: You can change the timer in the settings which you can access through the menu or with /function randomitemgiver:menus/settings
