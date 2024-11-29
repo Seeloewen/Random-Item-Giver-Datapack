@@ -32,6 +32,7 @@ scoreboard objectives remove rig_RandomTimeValue
 scoreboard objectives remove rig_CanGetItems
 scoreboard objectives remove rig_TimerBossbar
 scoreboard objectives remove rig_ItemSound
+bossbar remove rigtimer
 
 #Post that datapack was disabled
 tellraw @a ["",{"text":"\nRandom Item Giver was successfully disabled.","color":"green"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-7-mc-1-20-6.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"\u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-7-mc-1-20-6.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-7-mc-1-20-6.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":" ","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-7-mc-1-20-6.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}},{"text":"Click here to enable it again.","color":"gold","clickEvent":{"action":"run_command","value":"/datapack enable \"file/random-item-giver-1-4-7-mc-1-20-6.zip\""},"hoverEvent":{"action":"show_text","contents":"Enable the datapack again"}}]
