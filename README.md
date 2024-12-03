@@ -27,7 +27,7 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **A**: Installing the datapack on a server is actually quite simple. Open up the server directory > 'world' > 'datapacks' and paste the datapack zip file in there.
 
 **Q**: What items are you able to get?\
-**A**: Every single one in the game as of 1.21.
+**A**: Every single one in the game as of 1.21.4.
 
 **Q**: How can I change the item timer?\
 **A**: You can change the rate at which items are given to you in the settings menu of the datapack (**/function randomitemgiver:menus/settings**)
