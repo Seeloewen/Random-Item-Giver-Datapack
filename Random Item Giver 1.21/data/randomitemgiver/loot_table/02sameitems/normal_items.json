@@ -12473,6 +12473,26 @@
               "count": 2
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leaf_litter",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wildflowers",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }

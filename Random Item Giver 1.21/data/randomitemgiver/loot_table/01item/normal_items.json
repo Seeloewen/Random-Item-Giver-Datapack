@@ -4979,6 +4979,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:resin_clump"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leaf_litter"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wildflowers"
         }
       ]
     }
