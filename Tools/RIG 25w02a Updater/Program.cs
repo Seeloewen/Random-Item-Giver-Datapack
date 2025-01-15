@@ -65,12 +65,25 @@ static string ConvertMessage(string message)
     //Regex patterns and replacements
     string colorPattern = @"""color"":""(.*?)""";
     string textPattern = @"""text"":""(.*?)""";
+    string rawStringPattern = @"tellraw @(.*?) ""(.*?)""";
+
     string colorReplacement = @"color: '$1'";
     string textReplacement = @"text: '$1'";
+    string rawStringReplacement = @"tellraw @$1 {text: '$2'}";
+
+    //If message contains the no longer supported new line escape, replace all escapes with empty space strings
+    if (message.Contains("\\n"))
+    {
+        return ConvertNewLines(message);
+    }
+
+    //Convert all ' before replacing anything else
+    message = message.Replace("\'", "`");
 
     //Conversion to new snbt format
     message = Regex.Replace(message, colorPattern, colorReplacement);
     message = Regex.Replace(message, textPattern, textReplacement);
+    message = Regex.Replace(message, rawStringPattern, rawStringReplacement);
 
     //Reflect hover event and click event changes
     message = message.Replace("\"action\":\"show_text\",\"contents\":", "action: 'show_text', value: ")
@@ -78,6 +91,7 @@ static string ConvertMessage(string message)
         .Replace("\"hoverEvent\"", "hover_event")
         .Replace("\"clickEvent\"", "click_event")
         .Replace("\"open_url\",\"value\":", "'open_url', url: ")
+        .Replace("\"suggest_command\",\"value\":", "'suggest_command', command: ")
         .Replace("\"run_command\",\"value\":", "'run_command', command: ");
 
     //Also account for the need to convert unicode codes
@@ -97,7 +111,10 @@ static void CheckFolder(string folder)
     //Convert all files in the folder
     foreach (string file in Directory.GetFiles(folder))
     {
-        ConvertFile(file);
+        if (Path.GetExtension(file) == ".mcfunction")
+        {
+            ConvertFile(file);
+        }
     }
 
     //Go recursively through all folders
@@ -105,6 +122,27 @@ static void CheckFolder(string folder)
     {
         CheckFolder(subFolder);
     }
+}
+
+static string ConvertNewLines(string message)
+{
+    int newLineAmount = 0;
+
+    for (int i = 0; i < message.Length; i++)
+    {
+        if (message[i] == '\\' && message[i + 1] == 'n')
+        {
+            newLineAmount++;
+        }
+    }
+
+    StringBuilder sb = new StringBuilder();
+    for (int i = 0; i < newLineAmount; i++)
+    {
+        sb.Append("tellraw @s {text: \"\"}\n");
+    }
+
+    return sb.ToString();
 }
 
 static string ConvertUnicode(string message)
