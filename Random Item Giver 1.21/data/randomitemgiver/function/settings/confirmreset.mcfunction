@@ -3,5 +3,6 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Show confirmation message
-tellraw @s ""
-tellraw @s ["",{"text":"(","color":"gray"},{"text":"!","color":"red"},{"text":")","color":"gray"},{"text":" Are you sure that you want to reset all settings to their default values?","color":"red"},{"text":"\n"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/resetsettings"},"hoverEvent":{"action":"show_text","contents":"Continue and reset all settings to default values"}},{"text":"Yes, continue","color":"green","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/resetsettings"},"hoverEvent":{"action":"show_text","contents":"Continue and reset all settings to default values"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/resetsettings"},"hoverEvent":{"action":"show_text","contents":"Continue and reset all settings to default values"}},{"text":" ","color":"red"},{"text":"[","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/cancelreset"},"hoverEvent":{"action":"show_text","contents":"Don't reset the settings and cancel the action"}},{"text":"No, cancel","color":"red","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/cancelreset"},"hoverEvent":{"action":"show_text","contents":"Don't reset the settings and cancel the action"}},{"text":"]","color":"gray","clickEvent":{"action":"run_command","value":"/function randomitemgiver:settings/cancelreset"},"hoverEvent":{"action":"show_text","contents":"Don't reset the settings and cancel the action"}}]
+tellraw @s {text: ''}
+tellraw @s {text: ""}
+

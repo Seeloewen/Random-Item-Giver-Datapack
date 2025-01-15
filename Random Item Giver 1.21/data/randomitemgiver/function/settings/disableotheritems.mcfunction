@@ -10,5 +10,5 @@ scoreboard players set RandomItemGiver rig_OtherItems 1
 function randomitemgiver:menus/items
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully disabled Other Creative-Only Items","color":"red"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✖',color: 'red'},{text: ') ',color: 'gray'},{text: 'Successfully disabled Other Creative-Only Items',color: 'red'}]

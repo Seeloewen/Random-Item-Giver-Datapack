@@ -10,5 +10,5 @@ scoreboard players set RandomItemGiver rig_ShowItemMessage 2
 function randomitemgiver:menus/settings
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully enabled Chat Message","color":"green"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✔',color: 'green'},{text: ')',color: 'gray'},{text: ' Successfully enabled Chat Message',color: 'green'}]

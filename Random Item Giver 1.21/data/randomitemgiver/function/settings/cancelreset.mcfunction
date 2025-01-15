@@ -6,5 +6,5 @@ schedule function randomitemgiver:reset_feedback 1t
 function randomitemgiver:menus/settings3
 
 #Show the cancel message
-tellraw @a ""
-tellraw @s ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":")","color":"gray"},{"text":" The action was cancelled and no settings have been reset.","color":"red"}]
+tellraw @a {text: ''}
+tellraw @s [{text: '(',color: 'gray'},{text: '✖',color: 'red'},{text: ')',color: 'gray'},{text: ' The action was cancelled and no settings have been reset.',color: 'red'}]

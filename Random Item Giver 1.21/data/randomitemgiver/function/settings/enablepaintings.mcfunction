@@ -10,5 +10,5 @@ scoreboard players set RandomItemGiver rig_Paintings 2
 function randomitemgiver:menus/items
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully enabled Paintings","color":"green"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✔',color: 'green'},{text: ')',color: 'gray'},{text: ' Successfully enabled Paintings',color: 'green'}]

@@ -11,5 +11,5 @@ execute as @a at @s run playsound entity.experience_orb.pickup player @p
 function randomitemgiver:menus/settings2
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully set Item Sound to 'Experience'","color":"green"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✔',color: 'green'},{text: ')',color: 'gray'},{text: ' Successfully set Item Sound to `Experience`',color: 'green'}]

@@ -10,5 +10,5 @@ scoreboard players set RandomItemGiver rig_ItemGiveAmount 4
 function randomitemgiver:menus/items
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" Successfully set item amount to 5","color":"green"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✔',color: 'green'},{text: ')',color: 'gray'},{text: ' Successfully set item amount to 5',color: 'green'}]

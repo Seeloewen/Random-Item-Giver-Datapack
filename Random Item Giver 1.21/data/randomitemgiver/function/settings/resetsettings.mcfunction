@@ -33,5 +33,5 @@ scoreboard objectives setdisplay sidebar
 function randomitemgiver:menus/settings3
 
 #Show message that settings were successfully reset
-tellraw @a ""
-tellraw @s ["",{"text":"(","color":"gray"},{"text":"\u2714","color":"green"},{"text":")","color":"gray"},{"text":" The settings were successfully reset back to their default values.","color":"green"}]
+tellraw @a {text: ''}
+tellraw @s [{text: '(',color: 'gray'},{text: '✔',color: 'green'},{text: ')',color: 'gray'},{text: ' The settings were successfully reset back to their default values.',color: 'green'}]

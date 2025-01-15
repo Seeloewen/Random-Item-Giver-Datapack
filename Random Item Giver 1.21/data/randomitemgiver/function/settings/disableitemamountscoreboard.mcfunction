@@ -11,5 +11,5 @@ scoreboard objectives setdisplay sidebar
 function randomitemgiver:menus/settings2
 
 #Post that settings changed successfully
-tellraw @a ""
-tellraw @a ["",{"text":"(","color":"gray"},{"text":"\u2716","color":"red"},{"text":") ","color":"gray"},{"text":"Successfully disabled Item Amount Scoreboard","color":"red"}]
+tellraw @a {text: ''}
+tellraw @a [{text: '(',color: 'gray'},{text: '✖',color: 'red'},{text: ') ',color: 'gray'},{text: 'Successfully disabled Item Amount Scoreboard',color: 'red'}]
