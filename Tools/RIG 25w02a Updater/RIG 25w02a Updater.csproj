@@ -6,6 +6,11 @@
     <RootNamespace>RIG_25w02a_Updater</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>Skinbild.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Skinbild.ico" />
+  </ItemGroup>
 
 </Project>
