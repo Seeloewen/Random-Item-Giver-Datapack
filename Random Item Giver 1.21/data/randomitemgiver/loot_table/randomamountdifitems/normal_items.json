@@ -4990,6 +4990,26 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:wildflowers"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:firefly_bush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:short_dry_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tall_dry_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cactus_flower"
         }
       ]
     }
