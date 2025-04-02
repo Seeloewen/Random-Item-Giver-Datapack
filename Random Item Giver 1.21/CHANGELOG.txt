@@ -8,6 +8,11 @@
 
 ======= 1.21.x =======
 
+Version 1.5.3 for Minecraft 1.21.5 (02.04.2025)
++ Added all new items from 1.21.5
+* Updated to 1.21.5 (Pack format 71)
+* Converted messages to new text component format
+
 Version 1.5.2 for Minecraft 1.21.4 (03.12.2024)
 + Added all new items from 1.21.4
 * Updated to 1.21.4 (Pack format 61)
