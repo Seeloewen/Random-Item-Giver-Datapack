@@ -892,6 +892,16 @@
               "count": 2
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:happy_ghast_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }

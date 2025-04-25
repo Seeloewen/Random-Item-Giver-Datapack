@@ -5007,6 +5007,74 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cactus_flower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dried_ghast"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_gray_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lime_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:green_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cyan_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:magenta_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_harness"
         }
       ]
     }
