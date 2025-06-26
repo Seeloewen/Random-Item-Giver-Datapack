@@ -5078,6 +5078,10 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:pink_harness"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_tears"
         }
       ]
     }

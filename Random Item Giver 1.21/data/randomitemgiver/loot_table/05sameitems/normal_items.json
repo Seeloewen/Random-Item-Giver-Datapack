@@ -12713,6 +12713,16 @@
               "count": 5
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_tears",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ]
         }
       ]
     }
