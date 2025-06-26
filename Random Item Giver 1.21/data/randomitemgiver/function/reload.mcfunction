@@ -67,7 +67,7 @@ bossbar set minecraft:rigtimer color red
 
 #Post that datapack is loaded
 tellraw @a {text: ''}
-tellraw @a {text: 'Random Item Giver 1.5.3 was successfully loaded!',color: 'green'}
+tellraw @a {text: 'Random Item Giver 1.5.4 was successfully loaded!',color: 'green'}
 tellraw @a [{text: '[',color: 'gray',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: '➤',color: 'green',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ']',color: 'gray',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ' ',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: 'Click here to open the menu',color: 'green',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}}]
 tellraw @a {text: ''}
 #tellraw @a [{text: '(',color: 'gray'},{text: '⚠',color: 'gold'},{text: ') ',color: 'gray'},{text: 'You are using a Beta version of the Random Item Giver Datapack. Please report any issue you can find!',color: 'gold'}]

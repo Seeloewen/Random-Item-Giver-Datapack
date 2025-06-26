@@ -8,6 +8,10 @@
 
 ======= 1.21.x =======
 
+Version 1.5.4 for Minecraft 1.21.6 (26.06.2025)
++ Added all new items from 1.21.6
+* Updated to 1.21.6 (Pack format 80)
+
 Version 1.5.3 for Minecraft 1.21.5 (02.04.2025)
 + Added all new items from 1.21.5
 * Updated to 1.21.5 (Pack format 71)
