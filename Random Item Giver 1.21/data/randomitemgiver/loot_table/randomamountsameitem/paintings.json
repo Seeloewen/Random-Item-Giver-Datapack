@@ -1172,6 +1172,32 @@
                            }
                         }
                     ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            },
+                        {
+                            "function": "set_components",
+                            "components": {
+                          "minecraft:entity_data": {
+                            "id": "minecraft:painting",
+                            "variant": "minecraft:dennis"
+                          }
+                           }
+                        }
+                    ]
         }
       ]
     }
