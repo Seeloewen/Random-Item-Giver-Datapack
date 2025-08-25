@@ -902,6 +902,16 @@
               "count": 3
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_golem_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ]
         }
       ]
     }

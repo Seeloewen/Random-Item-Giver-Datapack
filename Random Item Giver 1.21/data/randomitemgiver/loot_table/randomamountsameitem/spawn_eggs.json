@@ -1396,6 +1396,23 @@
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_golem_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
         }
       ]
     }

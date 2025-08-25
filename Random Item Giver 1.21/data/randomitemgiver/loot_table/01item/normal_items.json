@@ -5083,6 +5083,262 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_lava_chicken"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:exposed_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:exposed_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:weathered_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:weathered_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxidized_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxidized_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_exposed_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_exposed_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_weathered_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_weathered_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_oxidized_copper_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_oxidized_copper_golem_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_shovel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_hoe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_horse_armor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cherry_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pale_oak_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:acacia_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_shelf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_torch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:exposed_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:weathered_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxidized_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_exposed_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_weathered_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_oxidized_copper_bars"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:exposed_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:weathered_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxidized_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_exposed_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_weathered_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_oxidized_copper_chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:exposed_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:weathered_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxidized_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_exposed_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_weathered_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_oxidized_copper_lantern"
         }
       ]
     }
