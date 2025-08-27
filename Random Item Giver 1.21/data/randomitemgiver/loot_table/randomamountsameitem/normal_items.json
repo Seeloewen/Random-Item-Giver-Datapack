@@ -22825,6 +22825,40 @@
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
         }
       ]
     }

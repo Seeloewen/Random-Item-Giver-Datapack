@@ -13373,6 +13373,26 @@
               "count": 10
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ]
         }
       ]
     }

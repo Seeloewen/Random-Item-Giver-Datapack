@@ -5342,6 +5342,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:waxed_oxidized_copper_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_egg"
         }
       ]
     }
