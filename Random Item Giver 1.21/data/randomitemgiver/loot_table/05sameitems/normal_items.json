@@ -7895,7 +7895,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chain",
+          "name": "minecraft:iron_chain",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -13387,6 +13387,16 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:blue_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_lightning_rod",
           "functions": [
             {
               "function": "minecraft:set_count",

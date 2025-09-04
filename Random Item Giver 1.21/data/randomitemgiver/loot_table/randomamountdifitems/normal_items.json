@@ -3164,7 +3164,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chain"
+          "name": "minecraft:iron_chain"
         },
         {
           "type": "minecraft:item",
@@ -5350,6 +5350,10 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:blue_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_lightning_rod"
         }
       ]
     }

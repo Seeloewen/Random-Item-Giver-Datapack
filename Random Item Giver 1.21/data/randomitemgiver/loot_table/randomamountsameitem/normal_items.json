@@ -13435,7 +13435,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chain",
+          "name": "minecraft:iron_chain",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -22846,6 +22846,23 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:blue_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "RandomItemGiver"
+                },
+                "score": "RandomAmountSameItemsNumber"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:waxed_lightning_rod",
           "functions": [
             {
               "function": "minecraft:set_count",
