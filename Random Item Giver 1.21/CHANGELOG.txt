@@ -8,6 +8,11 @@
 
 ======= 1.21.x =======
 
+Version 1.5.6-Beta1 for Minecraft 1.21.10 (08.10.2025)
++ Added all new items from 1.21.9
++ Addd missing chicken eggs from 1.21.5
+* Updated to 1.21.10 (Pack format 88.0)
+
 Version 1.5.5 for Minecraft 1.21.7 (05.07.2025)
 + Added all new items from 1.21.7
 * Updated to 1.21.7 (Pack format 81)
