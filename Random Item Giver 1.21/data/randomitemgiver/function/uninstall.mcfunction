@@ -3,35 +3,13 @@ gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Remove Scoreboard entrys
-scoreboard objectives remove rig_Seconds
-scoreboard objectives remove rig_GiveItems
-scoreboard objectives remove rig_SpawnEggs
-scoreboard objectives remove rig_CommandBlocks
-scoreboard objectives remove rig_OtherItems
-scoreboard objectives remove rig_ItemTimer
-scoreboard objectives remove rig_ShowItemMessage
-scoreboard objectives remove rig_ItemGiveType
-scoreboard objectives remove rig_ItemGiveAmount
-scoreboard objectives remove rig_PlayItemSound
-scoreboard objectives remove rig_ShowItemAmountScoreboard
-scoreboard objectives remove rig_RandomItemsReceived
-scoreboard objectives remove rig_ItemsReceivedTemp
-scoreboard objectives remove rig_RandomAmountSameItemsNumber
-scoreboard objectives remove rig_MainNumber
-scoreboard objectives remove rig_EnchantedBooks
-scoreboard objectives remove rig_Potions
-scoreboard objectives remove rig_LingeringPotions
-scoreboard objectives remove rig_SplashPotions
-scoreboard objectives remove rig_TippedArrows
-scoreboard objectives remove rig_SuspiciousStews
-scoreboard objectives remove rig_GoatHorns
-scoreboard objectives remove rig_Paintings
-scoreboard objectives remove rig_RandomTime
-scoreboard objectives remove rig_Time
-scoreboard objectives remove rig_RandomTimeValue
-scoreboard objectives remove rig_CanGetItems
-scoreboard objectives remove rig_TimerBossbar
-scoreboard objectives remove rig_ItemSound
+scoreboard objectives remove tempConversion
+scoreboard objectives remove internalTimer
+scoreboard objectives remove randomItemsReceived
+scoreboard objectives remove rolledItemId
+scoreboard objectives remove rolledRandomAmount
+scoreboard objectives remove randomTimeValue
+scoreboard objectives remove canGetItems
 bossbar remove rigtimer
 
 #Post that datapack was disabled

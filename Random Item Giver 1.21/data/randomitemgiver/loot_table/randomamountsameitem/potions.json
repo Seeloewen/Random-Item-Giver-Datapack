@@ -21,9 +21,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -46,9 +46,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -71,9 +71,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -97,9 +97,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -122,9 +122,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -147,9 +147,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -172,9 +172,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -197,9 +197,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -222,9 +222,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -247,9 +247,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -272,9 +272,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -297,9 +297,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -322,9 +322,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -347,9 +347,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -372,9 +372,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -397,9 +397,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -422,9 +422,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -447,9 +447,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -472,9 +472,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -497,9 +497,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -522,9 +522,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -547,9 +547,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -572,9 +572,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -597,9 +597,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -622,9 +622,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -647,9 +647,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -672,9 +672,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -697,9 +697,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -722,9 +722,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -747,9 +747,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -772,9 +772,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -797,9 +797,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -822,9 +822,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -847,9 +847,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -872,9 +872,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -897,9 +897,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -922,9 +922,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -947,9 +947,9 @@
                                 "type": "minecraft:score",
                                 "target": {
                                     "type": "minecraft:fixed",
-                                    "name": "RandomItemGiver"
+                                    "name": "rig"
                                 },
-                                "score": "rig_RandomAmountSameItemsNumber"
+                                "score": "rolledRandomAmount"
                             }
                         }
                     ]
@@ -964,7 +964,7 @@
                   "type": "minecraft:score",
                   "target": {
                     "type": "minecraft:fixed",
-                    "name": "RandomItemGiver"
+                    "name": "rig"
                 },
                 "score": "RandomAmountSameItemsNumber"
               }
@@ -989,7 +989,7 @@
                   "type": "minecraft:score",
                   "target": {
                     "type": "minecraft:fixed",
-                    "name": "RandomItemGiver"
+                    "name": "rig"
                 },
                 "score": "RandomAmountSameItemsNumber"
               }
@@ -1014,7 +1014,7 @@
                   "type": "minecraft:score",
                   "target": {
                     "type": "minecraft:fixed",
-                    "name": "RandomItemGiver"
+                    "name": "rig"
                 },
                 "score": "RandomAmountSameItemsNumber"
               }
@@ -1039,7 +1039,7 @@
                   "type": "minecraft:score",
                   "target": {
                     "type": "minecraft:fixed",
-                    "name": "RandomItemGiver"
+                    "name": "rig"
                 },
                 "score": "RandomAmountSameItemsNumber"
               }
