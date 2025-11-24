@@ -1,0 +1,3 @@
+function randomitemgiver:triggers
+function randomitemgiver:timer
+function randomitemgiver:give_items/main
