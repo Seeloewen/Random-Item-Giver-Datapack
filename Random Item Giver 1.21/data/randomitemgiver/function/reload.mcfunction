@@ -8,9 +8,10 @@ scoreboard objectives add internalTimer dummy
 scoreboard objectives add randomItemsReceived dummy {"text":"Random items received"}
 scoreboard objectives add itemsReceivedTemp dummy
 scoreboard objectives add rolledItemId dummy
-scoreboard objectives add rolledRandomAmount dummy
 scoreboard objectives add randomTimeValue dummy
 scoreboard objectives add canGetItems dummy
+scoreboard objectives add itemAmount dummy
+scoreboard objectives add rollAmount dummy
 
 #Check if timer setting is in a valid range (positive int)
 execute store result score rig tempConversion run data get storage randomitemgiver:settings general.timer
