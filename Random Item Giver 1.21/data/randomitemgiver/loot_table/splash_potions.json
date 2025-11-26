@@ -966,7 +966,7 @@
                     "type": "minecraft:fixed",
                     "name": "rig"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "itemAmount"
               }
             },
                         {
@@ -991,7 +991,7 @@
                     "type": "minecraft:fixed",
                     "name": "rig"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "itemAmount"
               }
             },
                         {
@@ -1016,7 +1016,7 @@
                     "type": "minecraft:fixed",
                     "name": "rig"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "itemAmount"
               }
             },
                         {
@@ -1041,7 +1041,7 @@
                     "type": "minecraft:fixed",
                     "name": "rig"
                 },
-                "score": "RandomAmountSameItemsNumber"
+                "score": "itemAmount"
               }
             },
                         {

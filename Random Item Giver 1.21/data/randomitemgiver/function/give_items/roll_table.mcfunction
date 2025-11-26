@@ -12,7 +12,5 @@ execute if score rig rolledItemId matches 72..79 run execute as @a if score @s c
 execute if score rig rolledItemId matches 80..89 run execute as @a if score @s canGetItems matches 1 run loot give @s loot randomitemgiver:other_items
 execute if score rig rolledItemId matches 90..1100 run execute as @a if score @s canGetItems matches 1 run loot give @s loot randomitemgiver:normal_items
 
-//does not work correctly yet, sometimes not enough - implement proper for loop
-
-execute if score rig rollAmount matches 1.. run scoreboard players remove rig rollAmount 1
+scoreboard players remove rig rollAmount 1
 execute if score rig rollAmount matches 1.. run function randomitemgiver:give_items/roll_table
