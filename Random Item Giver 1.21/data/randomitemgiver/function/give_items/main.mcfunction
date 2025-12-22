@@ -21,15 +21,15 @@ execute if score rig rolledItemId matches 80..89 if data storage randomitemgiver
 execute if data storage randomitemgiver:settings {items:{same_item:1}} if data storage randomitemgiver:settings {items:{random_amount:0}} store result score rig itemAmount run data get storage randomitemgiver:settings items.amount
 execute if data storage randomitemgiver:settings {items:{same_item:1}} if data storage randomitemgiver:settings {items:{random_amount:1}} store result score rig itemAmount run random roll 1..64
 execute if data storage randomitemgiver:settings {items:{same_item:1}} run scoreboard players set rig rollAmount 1
-execute if data storage randomitemgiver:settings {items:{same_item:1}} run function randomitemgiver:give_items/roll_table
 execute as @a if data storage randomitemgiver:settings {items:{same_item:1}} run execute if score @s canGetItems matches 1 run scoreboard players operation @s randomItemsReceived += rig itemAmount
+execute if data storage randomitemgiver:settings {items:{same_item:1}} run function randomitemgiver:give_items/roll_table
 
 #Give a random item (x times different items)
 execute if data storage randomitemgiver:settings {items:{same_item:0}} if data storage randomitemgiver:settings {items:{random_amount:0}} store result score rig rollAmount run data get storage randomitemgiver:settings items.amount
 execute if data storage randomitemgiver:settings {items:{same_item:0}} if data storage randomitemgiver:settings {items:{random_amount:1}} store result score rig rollAmount run random roll 1..64
+execute as @a if data storage randomitemgiver:settings {items:{same_item:0}} run execute if score @s canGetItems matches 1 run scoreboard players operation @s randomItemsReceived += rig rollAmount
 execute if data storage randomitemgiver:settings {items:{same_item:0}} run scoreboard players set rig itemAmount 1
 execute if data storage randomitemgiver:settings {items:{same_item:0}} run function randomitemgiver:give_items/roll_table
-execute as @a if data storage randomitemgiver:settings {items:{same_item:0}} run execute if score @s canGetItems matches 1 run scoreboard players operation @s randomItemsReceived += rig rollAmount
 
 #Post that you got an item (if enabled)
 execute as @a if data storage randomitemgiver:settings {general:{item_amount:1}} if data storage randomitemgiver:settings {general:{show_message:1}} run execute if score @s canGetItems matches 1 run tellraw @s [{text: '(',color: 'gray'},{text: '✸',color: 'aqua'},{text: ') ',color: 'gray'},{text: 'You received a new item!',color: 'aqua'}]
