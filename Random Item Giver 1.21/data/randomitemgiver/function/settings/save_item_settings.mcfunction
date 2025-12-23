@@ -1,3 +1,7 @@
+#Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
+gamerule sendCommandFeedback false
+schedule function randomitemgiver:reset_feedback 1t
+
 $data modify storage randomitemgiver:settings items.same_item set value $(same_item)
 $data modify storage randomitemgiver:settings items.amount set value $(amount)
 $data modify storage randomitemgiver:settings items.random_amount set value $(random_amount)

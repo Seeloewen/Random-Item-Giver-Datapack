@@ -36,7 +36,7 @@ execute unless data storage randomitemgiver:settings general.show_scoreboard run
 execute unless data storage randomitemgiver:settings general.enable_random_timer run data modify storage randomitemgiver:settings general.enable_random_timer set value false
 execute unless data storage randomitemgiver:settings general.enable_bossbar run data modify storage randomitemgiver:settings general.enable_bossbar set value true
 
-execute unless data storage randomitemgiver:settings items.same_item run data modify storage randomitemgiver:settings items.same_item set value true
+execute unless data storage randomitemgiver:settings items.same_item run data modify storage randomitemgiver:settings items.same_item set value false
 execute unless data storage randomitemgiver:settings items.random_amount run data modify storage randomitemgiver:settings items.random_amount set value false
 execute unless data storage randomitemgiver:settings items.spawn_eggs run data modify storage randomitemgiver:settings items.spawn_eggs set value true
 execute unless data storage randomitemgiver:settings items.command_blocks run data modify storage randomitemgiver:settings items.command_blocks set value true
