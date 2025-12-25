@@ -3,7 +3,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Seeloewen/Random-Item-Giver-Datapack/total?style=for-the-badge)
 
 With the Random Item Giver Datapack you can get a random item every x seconds. You can modify the timer and also which types of items you want to get! There's also a bunch of other customization options, like a message, scoreboard, sounds and much more!
-You can access all the ingame menus and settings for the datapack using **/function randomitemgiver:menus/menu**. This menu also pops up when you do /reload.
+You can access all the ingame menus and settings for the datapack using **/trigger menuTrigger set 11**. This menu also pops up when you do /reload.
 
 This datapack is an updated version of Phoenix SC's original version which was only available for 1.14.4, so make sure to check him out on here: **https://www.youtube.com/c/PhnixhamstaSC** .\
 Many thanks to him for allowing me to update and share his datapack.

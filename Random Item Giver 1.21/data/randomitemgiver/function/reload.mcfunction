@@ -14,6 +14,11 @@ scoreboard objectives add itemAmount dummy
 scoreboard objectives add rollAmount dummy
 scoreboard objectives add internalMaxTimer dummy
 
+scoreboard objectives add menuTrigger trigger
+
+#This trigger is only used as easy access to the main menu
+scoreboard objectives add RandomItemGiver trigger
+
 #Check if timer setting is in a valid range (positive int)
 execute store result score rig tempConversion run data get storage randomitemgiver:settings general.timer
 execute unless score rig tempConversion matches 1.. run scoreboard players set rig internalMaxTimer 300
@@ -61,7 +66,7 @@ scoreboard players set rig internalTimer 0
 #Post that datapack is loaded
 tellraw @a {text: ''}
 tellraw @a {text: 'Random Item Giver 1.5.6 was successfully loaded!',color: 'green'}
-tellraw @a [{text: '[',color: 'gray',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: '➤',color: 'green',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ']',color: 'gray',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ' ',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: 'Click here to open the menu',color: 'green',click_event:{'action':'run_command', command: '/function randomitemgiver:menus/menu'},hover_event:{action: 'show_text', value: 'Open the main menu'}}]
+tellraw @a [{text: '[',color: 'gray',click_event:{'action':'run_command', command: '/trigger menuTrigger set 11'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: '➤',color: 'green',click_event:{'action':'run_command', command: '/trigger menuTrigger set 11'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ']',color: 'gray',click_event:{'action':'run_command', command: '/trigger menuTrigger set 11'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: ' ',click_event:{'action':'run_command', command: '/trigger menuTrigger set 11'},hover_event:{action: 'show_text', value: 'Open the main menu'}},{text: 'Click here to open the menu',color: 'green',click_event:{'action':'run_command', command: '/trigger menuTrigger set 11'},hover_event:{action: 'show_text', value: 'Open the main menu'}}]
 tellraw @a {text: ''}
 #tellraw @a [{text: '(',color: 'gray'},{text: '⚠',color: 'gold'},{text: ') ',color: 'gray'},{text: 'You are using a Beta version of the Random Item Giver Datapack. Please report any issues you can find!',color: 'gold'}]
 
