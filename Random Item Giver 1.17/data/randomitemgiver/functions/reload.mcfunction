@@ -13,7 +13,7 @@ execute unless score ShowItemMessage Enabled matches 1..2 run scoreboard players
 #Post that datapack is loaded
 tellraw @a {"text":" "}
 tellraw @a {"text":"Random Item Giver 1.1.6 was successfully loaded!","color":"green"}
-tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/trigger menuTrigger set 11"}}
+tellraw @a {"text":"> Click here to open the menu","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click here to open the menu","color":"green"}]},"clickEvent":{"action":"run_command","value":"/function randomitemgiver:menus/menu"}}
 
 #Seconds: Must be between 1 and 999999999
 #SpawnEggs: Score 2 means enabled, score 1 disabled
