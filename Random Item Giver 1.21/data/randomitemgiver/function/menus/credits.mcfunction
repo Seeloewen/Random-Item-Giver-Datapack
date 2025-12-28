@@ -1,40 +1,7 @@
 gamerule sendCommandFeedback false
 schedule function randomitemgiver:reset_feedback 1t
 
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
-tellraw @s {text: ""}
+tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
 
 tellraw @s {text: '«═════════════════════════»','bold':true,color: '#CE9178'}
 tellraw @s [{text: 'Random Item Giver','bold':true,color: 'gold'},{text: ' -','bold':true,color: 'gray'},{text: ' Credits','bold':true,color: 'dark_red'}]

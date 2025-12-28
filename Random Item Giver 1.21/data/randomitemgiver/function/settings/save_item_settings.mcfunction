@@ -18,3 +18,7 @@ $data modify storage randomitemgiver:settings items.goat_horns set value $(goat_
 $data modify storage randomitemgiver:settings items.paintings set value $(paintings)
 $data modify storage randomitemgiver:settings items.pottery_sherds set value $(pottery_sherds)
 $data modify storage randomitemgiver:settings items.smithing_templates set value $(smithing_templates)
+
+tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
+tellraw @s {text:"The Item Settings were successfully saved!",color:"green"}
+tellraw @s {text:"[",extra:[{text:"➤",color:"green",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:"]",color:"gray",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:" Click here to reopen the main menu",color:"green",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}}],color:"gray",click_event:{action:"run_command",url:"",command:"/trigger menuTrigger set 11"}}

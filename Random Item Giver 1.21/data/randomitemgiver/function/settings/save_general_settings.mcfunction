@@ -22,3 +22,7 @@ execute if data storage randomitemgiver:settings {general:{enable_bossbar:1}} ru
 
 execute if data storage randomitemgiver:settings {general:{show_scoreboard:0}} run scoreboard objectives setdisplay sidebar
 execute if data storage randomitemgiver:settings {general:{show_scoreboard:1}} run scoreboard objectives setdisplay sidebar randomItemsReceived
+
+tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
+tellraw @s {text:"The General Settings were successfully saved!",color:"green"}
+tellraw @s {text:"[",extra:[{text:"➤",color:"green",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:"]",color:"gray",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:" Click here to reopen the main menu",color:"green",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}}],color:"gray",click_event:{action:"run_command",url:"",command:"/trigger menuTrigger set 11"}}
