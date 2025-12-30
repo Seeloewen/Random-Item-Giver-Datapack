@@ -5,7 +5,7 @@ schedule function randomitemgiver:reset_feedback 1t
 scoreboard players enable @s menuTrigger
 scoreboard players enable @s RandomItemGiver
 
-execute if score @s menuTrigger matches 1 run function randomitemgiver:dialogs/settings_home 
+execute if score @s menuTrigger matches 1 run function randomitemgiver:dialogs/settings_home
 execute if score @s menuTrigger matches 2 run function randomitemgiver:dialogs/general_settings with storage randomitemgiver:settings general
 execute if score @s menuTrigger matches 3 run function randomitemgiver:dialogs/item_settings with storage randomitemgiver:settings items
 execute if score @s menuTrigger matches 4 run function randomitemgiver:dialogs/player_settings
