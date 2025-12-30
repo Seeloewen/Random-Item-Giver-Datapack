@@ -2,21 +2,36 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Seeloewen/Random-Item-Giver-Datapack/total?style=for-the-badge)
 
-With the Random Item Giver Datapack you can get a random item every x seconds. You can modify the timer and also which types of items you want to get! There's also a bunch of other customization options, like a message, scoreboard, sounds and much more!
-You can access all the ingame menus and settings for the datapack using **/trigger menuTrigger set 11**. This menu also pops up when you do /reload.
-
-This datapack is an updated version of Phoenix SC's original version which was only available for 1.14.4, so make sure to check him out on here: **https://www.youtube.com/c/PhnixhamstaSC** .\
-Many thanks to him for allowing me to update and share his datapack.
+Ever wanted to get an item every 10 seconds? Or maybe a whole stack of items at random intervals?
+With the Random Item Giver, you can get a random item at a time interval of your choosing.\
+You can access all the ingame dialogs and settings for the datapack using **/trigger RandomItemGiver**. This menu can also be accessed when doing **/reload**.
 
 If you have any questions, check the FAQ or open a new issue. It usally doesn't take long for me to answer.
-If you want faster support, better information about the updates and more I suggest you joining my Discord Server!
+For faster support, better information about the updates and much more, I suggest you join my Discord Server!\
 https://discord.gg/pUGzCU2mk3
 
 The datapack can also be found on Planetminecraft!\
 https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minecraft-1-16-2
 
-## FAQ
+## Customization
+There are a bunch of customization options to personalize your experience! A few examples would be...
+* A bossbar that displays the timer
+* A scoreboard that shows how many items everyone received
+* A message and sound when receiving items
+* Toggles for several item groups that may show up too often
+* And much more!
+<img width="1648" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3a7bc6c-6c5d-4611-913d-9eff443889c3" />
 
+## Adding items
+Since the datapack pulls its items from loot tables, you are free to add your own custom items to the datapack. This can be both items with specific nbt data or even modded items!
+Simply add an entry to the loot table that your item corresponds, with the correct id and prefix. To assist with adding items to the Random Item Giver, I have provided several tools.
+* The Seeloewen ItemDumper can extract a list of all registered item ids from the game: https://www.curseforge.com/minecraft/mc-mods/seeloewen-itemdumper
+* The Random Item Giver Legacy can be used to configure and add items to the datapack without needing to edit the loot table directly: https://github.com/Seeloewen/Random-Item-Giver-Updater-Legacy/releases
+
+This could be an example of a modded item:\
+<img width="399" height="403" alt="image" src="https://github.com/user-attachments/assets/1bf6d5d5-c959-4908-9306-ad87d821904c" />
+
+## FAQ
 **Q**: I want to use another version of the Datapack. Where can I find it?\
 **A**: You can find other versions, like older versions or modified versions in the Builds folder in this GitHub repository.
 
@@ -26,17 +41,14 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **Q**: How can I use this datapack on a server?\
 **A**: Installing the datapack on a server is actually quite simple. Open up the server directory > 'world' > 'datapacks' and paste the datapack zip file in there.
 
-**Q**: What items are you able to get?\
-**A**: Every single one in the game as of 1.21.5.
+**Q**: Which items are you able to get?\
+**A**: Every single one in the game as of 1.21.11.
 
 **Q**: How can I change the item timer?\
-**A**: You can change the rate at which items are given to you in the settings menu of the datapack (**/function randomitemgiver:menus/settings**)
+**A**: You can change the rate at which items are given to you in the settings menu of the datapack.
 
 **Q**: What versions of Minecraft is the datapack available for?\
-**A**: A list of all versions can be found in Security.MD
-
-**Q**: How can I add new items to the datapack?\
-**A**: If you want to add new items to the datapack, you need the full ID of these items. There are some mods out there that can help you do that. If you have the list, you can either use my Random Item Giver Software to add the items or edit the code manually. The Random Item Giver Updater can be found here: https://github.com/Seeloewen/Random-Item-Giver-Updater
+**A**: A list of all supported versions can be found in the Security.md file in this repository.
 
 **Q**: I see menus and messages of the datapack appearing but don’t get any items!\
 **A**: If some components of the datapack are working but you don’t get any items, then it’s most likely a version issue. Make sure the version of your game matches the version the datapack was made for.
@@ -44,31 +56,11 @@ https://www.planetminecraft.com/data-pack/random-item-giver-datapack-1-0-0-minec
 **Please note that I most likely won't backport the datapack to older versions as it utilises a lot of 1.16+ features and porting them into an older version is really time consuming and would need a lot of modifications.**
 
 ## Downloads
-
 If you want to download the latest versions of the datapack, I recommend going to 'Releases' and getting the newest download available for your desired version.\
 In case you need an older download, you might have better luck finding it in the 'Builds' folder. Besides containing all of the latest downloads, there is also a folder for versions prior to 2022.
 
-## Screenshots
-
-The following screenshots show some of the menus of the datapack, especially the settings. They are based on Version 1.5.0 for 1.21.
-
-### Main Menu
-![main_menu_1_5_0](https://github.com/Seeloewen/Random-Item-Giver-Datapack/assets/74246933/fbb5c7cc-c06f-4a5b-85e0-8203cc529b13)
-
-### Settings (Page 1)
-![settings_page_1_1_5_0](https://github.com/Seeloewen/Random-Item-Giver-Datapack/assets/74246933/57a4d9e0-4bda-4497-b0b1-1db9c86fee61)
-
-### Settings (Page 2)
-![settings_page_2_1_5_0](https://github.com/Seeloewen/Random-Item-Giver-Datapack/assets/74246933/82ad2e09-e21d-43fa-9191-240d0f0587e8)
-
-### Settings (Page 3)
-![settings_page_3_1_5_0](https://github.com/Seeloewen/Random-Item-Giver-Datapack/assets/74246933/7a5cdd07-63ad-4e40-8fd2-16fae794b145)
-
-### Item Settings
-![item_settings_1_5_0](https://github.com/Seeloewen/Random-Item-Giver-Datapack/assets/74246933/1d183000-d52b-46b8-b4c4-be6f43cc688d)
-
 ## Credits
-Once again special thanks to Phoenix SC for allowing me to continue working on this project and sharing it. Without him, this datapack wouldn't have been possible. (**https://www.youtube.com/c/PhnixhamstaSC**)
+This datapack is a rework of Phoenix SC's original version which was only available for 1.14.4. Special thanks to Phoenix SC for allowing me to continue working on this project and sharing it. Without him, this datapack wouldn't have been possible. (**https://www.youtube.com/c/PhnixhamstaSC**)
 
 Older versions of this datapack also use the Random Number Generator by CloudWolf. (**https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g**)
 
