@@ -5,24 +5,6 @@ schedule function randomitemgiver:reset_feedback 1t
 #Make everyone able to get items if there's no specific setting yet (accounts for players that may join after the reload)
 execute as @a run execute as @s unless score @s canGetItems matches 0..1 run scoreboard players set @s canGetItems 1
 
-#Generate random number
-execute store result score rig rolledItemId run random value 1..114
-
-#Regenerate the random number if it hits a disabled loot table (The regenerated number is specified in a way that it never hits another disabled item)
-execute if score rig rolledItemId matches 1 if data storage randomitemgiver:settings {items:{enchanted_books:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 2 if data storage randomitemgiver:settings {items:{potions:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 3 if data storage randomitemgiver:settings {items:{lingering_potions:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 4 if data storage randomitemgiver:settings {items:{splash_potions:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 5 if data storage randomitemgiver:settings {items:{tipped_arrows:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 6 if data storage randomitemgiver:settings {items:{suspicious_stews:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 7 if data storage randomitemgiver:settings {items:{goat_horns:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 8 if data storage randomitemgiver:settings {items:{paintings:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 9 if data storage randomitemgiver:settings {items:{command_blocks:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 10 if data storage randomitemgiver:settings {items:{spawn_eggs:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 11 if data storage randomitemgiver:settings {items:{other_creatives:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 12 if data storage randomitemgiver:settings {items:{pottery_sherds:0}} store result score rig rolledItemId run random value 14..114
-execute if score rig rolledItemId matches 13 if data storage randomitemgiver:settings {items:{smithing_templates:0}} store result score rig rolledItemId run random value 14..114
-
 #Give a random item (x times same item)
 execute if data storage randomitemgiver:settings {items:{same_item:1}} if data storage randomitemgiver:settings {items:{random_amount:0}} store result score rig itemAmount run data get storage randomitemgiver:settings items.amount
 execute if data storage randomitemgiver:settings {items:{same_item:1}} if data storage randomitemgiver:settings {items:{random_amount:1}} store result score rig itemAmount run random value 1..64
