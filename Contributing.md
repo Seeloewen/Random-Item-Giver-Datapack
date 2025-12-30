@@ -17,10 +17,13 @@ The next thing you need to do is to add items to the loot tables.
 * If you want to add tipped arrows, edit tipped_arrow.json
 * If you want to add paintings, edit paintings.json
 * If you want to add goat horns, edit goat_horns.json
-
-Make sure to edit all loot tables in all folders when adding a new item. In the loot tables where you get multiple items, ensure that the amount value is correct.
+* If you want to add pottery sherds, edit pottery_sherds.json
+* If you want to add smithing templates, edit smithing_templates.json
 
 ## Old Versions
+
+In older versions, the loot tables are sometimes found multiple times across folders for different amounts of items. Make sure to edit the specific loot tables in all those folders if you want your items to be compatible with the item settings!
+
 Starting with version 1.4.2 for 1.20.2, the structure on how item groups are represented by loot tables has changed. Before, it was more complicated and not as straight forward as today. Here is the overview for the old loot tables. Any loot tables, that are not listed here behave the same as in new versions. For even older versions, you should also edit rng_main.json to include the correct number of items.
 
 All old loot tables:
