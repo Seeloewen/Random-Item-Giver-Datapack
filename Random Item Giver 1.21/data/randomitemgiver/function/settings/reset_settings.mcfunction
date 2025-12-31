@@ -10,4 +10,4 @@ scoreboard players set @a canGetItems 1
 
 tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
 tellraw @s {text:"All Random Item Giver settings were successfully reset back to their default value.",color:"red"}
-tellraw @s {text:"[",extra:[{text:"➤",color:"red",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:"]",color:"gray",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:" Click here to reopen the main menu",color:"red",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}}],color:"gray",click_event:{action:"run_command",url:"",command:"/trigger menuTrigger set 11"}}
+tellraw @s {text:"[",extra:[{text:"➤",color:"red",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:"]",color:"gray",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}},{text:" Click here to reopen the main menu",color:"red",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}}],color:"gray",click_event:{action:"run_command",command:"/trigger menuTrigger set 11"}}
