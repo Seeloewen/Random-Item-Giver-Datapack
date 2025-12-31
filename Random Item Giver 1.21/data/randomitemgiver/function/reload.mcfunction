@@ -1,5 +1,5 @@
 #Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
-gamerule sendCommandFeedback false
+gamerule send_command_feedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Add objectives - only used internally for temporary storage. Permanent settings are stored in data storage as of 1.5.6

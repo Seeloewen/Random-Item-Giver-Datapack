@@ -1,4 +1,4 @@
-gamerule sendCommandFeedback false
+gamerule send_command_feedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}

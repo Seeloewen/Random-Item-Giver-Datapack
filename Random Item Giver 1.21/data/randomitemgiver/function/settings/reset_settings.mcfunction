@@ -1,5 +1,5 @@
 #Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
-gamerule sendCommandFeedback false
+gamerule send_command_feedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 function randomitemgiver:settings/save_item_settings {same_item: false, amount: 1, random_amount: false, spawn_eggs: true, command_blocks: true, other_creatives: true, enchanted_books: true, potions: true, lingering_potions: true, splash_potions: true, tipped_arrows: true, suspicious_stews: true, goat_horns: true, paintings: true, pottery_sherds: true, smithing_templates: true}

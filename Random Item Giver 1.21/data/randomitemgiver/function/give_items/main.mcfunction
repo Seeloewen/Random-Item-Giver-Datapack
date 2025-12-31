@@ -1,5 +1,5 @@
 #Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
-gamerule sendCommandFeedback false
+gamerule send_command_feedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 #Make everyone able to get items if there's no specific setting yet (accounts for players that may join after the reload)

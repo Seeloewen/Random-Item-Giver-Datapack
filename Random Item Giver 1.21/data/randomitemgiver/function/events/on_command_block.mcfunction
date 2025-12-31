@@ -1,5 +1,5 @@
 #Disable Command Block feedback to hide 'Executed commands from function' message and schedule enabling it again
-gamerule sendCommandFeedback false
+gamerule send_command_feedback false
 schedule function randomitemgiver:reset_feedback 1t
 
 execute if data storage randomitemgiver:settings {general:{show_useless_warnings:1}} run tellraw @s {text:"You received a command block, but it's unfortunately useless if you're not in creative mode.",color:"gold"}
