@@ -1,5 +1,14 @@
+#Calculate remaining seconds
+execute if data storage randomitemgiver:settings {general:{enable_random_timer:0}} run scoreboard players operation rig remainingSeconds = rig internalMaxTimer
+execute if data storage randomitemgiver:settings {general:{enable_random_timer:1}} run scoreboard players operation rig remainingSeconds = rig randomTimeValue
+scoreboard players operation rig tempConversion = rig internalTimer
+scoreboard players operation rig remainingSeconds -= rig tempConversion
+scoreboard players operation rig remainingSeconds /= rig twenty
+scoreboard players add rig remainingSeconds 1
+
 #Setup the bossbar
-bossbar add rigtimer {"text":"Next Random Item","color":"red"}
+bossbar add rigtimer ""
+bossbar set rigtimer name [{"text":"Next Random Item (","color":"red"}, {"score":{"name":"rig","objective":"remainingSeconds"},"color":"red"}, {"text":"s)","color":"red"}]
 bossbar set minecraft:rigtimer players @a
 bossbar set minecraft:rigtimer color red
 
@@ -21,3 +30,4 @@ execute if data storage randomitemgiver:settings {general:{enable_random_timer:1
 #Check for time if not set to random
 execute if data storage randomitemgiver:settings {general:{enable_random_timer:0}} if score rig internalTimer >= rig internalMaxTimer run scoreboard players set rig giveNow 1
 execute if data storage randomitemgiver:settings {general:{enable_random_timer:0}} if score rig internalTimer >= rig internalMaxTimer run scoreboard players set rig internalTimer 0
+

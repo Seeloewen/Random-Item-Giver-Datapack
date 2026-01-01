@@ -15,8 +15,8 @@ $data modify storage randomitemgiver:settings general.show_useless_warnings set 
 
 #Apply settings where needed
 execute store result score rig tempConversion run data get storage randomitemgiver:settings general.timer
-scoreboard players set rig internalMaxTimer 20
-scoreboard players operation rig internalMaxTimer *= rig tempConversion
+scoreboard players operation rig internalMaxTimer = rig tempConversion
+scoreboard players operation rig internalMaxTimer *= rig twenty
 
 execute if data storage randomitemgiver:settings {general:{enable_bossbar:0}} run bossbar set minecraft:rigtimer visible false 
 execute if data storage randomitemgiver:settings {general:{enable_bossbar:1}} run bossbar set minecraft:rigtimer visible true 

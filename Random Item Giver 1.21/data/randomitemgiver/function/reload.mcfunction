@@ -13,6 +13,8 @@ scoreboard objectives add canGetItems dummy
 scoreboard objectives add itemAmount dummy
 scoreboard objectives add rollAmount dummy
 scoreboard objectives add internalMaxTimer dummy
+scoreboard objectives add twenty dummy
+scoreboard objectives add remainingSeconds dummy
 
 scoreboard objectives add menuTrigger trigger
 
@@ -60,9 +62,11 @@ execute unless data storage randomitemgiver:settings items.paintings run data mo
 execute unless data storage randomitemgiver:settings items.pottery_sherds run data modify storage randomitemgiver:settings items.pottery_sherds set value 1
 execute unless data storage randomitemgiver:settings items.smithing_templates run data modify storage randomitemgiver:settings items.smithing_templates set value 1
 
+#Setup some more internal stuff
 execute as @a run execute as @s unless score @s canGetItems matches 0..1 run scoreboard players set @s canGetItems 1
 execute store result score rig randomTimeValue run random value 1..1200
 scoreboard players set rig internalTimer 0
+scoreboard players set rig twenty 20
 
 #Post that datapack is loaded
 tellraw @a {text: ''}
