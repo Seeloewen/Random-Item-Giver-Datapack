@@ -5,7 +5,7 @@ schedule function randomitemgiver:reset_feedback 1t
 #Add objectives - only used internally for temporary storage. Permanent settings are stored in data storage as of 1.5.6
 scoreboard objectives add tempConversion dummy
 scoreboard objectives add internalTimer dummy
-scoreboard objectives add randomItemsReceived dummy {"text":"Random Items Received"}
+scoreboard objectives add randomItemsReceived dummy {"text":"Random Items Received", "color": "aqua"}
 scoreboard objectives add itemsReceivedTemp dummy
 scoreboard objectives add rolledItemId dummy
 scoreboard objectives add randomTimeValue dummy
