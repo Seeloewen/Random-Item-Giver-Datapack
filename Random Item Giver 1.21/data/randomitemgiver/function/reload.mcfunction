@@ -64,6 +64,7 @@ execute unless data storage randomitemgiver:settings items.smithing_templates ru
 
 #Setup some more internal stuff
 execute as @a run execute as @s unless score @s canGetItems matches 0..1 run scoreboard players set @s canGetItems 1
+execute unless score rig internalMaxTimer matches 1.. run scoreboard players set rig internalMaxTimer 300
 execute store result score rig randomTimeValue run random value 1..1200
 scoreboard players set rig internalTimer 0
 scoreboard players set rig twenty 20
