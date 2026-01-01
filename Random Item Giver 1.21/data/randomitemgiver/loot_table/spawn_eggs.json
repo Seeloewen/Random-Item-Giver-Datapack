@@ -1413,7 +1413,75 @@
               }
             }
           ]
+        },
+        {
+    "type": "minecraft:item",
+    "name": "minecraft:nautilus_spawn_egg",
+    "functions": [
+      {
+        "function": "minecraft:set_count",
+        "count": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
         }
+      }
+    ]
+  },
+  {
+    "type": "minecraft:item",
+    "name": "minecraft:zombie_nautilus_spawn_egg",
+    "functions": [
+      {
+        "function": "minecraft:set_count",
+        "count": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      }
+    ]
+  },
+  {
+    "type": "minecraft:item",
+    "name": "minecraft:parched_spawn_egg",
+    "functions": [
+      {
+        "function": "minecraft:set_count",
+        "count": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      }
+    ]
+  },
+  {
+    "type": "minecraft:item",
+    "name": "minecraft:camel_husk_spawn_egg",
+    "functions": [
+      {
+        "function": "minecraft:set_count",
+        "count": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      }
+    ]
+  }
       ]
     }
   ]

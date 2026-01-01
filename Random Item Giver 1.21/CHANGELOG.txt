@@ -8,10 +8,22 @@
 
 ======= 1.21.x =======
 
-Version 1.5.6-Beta1 for Minecraft 1.21.10 (08.10.2025)
-+ Added all new items from 1.21.9
-+ Addd missing chicken eggs from 1.21.5
-* Updated to 1.21.10 (Pack format 88.0)
+Version 1.5.6 for Minecraft 1.21.11 (01.01.2026)
++ Added all new items from 1.21.9 & 1.21.11
++ Added warning when receiving useless creative-only items
++ Added remaining seconds to timer bossbar
++ Added missing chicken eggs from 1.21.5
+* Fixed several spawn eggs appearing in normal loot table
+* Fixed several spawn eggs appearing in normal loot table
+* Moved smithing templates and pottery sherds to seperate loot tables
+* Tweaked chances for items in specific groups
+* Sidebar display of received item amount is now colored
+* Slightly overhauled help menu
+* Updated to 1.21.11
+* Reworked settings using dialogs
+* Menus are now opened with triggers
+* Settings are now saved in data storage
+* Reworked many other internal components
 
 Version 1.5.5 for Minecraft 1.21.7 (05.07.2025)
 + Added all new items from 1.21.7

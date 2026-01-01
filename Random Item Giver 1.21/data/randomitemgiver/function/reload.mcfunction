@@ -24,7 +24,7 @@ scoreboard objectives add RandomItemGiver trigger
 #Check if timer setting is in a valid range (positive int)
 execute store result score rig tempConversion run data get storage randomitemgiver:settings general.timer
 execute unless score rig tempConversion matches 1.. run scoreboard players set rig internalMaxTimer 300
-execute unless score rig tempConversion matches 1.. run scoreboard players set rig tempConversion 20
+execute unless score rig tempConversion matches 1.. run scoreboard players set rig tempConversion 15
 execute store result storage randomitemgiver:settings general.timer int 1 run scoreboard players get rig tempConversion
 
 #Check if item amount is in a valid range (1 to 256)
