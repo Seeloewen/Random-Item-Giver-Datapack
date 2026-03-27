@@ -9,6 +9,7 @@
 ======= 26.x =========
 
 Version 1.6.0 for Minecraft 26.1 (27.03.2026)
++ Added new golden dandelion item from 26.1
 * Fixed dialogs sometimes not opening for the correct player
 * Fixed disconnect on some servers when saving item settings
 * Updated to 26.1

@@ -7,6 +7,7 @@ tellraw @s {text: '«═══════════════════�
 tellraw @s [{text: 'Random Item Giver','bold':true,color: 'gold'},{text: ' -','bold':true,color: 'gray'},{text: ' News','bold':true,color: 'light_purple'}]
 tellraw @s {text: ' '}
 tellraw @s [{text: 'Version',color: '#F53377'},{text: ' 1.6.0',color: '#F53377'},{text: ' -',color: 'gray'},{text: ' What`s new?',color: 'yellow'}]
+tellraw @s [{text: '(',color: 'gray'},{text: '+',color: 'dark_green'},{text: ') ',color: 'gray'},{text: 'Added new golden dandelion item from 26.1',color: '#FFFFB0'}]
 tellraw @s [{text:"(",color:"gray"},{text:"⁎",color:"dark_aqua"},{text:") ",color:"gray"},{text:"Fixed dialogs sometimes not opening for the correct player",color:"#FFFFB0"}]
 tellraw @s [{text:"(",color:"gray"},{text:"⁎",color:"dark_aqua"},{text:") ",color:"gray"},{text:"Fixed disconnect on some servers when saving item settings",color:"#FFFFB0"}]
 tellraw @s [{text:"(",color:"gray"},{text:"⁎",color:"dark_aqua"},{text:") ",color:"gray"},{text:"Updated to 26.1",color:"#FFFFB0"}]
