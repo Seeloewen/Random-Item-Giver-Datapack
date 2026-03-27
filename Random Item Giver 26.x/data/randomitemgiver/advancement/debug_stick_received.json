@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "Player gets debug stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:debug_stick"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "randomitemgiver:events/on_debug_stick"
+  }
+}

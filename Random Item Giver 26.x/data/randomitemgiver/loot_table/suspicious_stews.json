@@ -1,0 +1,261 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:blindness",
+                              "duration": 160
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:fire_resistance",
+                              "duration": 80
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:jump_boost",
+                              "duration": 120
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:night_vision",
+                              "duration": 100
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:regeneration",
+                              "duration": 160
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:poison",
+                              "duration": 240
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:saturation",
+                              "duration": 7
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:weakness",
+                              "duration": 180
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:suspicious_stew",
+                    "functions": [
+                        {
+                        "function": "minecraft:set_components",
+                        "components": {
+                          "minecraft:suspicious_stew_effects": [
+                            {
+                              "id": "minecraft:wither",
+                              "duration": 160
+                            }
+                          ]
+                        }
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:score",
+                                "target": {
+                                    "type": "minecraft:fixed",
+                                    "name": "rig"
+                                },
+                                "score": "itemAmount"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

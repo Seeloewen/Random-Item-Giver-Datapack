@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "Player gets structure block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+              "items": [
+              "minecraft:structure_block",
+              "minecraft:structure_void"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "randomitemgiver:events/on_structure_block"
+  }
+}

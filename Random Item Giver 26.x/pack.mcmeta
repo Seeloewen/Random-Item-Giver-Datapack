@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 101,
+    "min_format": [101, 1],
+    "max_format": [101, 1],
+    "description": "§6Random Item Giver 1.6.0 §7by §cLouis9 §8[§b26.1§8]"
+  }
+}

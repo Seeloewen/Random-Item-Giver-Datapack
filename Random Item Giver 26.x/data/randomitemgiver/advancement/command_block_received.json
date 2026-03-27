@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "Player gets any command block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+              "items": [
+              "minecraft:chain_command_block",
+              "minecraft:command_block",
+              "minecraft:repeating_command_block",
+              "minecraft:command_block_minecart"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "randomitemgiver:events/on_command_block"
+  }
+}
