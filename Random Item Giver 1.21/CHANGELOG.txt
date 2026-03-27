@@ -8,6 +8,11 @@
 
 ======= 1.21.x =======
 
+Version 1.5.7 for Minecraft 1.21.11 (27.03.2026)
+* Fixed dialogs sometimes not opening for the correct player
+* Fixed disconnect on some servers when saving item settings
+* Fixed incorrect pack format
+
 Version 1.5.6 for Minecraft 1.21.11 (01.01.2026)
 + Added all new items from 1.21.9 & 1.21.11
 + Added warning when receiving useless creative-only items
