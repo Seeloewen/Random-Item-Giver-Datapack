@@ -11,7 +11,8 @@ The following table shows all versions and their support state:
 | 1.2.x (1.18)   | :x: |
 | 1.3.x (1.19)   | :x: |
 | 1.4.x (1.20)   | :x: |
-| 1.5.x (1.21)   | :white_check_mark: |
+| 1.5.x (1.21)   | :x: |
+| 1.6.x (26.x)   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 

@@ -42,7 +42,7 @@ This could be an example of a modded item:\
 **A**: Installing the datapack on a server is actually quite simple. Open up the server directory > 'world' > 'datapacks' and paste the datapack zip file in there.
 
 **Q**: Which items are you able to get?\
-**A**: Every single one in the game as of 1.21.11.
+**A**: Every single one in the game as of 26.1.
 
 **Q**: How can I change the item timer?\
 **A**: You can change the rate at which items are given to you in the settings menu of the datapack.
