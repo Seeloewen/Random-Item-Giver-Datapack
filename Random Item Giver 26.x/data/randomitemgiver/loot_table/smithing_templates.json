@@ -5,23 +5,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:acacia_boat",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:netherite_upgrade_smithing_template",
           "functions": [
             {
