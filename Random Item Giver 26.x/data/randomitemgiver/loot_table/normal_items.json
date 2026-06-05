@@ -17563,7 +17563,6 @@
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17571,17 +17570,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17589,17 +17587,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17607,17 +17604,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17625,17 +17621,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17643,17 +17638,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17661,17 +17655,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17679,17 +17672,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17697,17 +17689,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17715,17 +17706,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17733,17 +17723,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17751,17 +17740,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17769,17 +17757,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17787,17 +17774,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17805,17 +17791,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17823,17 +17808,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17841,17 +17825,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17859,17 +17842,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17877,17 +17859,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17895,17 +17876,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17913,17 +17893,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17931,17 +17910,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17949,17 +17927,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17967,17 +17944,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -17985,17 +17961,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18003,17 +17978,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18021,17 +17995,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18039,17 +18012,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18057,17 +18029,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18075,17 +18046,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18093,17 +18063,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18111,17 +18080,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18129,17 +18097,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18147,17 +18114,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18165,17 +18131,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18183,17 +18148,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18201,17 +18165,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18219,17 +18182,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18237,17 +18199,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18255,17 +18216,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18273,17 +18233,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18291,17 +18250,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18309,17 +18267,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18327,17 +18284,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18345,17 +18301,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18363,17 +18318,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18381,17 +18335,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18399,17 +18352,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18417,17 +18369,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18435,17 +18386,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18453,17 +18403,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18471,17 +18420,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18489,17 +18437,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18507,17 +18454,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18525,17 +18471,16 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-  
         },
         {
           "type": "minecraft:item",
@@ -18543,11 +18488,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18560,11 +18505,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18577,11 +18522,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18594,11 +18539,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18611,11 +18556,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18628,11 +18573,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18645,11 +18590,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18662,11 +18607,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18679,11 +18624,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18696,11 +18641,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18713,11 +18658,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18730,11 +18675,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18747,11 +18692,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18764,11 +18709,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18781,11 +18726,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18798,11 +18743,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18815,11 +18760,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18832,11 +18777,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18849,11 +18794,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18866,11 +18811,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18883,11 +18828,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18900,11 +18845,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18917,11 +18862,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18934,11 +18879,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18951,11 +18896,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18968,11 +18913,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -18985,11 +18930,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19002,11 +18947,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19019,11 +18964,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19036,11 +18981,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19053,11 +18998,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19070,11 +19015,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19087,11 +19032,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19104,11 +19049,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19121,11 +19066,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19138,11 +19083,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19155,11 +19100,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19172,11 +19117,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19189,11 +19134,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19206,11 +19151,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19223,11 +19168,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19240,11 +19185,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19257,11 +19202,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19274,11 +19219,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19291,11 +19236,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19308,11 +19253,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19325,11 +19270,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19342,11 +19287,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19359,11 +19304,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19376,11 +19321,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19393,11 +19338,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19410,11 +19355,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19427,11 +19372,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19444,11 +19389,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19461,11 +19406,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19478,28 +19423,28 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-        },                 
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:wolf_armor",
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19512,46 +19457,45 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-        
-          },
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:vault",
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
-          },
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:wind_charge",
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19564,11 +19508,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19581,11 +19525,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19598,11 +19542,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19615,11 +19559,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19632,11 +19576,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19649,11 +19593,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19666,11 +19610,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19683,11 +19627,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19700,11 +19644,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19717,29 +19661,28 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             }
           ]
         },
-        
         {
           "type": "minecraft:item",
           "name": "minecraft:field_masoned_banner_pattern",
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19752,11 +19695,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19769,11 +19712,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19786,11 +19729,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19803,11 +19746,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19820,11 +19763,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19837,11 +19780,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19854,11 +19797,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19871,11 +19814,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19888,11 +19831,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19905,11 +19848,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19922,11 +19865,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19939,11 +19882,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19956,11 +19899,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19973,11 +19916,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -19990,11 +19933,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20007,11 +19950,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20024,11 +19967,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20041,11 +19984,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20058,11 +20001,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20075,11 +20018,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20092,11 +20035,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20109,11 +20052,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20126,11 +20069,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20143,11 +20086,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20160,11 +20103,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20177,11 +20120,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20194,11 +20137,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20211,11 +20154,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20228,11 +20171,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20245,11 +20188,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20262,11 +20205,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20279,11 +20222,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20296,11 +20239,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20313,11 +20256,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20330,11 +20273,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20347,11 +20290,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20364,11 +20307,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20381,11 +20324,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20398,11 +20341,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20415,11 +20358,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20432,11 +20375,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20449,11 +20392,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20466,11 +20409,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20483,11 +20426,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20500,11 +20443,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20517,11 +20460,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20534,11 +20477,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20551,11 +20494,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20568,11 +20511,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20585,11 +20528,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20602,11 +20545,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20619,11 +20562,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20636,11 +20579,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20653,11 +20596,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20670,11 +20613,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20687,11 +20630,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20704,11 +20647,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20721,11 +20664,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20738,11 +20681,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20755,11 +20698,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20772,11 +20715,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20789,11 +20732,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20806,11 +20749,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20823,11 +20766,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20840,11 +20783,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20857,11 +20800,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20874,11 +20817,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20891,11 +20834,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20908,11 +20851,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20925,11 +20868,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20942,11 +20885,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20959,11 +20902,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20976,11 +20919,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -20993,11 +20936,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21010,11 +20953,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21027,11 +20970,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21044,11 +20987,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21061,11 +21004,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21078,11 +21021,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21095,11 +21038,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21112,11 +21055,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21129,11 +21072,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21146,11 +21089,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21163,11 +21106,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21180,11 +21123,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21197,11 +21140,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21214,11 +21157,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21231,11 +21174,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21248,11 +21191,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21265,11 +21208,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21282,11 +21225,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21299,11 +21242,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21316,11 +21259,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21333,11 +21276,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21350,11 +21293,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21367,11 +21310,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21384,11 +21327,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21401,11 +21344,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21418,11 +21361,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21435,11 +21378,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21452,11 +21395,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21469,11 +21412,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21486,11 +21429,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21503,11 +21446,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21520,11 +21463,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21537,11 +21480,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21554,11 +21497,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21571,11 +21514,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21588,11 +21531,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21605,11 +21548,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21622,11 +21565,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21639,11 +21582,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21656,11 +21599,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21673,11 +21616,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21690,11 +21633,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21707,11 +21650,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21724,11 +21667,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21741,11 +21684,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21758,11 +21701,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21775,11 +21718,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21792,11 +21735,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21809,11 +21752,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21826,11 +21769,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21843,11 +21786,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21860,11 +21803,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21877,11 +21820,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21894,11 +21837,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21911,11 +21854,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21928,11 +21871,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21945,11 +21888,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21962,11 +21905,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21979,11 +21922,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -21996,11 +21939,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -22013,11 +21956,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -22030,11 +21973,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -22047,11 +21990,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -22059,243 +22002,363 @@
           ]
         },
         {
-    "type": "minecraft:item",
-    "name": "minecraft:copper_nautilus_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
+          "type": "minecraft:item",
+          "name": "minecraft:copper_nautilus_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nautilus_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_nautilus_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_nautilus_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_nautilus_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_spear",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_dandelion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_cinnabar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_cinnabar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_cinnabar_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_cinnabar_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_cinnabar_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cinnabar_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_sulfur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_sulfur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_sulfur_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_sulfur_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_sulfur_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potent_sulfur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_spike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_bounce"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_cube_bucket"
         }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:iron_nautilus_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:golden_nautilus_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:diamond_nautilus_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:netherite_nautilus_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:netherite_horse_armor",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:wooden_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:stone_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:copper_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:iron_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:golden_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:diamond_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:netherite_spear",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:golden_dandelion",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  }
       ]
     }
   ]

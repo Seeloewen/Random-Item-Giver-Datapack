@@ -1,12 +1,12 @@
 {
-    "pools": [
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:command_block",
-                    "functions": [
+          "type": "item",
+          "name": "minecraft:command_block",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -18,12 +18,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:chain_command_block",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chain_command_block",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -35,12 +35,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:repeating_command_block",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:repeating_command_block",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -52,12 +52,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:command_block_minecart",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:command_block_minecart",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -69,9 +69,9 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                }
-            ]
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

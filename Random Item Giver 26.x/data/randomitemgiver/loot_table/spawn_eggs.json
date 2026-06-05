@@ -1,12 +1,12 @@
 {
-    "pools": [
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:bee_spawn_egg",
-                    "functions": [
+          "type": "item",
+          "name": "minecraft:bee_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -18,12 +18,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:blaze_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:blaze_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -35,12 +35,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:cave_spider_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cave_spider_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -52,12 +52,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:creeper_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:creeper_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -69,12 +69,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:dolphin_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dolphin_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -86,12 +86,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:drowned_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:drowned_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -103,12 +103,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:elder_guardian_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:elder_guardian_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -120,12 +120,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:ender_dragon_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ender_dragon_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -137,12 +137,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:enderman_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:enderman_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -154,12 +154,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:endermite_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:endermite_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -171,12 +171,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:evoker_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:evoker_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -188,12 +188,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:ghast_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ghast_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -205,12 +205,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:goat_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:goat_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -222,12 +222,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:guardian_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:guardian_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -239,12 +239,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:hoglin_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:hoglin_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -256,12 +256,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:husk_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:husk_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -273,12 +273,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:iron_golem_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_golem_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -290,12 +290,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:llama_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:llama_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -307,12 +307,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:magma_cube_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:magma_cube_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -324,12 +324,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:panda_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:panda_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -341,12 +341,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:phantom_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:phantom_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -358,12 +358,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:piglin_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:piglin_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -375,12 +375,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:piglin_brute_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:piglin_brute_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -392,12 +392,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:pillager_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:pillager_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -409,12 +409,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:polar_bear_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:polar_bear_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -426,12 +426,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:ravager_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ravager_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -443,12 +443,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:shulker_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:shulker_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -460,12 +460,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:silverfish_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:silverfish_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -477,12 +477,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:skeleton_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skeleton_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -494,12 +494,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:slime_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:slime_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -511,12 +511,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:spider_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:spider_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -528,12 +528,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:stray_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stray_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -545,12 +545,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:trader_llama_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:trader_llama_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -562,12 +562,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:vex_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:vex_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -579,12 +579,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:vindicator_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:vindicator_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -596,12 +596,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:warden_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:warden_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -613,12 +613,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:witch_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:witch_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -630,12 +630,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:wither_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wither_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -647,12 +647,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:wither_skeleton_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wither_skeleton_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -664,12 +664,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:wolf_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wolf_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -681,12 +681,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:zoglin_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:zoglin_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -698,12 +698,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:zombie_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:zombie_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -715,12 +715,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:zombie_villager_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:zombie_villager_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -732,12 +732,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:zombified_piglin_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:zombified_piglin_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -749,12 +749,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:allay_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:allay_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -766,12 +766,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:axolotl_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:axolotl_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -783,12 +783,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:bat_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bat_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -800,12 +800,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:camel_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:camel_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -817,12 +817,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:cat_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cat_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -834,12 +834,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:chicken_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chicken_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -851,12 +851,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:cod_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cod_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -868,12 +868,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:cow_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cow_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -885,12 +885,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:donkey_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:donkey_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -902,12 +902,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:fox_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:fox_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -919,12 +919,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:frog_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:frog_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -936,12 +936,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:glow_squid_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glow_squid_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -953,12 +953,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:horse_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horse_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -970,12 +970,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:mooshroom_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:mooshroom_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -987,12 +987,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:mule_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:mule_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1004,12 +1004,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:ocelot_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ocelot_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1021,12 +1021,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:parrot_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:parrot_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1038,12 +1038,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:pig_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:pig_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1055,12 +1055,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:pufferfish_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:pufferfish_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1072,12 +1072,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:rabbit_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rabbit_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1089,12 +1089,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:salmon_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:salmon_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1106,12 +1106,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:sheep_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:sheep_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1123,12 +1123,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:skeleton_horse_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skeleton_horse_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1140,12 +1140,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:sniffer_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:sniffer_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1157,12 +1157,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:snow_golem_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:snow_golem_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1174,12 +1174,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:squid_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:squid_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1191,12 +1191,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:strider_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:strider_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1208,12 +1208,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:tadpole_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:tadpole_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1225,12 +1225,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:tropical_fish_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:tropical_fish_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1242,12 +1242,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:turtle_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:turtle_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1259,12 +1259,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:villager_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:villager_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1276,12 +1276,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:wandering_trader_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wandering_trader_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1293,12 +1293,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:zombie_horse_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:zombie_horse_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1310,12 +1310,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:breeze_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:breeze_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1327,12 +1327,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:armadillo_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:armadillo_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1344,12 +1344,12 @@
                 "score": "itemAmount"
               }
             }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:bogged_spawn_egg",
-                    "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bogged_spawn_egg",
+          "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
@@ -1361,7 +1361,7 @@
                 "score": "itemAmount"
               }
             }
-                    ]
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1369,11 +1369,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -1386,11 +1386,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -1403,11 +1403,11 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
@@ -1415,73 +1415,77 @@
           ]
         },
         {
-    "type": "minecraft:item",
-    "name": "minecraft:nautilus_spawn_egg",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:zombie_nautilus_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:parched_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:camel_husk_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sulfur_cube_spawn_egg"
         }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:zombie_nautilus_spawn_egg",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:parched_spawn_egg",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  },
-  {
-    "type": "minecraft:item",
-    "name": "minecraft:camel_husk_spawn_egg",
-    "functions": [
-      {
-        "function": "minecraft:set_count",
-        "count": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "rig"
-          },
-          "score": "itemAmount"
-        }
-      }
-    ]
-  }
       ]
     }
   ]

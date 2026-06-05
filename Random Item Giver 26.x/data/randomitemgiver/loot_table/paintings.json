@@ -1,657 +1,657 @@
 {
-    "pools": [
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:kebab"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:aztec"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:alban"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:aztec2"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:bomb"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:plant"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:wasteland"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:wanderer"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:graham"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:pool"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:courbet"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:sea"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:sunset"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:creebet"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:match"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:bust"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:stage"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:void"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:skull_and_roses"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:wither"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:fighters"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:skeleton"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:donkey_kong"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:pointer"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:painting",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_count",
-                            "count": {
-                                "type": "minecraft:score",
-                                "target": {
-                                    "type": "minecraft:fixed",
-                                    "name": "rig"
-                                },
-                                "score": "itemAmount"
-                            }
-                        },
-                        {
-                        "function": "minecraft:set_components",
-                        "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
+                "score": "itemAmount"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
                   "variant": "minecraft:burning_skull"
-                          }
-                        }
-                        }
-                    ]
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -659,25 +659,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:meditative"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:meditative"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -685,25 +685,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:prairie_ride"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:prairie_ride"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -711,25 +711,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:baroque"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:baroque"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -737,25 +737,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:humble"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:humble"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -763,25 +763,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:unpacked"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:unpacked"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -789,25 +789,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:bouquet"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:bouquet"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -815,25 +815,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:cavebird"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:cavebird"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -841,25 +841,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:cotan"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:cotan"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -867,25 +867,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:endboss"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:endboss"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -893,25 +893,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:fern"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:fern"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -919,25 +919,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:owlemons"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:owlemons"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -945,25 +945,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:sunflowers"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:sunflowers"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -971,25 +971,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:tides"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:tides"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -997,25 +997,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:backyard"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:backyard"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1023,25 +1023,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:pond"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:pond"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1049,25 +1049,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:changing"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:changing"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1075,25 +1075,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:finding"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:finding"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1101,25 +1101,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:lowmist"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:lowmist"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1127,25 +1127,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:passage"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:passage"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1153,25 +1153,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-"minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:orb"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:orb"
+                }
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -1179,25 +1179,25 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-                "count": {
-                  "type": "minecraft:score",
-                  "target": {
-                    "type": "minecraft:fixed",
-                    "name": "rig"
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
                 },
                 "score": "itemAmount"
               }
             },
-                        {
-                            "function": "set_components",
-                            "components": {
-                          "minecraft:entity_data": {
-                            "id": "minecraft:painting",
-                            "variant": "minecraft:dennis"
-                          }
-                           }
-                        }
-                    ]
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:painting",
+                  "variant": "minecraft:dennis"
+                }
+              }
+            }
+          ]
         }
       ]
     }
