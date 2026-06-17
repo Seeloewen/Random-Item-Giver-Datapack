@@ -8,6 +8,12 @@
 
 ======= 26.x =========
 
+Version 1.6.1 for Minecraft 26.2 (18.06.2026)
++ Added new items from 26.2
+* Updated datapack logo
+* Updated to 26.2
+* Fixed acacia boat appearing in smithing template loot table
+
 Version 1.6.0 for Minecraft 26.1 (27.03.2026)
 + Added new golden dandelion item from 26.1
 * Fixed dialogs sometimes not opening for the correct player
