@@ -21,3 +21,5 @@ Snapshots of older versions are not listed, but there's generally only one versi
 | 1.21.7 - 1.21.8  | 1.5.5              |
 | 1.21.9 - 1.21.10 | 1.5.6-Beta1        |
 | 1.21.11          | 1.5.6              |
+| 26.1             | 1.6.0              |
+| 26.2             | 1.6.1              |
