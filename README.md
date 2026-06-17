@@ -26,7 +26,7 @@ There are a bunch of customization options to personalize your experience! A few
 Since the datapack pulls its items from loot tables, you are free to add your own custom items to the datapack. This can be both items with specific nbt data or even modded items!
 Simply add an entry to the loot table that your item corresponds, with the correct id and prefix. To assist with adding items to the Random Item Giver, I have provided several tools.
 * The Seeloewen ItemDumper can extract a list of all registered item ids from the game: https://www.curseforge.com/minecraft/mc-mods/seeloewen-itemdumper
-* The Random Item Giver Legacy can be used to configure and add items to the datapack without needing to edit the loot table directly: https://github.com/Seeloewen/Random-Item-Giver-Updater-Legacy/releases
+* The Random Item Giver can be used to configure and add items to the datapack without needing to edit the loot table directly: https://github.com/Seeloewen/Random-Item-Giver-Updater
 
 This could be an example of a modded item:\
 <img width="399" height="403" alt="image" src="https://github.com/user-attachments/assets/1bf6d5d5-c959-4908-9306-ad87d821904c" />
@@ -42,7 +42,7 @@ This could be an example of a modded item:\
 **A**: Installing the datapack on a server is actually quite simple. Open up the server directory > 'world' > 'datapacks' and paste the datapack zip file in there.
 
 **Q**: Which items are you able to get?\
-**A**: Every single one in the game as of 26.1.
+**A**: Every single one in the game as of 26.2.
 
 **Q**: How can I change the item timer?\
 **A**: You can change the rate at which items are given to you in the settings menu of the datapack.
