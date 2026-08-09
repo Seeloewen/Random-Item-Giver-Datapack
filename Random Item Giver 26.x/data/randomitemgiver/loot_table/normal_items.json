@@ -22241,123 +22241,513 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar"
+          "name": "minecraft:cinnabar",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_stairs"
+          "name": "minecraft:cinnabar_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_slab"
+          "name": "minecraft:cinnabar_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_wall"
+          "name": "minecraft:cinnabar_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chiseled_cinnabar"
+          "name": "minecraft:chiseled_cinnabar",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_cinnabar"
+          "name": "minecraft:polished_cinnabar",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_cinnabar_stairs"
+          "name": "minecraft:polished_cinnabar_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_cinnabar_slab"
+          "name": "minecraft:polished_cinnabar_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_cinnabar_wall"
+          "name": "minecraft:polished_cinnabar_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_bricks"
+          "name": "minecraft:cinnabar_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_brick_stairs"
+          "name": "minecraft:cinnabar_brick_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_brick_slab"
+          "name": "minecraft:cinnabar_brick_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cinnabar_brick_wall"
+          "name": "minecraft:cinnabar_brick_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur"
+          "name": "minecraft:sulfur",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_stairs"
+          "name": "minecraft:sulfur_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_slab"
+          "name": "minecraft:sulfur_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_wall"
+          "name": "minecraft:sulfur_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chiseled_sulfur"
+          "name": "minecraft:chiseled_sulfur",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_sulfur"
+          "name": "minecraft:polished_sulfur",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_sulfur_stairs"
+          "name": "minecraft:polished_sulfur_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_sulfur_slab"
+          "name": "minecraft:polished_sulfur_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:polished_sulfur_wall"
+          "name": "minecraft:polished_sulfur_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_bricks"
+          "name": "minecraft:sulfur_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_brick_stairs"
+          "name": "minecraft:sulfur_brick_stairs",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_brick_slab"
+          "name": "minecraft:sulfur_brick_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_brick_wall"
+          "name": "minecraft:sulfur_brick_wall",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:potent_sulfur"
+          "name": "minecraft:potent_sulfur",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_spike"
+          "name": "minecraft:sulfur_spike",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:music_disc_bounce"
+          "name": "minecraft:music_disc_bounce",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sulfur_cube_bucket"
+          "name": "minecraft:sulfur_cube_bucket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "rig"
+                },
+                "score": "itemAmount"
+              }
+            }
+          ]
         }
       ]
     }
