@@ -8,6 +8,10 @@
 
 ======= 26.x =========
 
+Version 1.6.2 for Minecraft 26.3 (01.10.2026)
++ Added new items from 26.3
+* Fixed some items not being affected by amount setting
+
 Version 1.6.1 for Minecraft 26.2 (18.06.2026)
 + Added new items from 26.2
 * Updated datapack logo

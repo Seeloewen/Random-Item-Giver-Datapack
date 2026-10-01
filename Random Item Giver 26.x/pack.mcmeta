@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 107,
-    "min_format": [107, 1],
-    "max_format": [107, 1],
-    "description": "§6Random Item Giver 1.6.1 §7by §cLouis9 §8[§b26.2§8]"
+    "pack_format": 121,
+    "min_format": [121, 0],
+    "max_format": [121, 0],
+    "description": "§6Random Item Giver 1.6.2 §7by §cLouis9 §8[§b26.3§8]"
   }
 }
