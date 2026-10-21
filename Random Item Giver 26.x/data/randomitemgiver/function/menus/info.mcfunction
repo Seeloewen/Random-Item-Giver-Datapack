@@ -6,7 +6,7 @@ tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 tellraw @s {text: '«═════════════════════════»','bold':true,color: '#CE9178'}
 tellraw @s [{text: 'Random Item Giver','bold':true,color: 'gold'},{text: ' - ','bold':true,color: 'gray'},{text: 'About','bold':true,color: 'yellow'}]
 tellraw @s {text: ' '}
-tellraw @s {text: 'Version 1.6.2',color: '#4CEFEF'}
+tellraw @s {text: 'Version 1.6.3',color: '#4CEFEF'}
 tellraw @s {text: 'For Minecraft 26.3',color: '#4CEFEF'}
 tellraw @s {text: ' '}
 tellraw @s {text: 'Made by Louis9',color: 'dark_aqua'}
