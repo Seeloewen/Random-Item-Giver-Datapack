@@ -2,74 +2,36 @@
   "pools": [
     {
       "rolls": 1,
+      "modifier":
+      {
+        "type": "set_count",
+        "count": 
+        {
+          "type": "minecraft:score",
+          "target": 
+          {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      },
       "entries": [
         {
           "type": "item",
-          "name": "minecraft:command_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:command_block"
         },
         {
           "type": "item",
-          "name": "minecraft:chain_command_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:chain_command_block"
         },
         {
           "type": "item",
-          "name": "minecraft:repeating_command_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:repeating_command_block"
         },
         {
           "type": "item",
-          "name": "minecraft:command_block_minecart",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:command_block_minecart"
         }
       ]
     }

@@ -2,187 +2,113 @@
   "pools": [
     {
       "rolls": 1,
+      "modifier":
+      {
+        "type": "set_count",
+        "count": 
+        {
+          "type": "minecraft:score",
+          "target": 
+          {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      },
       "entries": [
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:ponder_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:sing_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:seek_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:feel_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:admire_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:call_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:yearn_goat_horn"
               }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
             }
           ]
         },
         {
           "type": "item",
           "name": "minecraft:goat_horn",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:instrument": "minecraft:dream_goat_horn"
-              }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
               }
             }
           ]

@@ -2,329 +2,96 @@
   "pools": [
     {
       "rolls": 1,
+      "modifier":
+      {
+        "type": "set_count",
+        "count": 
+        {
+          "type": "minecraft:score",
+          "target": 
+          {
+            "type": "minecraft:fixed",
+            "name": "rig"
+          },
+          "score": "itemAmount"
+        }
+      },
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:netherite_upgrade_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:netherite_upgrade_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sentry_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:sentry_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:dune_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:dune_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:coast_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:coast_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:wild_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:wild_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:ward_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:ward_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:eye_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:eye_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:vex_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:vex_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:tide_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:tide_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:snout_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:snout_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:rib_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:rib_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:spire_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:spire_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:wayfinder_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:wayfinder_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:raiser_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:raiser_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:shaper_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:shaper_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:host_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:host_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:silence_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:silence_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bolt_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:bolt_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:flow_armor_trim_smithing_template",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "rig"
-                },
-                "score": "itemAmount"
-              }
-            }
-          ]
+          "name": "minecraft:flow_armor_trim_smithing_template"
         }
       ]
     }
